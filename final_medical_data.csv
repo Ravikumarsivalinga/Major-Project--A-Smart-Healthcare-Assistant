@@ -1,0 +1,2003 @@
+Name,Age,Gender,Doctor,Appointment time,Date of admission,Medical condition
+Kathy Campbell,51,Female,Dr. Silva,5:11 AM,07-11-2023,migraine
+Lisa King,55,Male,Dr. Chang,9:58 PM,12-08-2024,heart disease
+Victoria Patrick,7,Male,Dr. Green,5:19 PM,04-08-2024,flu
+Emily Blair,35,Male,Dr. Richard,5:35 AM,27-10-2023,gastroesophageal reflux disease (gerd)
+Melinda Kennedy,67,Female,Dr. Bowers,9:35 PM,05-08-2024,flu
+Jeffrey Carr,64,Male,Dr. Dixon,4:36 PM,19-07-2024,gastroesophageal reflux disease (gerd)
+Tracy Woods,53,Male,Dr. Woods,2:07 AM,21-10-2023,kidney stones
+Debbie Trujillo,40,Male,Dr. Sullivan,11:08 AM,02-08-2024,chronic fatigue syndrome
+Alexis Cortez,63,Female,Dr. Green,12:11 PM,14-07-2024,irritable bowel syndrome (ibs)
+Roger Barnett,47,Male,Dr. Silva,2:13 AM,09-08-2024,obesity
+Johnny Dillon,76,Female,Dr. Sullivan,6:49 PM,04-02-2024,eczema
+Frederick Harrell,29,Male,Dr. Dixon,5:24 PM,15-03-2024,flu
+Keith Allen,66,Female,Dr. Chang,1:22 PM,05-02-2024,flu
+Regina West,19,Female,Dr. Turner,2:36 AM,15-11-2023,back pain
+Francisco Romero,38,Male,Dr. Fisher,9:58 AM,11-01-2024,infection
+Ashley Arnold,19,Female,Dr. Richard,10:11 PM,19-03-2024,hypothyroidism
+Kimberly Olsen,14,Female,Dr. Chang,2:08 AM,06-09-2024,depression
+Tracey Morrison,34,Male,Dr. Turner,7:44 PM,18-09-2023,kidney stones
+Jill Carlson,70,Male,Dr. Dixon,9:15 AM,02-04-2024,headache
+Kenneth Roberts,79,Female,Dr. Sullivan,9:14 AM,04-07-2024,asthma
+Cody Salazar,20,Male,Dr. Dixon,5:17 AM,10-06-2024,migraine
+Karen Davis,41,Female,Dr. Turner,2:45 AM,22-11-2023,stroke
+Sherri Mclean,14,Male,Dr. Richard,5:50 AM,07-01-2024,anxiety
+Stephanie Leblanc,11,Female,Dr. Sullivan,10:59 AM,15-01-2024,psoriasis
+Jeanne Thornton,44,Male,Dr. Sullivan,11:21 AM,31-05-2024,psoriasis
+Robert Atkinson,62,Female,Dr. Green,10:10 PM,25-04-2024,hypertension
+Leslie Herring,73,Male,Dr. Sullivan,1:54 PM,22-07-2024,anemia
+Joanne Keller,14,Female,Dr. Sullivan,7:14 AM,19-05-2024,allergy
+Sydney Leon MD,47,Male,Dr. Sullivan,12:04 PM,10-12-2023,asthma
+Katelyn Mccoy,57,Female,Dr. Bowers,8:01 AM,13-11-2023,allergy
+Dana Dennis,42,Male,Dr. Green,3:33 AM,05-02-2024,cold
+Daniel Norton,80,Male,Dr. Richard,11:47 AM,22-03-2024,irritable bowel syndrome (ibs)
+Robert Garcia,28,Female,Dr. Bowers,11:08 AM,25-04-2024,stroke
+Michael Williams,72,Female,Dr. Silva,2:02 PM,01-01-2024,eczema
+Susan Ferguson,63,Male,Dr. Woods,5:18 PM,22-12-2023,hypertension
+Alyssa Reid,58,Male,Dr. Dixon,11:12 AM,19-10-2023,parkinson’s disease
+Laura Myers,68,Male,Dr. Bowers,4:57 AM,07-08-2024,pneumonia
+William Johnson,35,Male,Dr. Silva,9:54 AM,07-02-2024,hypothyroidism
+Tyler Lopez,9,Male,Dr. Richard,2:42 AM,29-03-2024,arthritis
+Daniel Owen,72,Male,Dr. Woods,4:37 AM,30-06-2024,allergy
+Allison Coleman,3,Female,Dr. Chang,10:40 AM,18-05-2024,flu
+David Walker,13,Male,Dr. Sullivan,4:09 PM,05-08-2024,depression
+Hayley White,53,Male,Dr. Richard,2:32 PM,20-01-2024,heart disease
+Amanda Garcia,2,Female,Dr. Bowers,6:58 PM,10-10-2023,pneumonia
+Christina Howard PhD,80,Female,Dr. Fisher,7:06 PM,14-06-2024,depression
+Tamara Jackson,65,Female,Dr. Chang,11:45 AM,27-07-2024,pneumonia
+Tracy Brown,44,Female,Dr. Fisher,12:53 AM,22-08-2024,skin rash
+Sarah Peterson,33,Male,Dr. Richard,10:01 PM,20-12-2023,chronic fatigue syndrome
+Kyle Ramos,43,Male,Dr. Woods,8:04 PM,01-02-2024,eczema
+John Ortiz,10,Female,Dr. Dixon,10:57 AM,28-11-2023,chronic fatigue syndrome
+Katie Collins,26,Female,Dr. Green,7:58 PM,26-04-2024,anemia
+Ryan King,74,Female,Dr. Sullivan,7:45 PM,31-05-2024,osteoporosis
+Alexandria Harmon,30,Female,Dr. Green,8:23 AM,23-02-2024,asthma
+Angel Campbell,32,Female,Dr. Silva,9:23 PM,29-05-2024,stroke
+Troy Bell,20,Female,Dr. Chang,1:27 PM,26-06-2024,cold
+Ian Arroyo,71,Female,Dr. Green,1:55 PM,21-01-2024,anxiety
+Lisa Baldwin,59,Male,Dr. Bowers,6:29 PM,14-10-2023,eczema
+Jason Curtis,13,Male,Dr. Sullivan,10:50 PM,09-09-2023,kidney stones
+Corey Cook,12,Male,Dr. Dixon,5:41 PM,09-05-2024,headache
+Mark Gray,42,Male,Dr. Richard,11:27 AM,12-03-2024,diabetes
+Laura Perry,67,Male,Dr. Chang,5:32 PM,04-06-2024,stroke
+Michael Barnes,64,Female,Dr. Turner,3:43 AM,22-06-2024,allergy
+Amber Griffin,15,Female,Dr. Dixon,3:29 PM,01-08-2024,eczema
+Christopher Rose,40,Male,Dr. Bowers,3:54 PM,18-09-2023,cold
+Mr. Pedro Henson,72,Female,Dr. Green,9:08 PM,12-12-2023,insomnia
+Eric Owens PhD,39,Male,Dr. Fisher,7:53 PM,07-10-2023,eczema
+Robin Lopez,17,Male,Dr. Turner,5:19 PM,31-07-2024,chronic fatigue syndrome
+Miss Angela Swanson DVM,72,Female,Dr. Richard,11:00 AM,18-05-2024,asthma
+Michael Stewart,44,Male,Dr. Fisher,3:23 AM,31-12-2023,arthritis
+Mitchell Smith,71,Male,Dr. Richard,11:24 AM,27-05-2024,infection
+Kelsey Davis,28,Female,Dr. Fisher,3:43 AM,22-10-2023,irritable bowel syndrome (ibs)
+Matthew Russo,79,Female,Dr. Silva,10:52 AM,15-04-2024,arthritis
+William Garcia,72,Male,Dr. Richard,5:19 AM,15-12-2023,headache
+Jennifer Miller,77,Male,Dr. Chang,9:18 AM,24-02-2024,anemia
+Jesse Sparks,38,Male,Dr. Sullivan,9:18 PM,29-09-2023,stroke
+Brandi Meyer,58,Female,Dr. Richard,7:30 PM,16-12-2023,diabetes
+Hannah Wiggins,13,Female,Dr. Green,5:40 PM,21-07-2024,irritable bowel syndrome (ibs)
+Albert Williams,78,Female,Dr. Green,10:15 AM,01-07-2024,gastroesophageal reflux disease (gerd)
+Kristin Potts,51,Male,Dr. Turner,2:30 AM,20-10-2023,gastroesophageal reflux disease (gerd)
+Susan Williams,42,Male,Dr. Dixon,3:29 AM,07-06-2024,insomnia
+Meredith Rios,75,Female,Dr. Dixon,2:02 AM,13-06-2024,chronic fatigue syndrome
+Stephanie Bowman,32,Male,Dr. Silva,11:17 AM,19-04-2024,insomnia
+Joshua Clark,39,Male,Dr. Sullivan,6:56 AM,02-02-2024,chronic fatigue syndrome
+Alexa Hernandez,25,Female,Dr. Woods,12:26 AM,29-11-2023,insomnia
+Richard Higgins,26,Female,Dr. Sullivan,7:46 PM,03-04-2024,cold
+Marc Williams,25,Female,Dr. Turner,12:04 AM,01-02-2024,skin rash
+William Roberts,6,Male,Dr. Silva,5:00 PM,02-09-2024,cold
+Joshua Carter,80,Male,Dr. Woods,1:05 AM,29-11-2023,back pain
+David Williams,35,Male,Dr. Richard,11:11 AM,07-11-2023,hypertension
+Joseph Jones,62,Male,Dr. Green,1:44 PM,03-08-2024,hypothyroidism
+Gary Perry,10,Female,Dr. Fisher,5:40 PM,04-03-2024,depression
+Terry Wells,13,Male,Dr. Green,10:01 AM,06-10-2023,infection
+Vanessa Cooper,18,Female,Dr. Green,2:54 PM,05-04-2024,irritable bowel syndrome (ibs)
+Michael Simmons,21,Female,Dr. Chang,6:42 AM,02-02-2024,anxiety
+Nicholas Kline,6,Male,Dr. Fisher,11:11 AM,25-06-2024,anxiety
+Lori Bennett,12,Female,Dr. Chang,3:58 PM,09-07-2024,osteoporosis
+Margaret Jones,71,Female,Dr. Richard,1:28 AM,26-10-2023,asthma
+Paul Brown,52,Male,Dr. Silva,10:38 PM,22-03-2024,hypothyroidism
+James Stone,69,Female,Dr. Woods,12:32 PM,18-11-2023,obesity
+John Richards,37,Female,Dr. Chang,12:10 AM,28-03-2024,flu
+Jenny Richardson,68,Female,Dr. Silva,12:31 AM,01-08-2024,irritable bowel syndrome (ibs)
+Debbie Waters MD,32,Male,Dr. Silva,8:36 AM,22-10-2023,arthritis
+Austin Boyer,29,Female,Dr. Bowers,6:58 AM,29-02-2024,gastroesophageal reflux disease (gerd)
+Stephanie Hayes,77,Male,Dr. Turner,1:39 PM,29-11-2023,diabetes
+Barbara Sanders,55,Male,Dr. Turner,4:43 AM,15-11-2023,anemia
+Andrew Gould,76,Male,Dr. Bowers,9:42 AM,18-06-2024,back pain
+Charles Gonzalez,37,Female,Dr. Richard,9:57 PM,23-06-2024,infection
+Joshua Hernandez,59,Female,Dr. Silva,11:37 PM,08-01-2024,stroke
+Victoria Hernandez MD,65,Male,Dr. Woods,6:31 PM,08-08-2024,kidney stones
+Sherry Simpson,47,Female,Dr. Sullivan,2:23 AM,21-06-2024,irritable bowel syndrome (ibs)
+Erica Jimenez,12,Female,Dr. Woods,9:11 PM,09-11-2023,osteoporosis
+Mr. Dakota Lynch II,43,Female,Dr. Green,12:23 PM,28-04-2024,chronic fatigue syndrome
+Victor Nolan,80,Female,Dr. Fisher,11:51 PM,10-09-2023,headache
+Amanda Hernandez,16,Male,Dr. Silva,2:24 AM,05-06-2024,hypothyroidism
+Richard Kirby,64,Male,Dr. Dixon,2:19 PM,12-06-2024,flu
+Michelle Roman,77,Female,Dr. Woods,2:13 AM,03-01-2024,allergy
+Bradley Melton,44,Male,Dr. Dixon,7:45 AM,25-02-2024,eczema
+Danny Williams,26,Male,Dr. Bowers,7:55 AM,17-02-2024,anemia
+Ryan Rivera,33,Male,Dr. Silva,1:07 PM,01-08-2024,hypothyroidism
+Charles Douglas,4,Male,Dr. Woods,7:39 AM,04-08-2024,psoriasis
+Kathy Santana,36,Female,Dr. Richard,9:41 AM,26-09-2023,headache
+Laura Gregory,16,Male,Dr. Turner,5:42 AM,22-11-2023,anemia
+Norma Mooney,30,Male,Dr. Silva,5:22 AM,14-04-2024,cold
+Susan Harris,49,Female,Dr. Silva,4:37 AM,07-10-2023,stroke
+Linda Petersen,23,Female,Dr. Green,2:34 AM,05-08-2024,insomnia
+Dr. James Willis,44,Female,Dr. Bowers,11:52 AM,15-07-2024,anxiety
+Rebecca Sandoval,56,Male,Dr. Dixon,1:59 PM,19-03-2024,insomnia
+Christopher Hunter,9,Female,Dr. Woods,6:51 PM,08-08-2024,pneumonia
+Austin Heath,14,Female,Dr. Dixon,4:31 PM,17-11-2023,hypothyroidism
+Elizabeth Russell,20,Female,Dr. Chang,12:31 AM,03-09-2024,asthma
+Amy Davidson,30,Male,Dr. Sullivan,6:38 PM,22-07-2024,allergy
+Dustin Greer,7,Male,Dr. Silva,1:17 PM,21-06-2024,hypertension
+Andrew Butler,75,Female,Dr. Dixon,5:41 AM,07-12-2023,heart disease
+Scott Love DDS,70,Male,Dr. Woods,1:45 PM,05-03-2024,psoriasis
+William Jenkins,79,Male,Dr. Dixon,5:25 PM,12-07-2024,depression
+Jasmine Williams,11,Female,Dr. Turner,6:21 PM,16-07-2024,asthma
+Christian Johnson,5,Male,Dr. Turner,1:09 PM,02-06-2024,flu
+Lorraine Garcia,17,Female,Dr. Chang,8:20 AM,16-06-2024,asthma
+Hannah Reyes,26,Female,Dr. Silva,8:30 PM,06-03-2024,migraine
+Katherine Ibarra,79,Male,Dr. Dixon,2:32 PM,13-09-2023,flu
+Julie Chen,75,Female,Dr. Sullivan,5:18 AM,08-02-2024,osteoporosis
+Caleb Fleming,17,Male,Dr. Chang,3:50 AM,22-10-2023,heart disease
+Rachel Martinez,52,Female,Dr. Bowers,5:47 AM,11-08-2024,irritable bowel syndrome (ibs)
+Rebecca Stark,13,Male,Dr. Sullivan,7:59 AM,19-12-2023,arthritis
+Melanie Patrick,49,Female,Dr. Richard,5:42 PM,01-12-2023,gastroesophageal reflux disease (gerd)
+Rachel Lopez,16,Male,Dr. Chang,3:03 PM,16-08-2024,infection
+Jill Sherman,6,Male,Dr. Sullivan,6:10 AM,23-04-2024,cold
+Richard Jones,79,Male,Dr. Silva,11:18 PM,06-02-2024,flu
+Timothy Tucker,4,Female,Dr. Chang,9:58 AM,20-11-2023,flu
+Theresa Estrada,26,Male,Dr. Woods,2:03 AM,30-08-2024,eczema
+Cindy Davis,25,Male,Dr. Green,12:28 AM,05-09-2024,flu
+Stacy Chan,17,Female,Dr. Silva,1:13 PM,13-10-2023,diabetes
+Jennifer Torres,63,Male,Dr. Richard,4:05 PM,18-10-2023,arthritis
+Jeffery Knight,28,Male,Dr. Richard,11:59 AM,25-10-2023,hypertension
+Taylor Perry,9,Male,Dr. Richard,6:31 AM,06-09-2024,diabetes
+Raymond Navarro,4,Male,Dr. Dixon,8:35 AM,12-02-2024,anemia
+Jeremy Parks,71,Female,Dr. Turner,12:42 AM,22-08-2024,eczema
+Thomas Rivers,56,Male,Dr. Chang,3:33 PM,24-06-2024,hypertension
+Angela Jones,14,Female,Dr. Woods,5:31 PM,19-06-2024,infection
+Allen Bailey,35,Female,Dr. Richard,8:13 AM,15-06-2024,asthma
+William Fuentes,10,Male,Dr. Turner,1:23 AM,28-11-2023,back pain
+Steven Clark,30,Female,Dr. Green,10:45 PM,08-01-2024,eczema
+Michael Mays,11,Female,Dr. Dixon,5:12 PM,14-09-2023,back pain
+Adam Wood,40,Male,Dr. Woods,1:04 AM,24-10-2023,stroke
+Larry Villarreal,46,Male,Dr. Dixon,10:46 AM,27-01-2024,eczema
+Brian Cooper,57,Female,Dr. Dixon,4:49 AM,17-07-2024,diabetes
+Beverly Levy,25,Female,Dr. Green,6:40 AM,01-04-2024,kidney stones
+John Carter,9,Male,Dr. Bowers,4:38 PM,03-12-2023,headache
+Tina Fields,66,Female,Dr. Silva,3:31 PM,15-04-2024,allergy
+Willie Garcia,61,Male,Dr. Turner,3:49 PM,09-08-2024,infection
+Brooke Hurst,7,Male,Dr. Turner,7:31 PM,20-09-2023,eczema
+Regina Stewart,78,Female,Dr. Dixon,1:37 PM,07-02-2024,parkinson’s disease
+Paul Carter,14,Female,Dr. Sullivan,10:03 AM,11-08-2024,flu
+Angel Anderson,52,Female,Dr. Richard,7:35 AM,23-09-2023,diabetes
+Blake Jones,27,Male,Dr. Silva,11:14 AM,01-11-2023,flu
+Juan Yang,35,Male,Dr. Silva,6:48 AM,19-10-2023,back pain
+Jay Walsh,47,Male,Dr. Silva,10:59 PM,01-11-2023,anxiety
+Jeremy Wood,62,Female,Dr. Dixon,6:39 PM,03-06-2024,flu
+Amy Ortiz,74,Male,Dr. Chang,6:22 AM,08-10-2023,back pain
+Nicholas Flores,23,Male,Dr. Sullivan,3:36 PM,29-02-2024,arthritis
+Edward Ruiz,28,Female,Dr. Chang,3:39 AM,21-08-2024,heart disease
+Rebecca Hill,9,Male,Dr. Fisher,3:48 PM,29-01-2024,migraine
+Melissa Flynn,22,Female,Dr. Bowers,2:20 AM,01-12-2023,allergy
+James Saunders,22,Female,Dr. Turner,7:09 PM,07-05-2024,flu
+David Chavez,45,Male,Dr. Dixon,4:29 AM,23-08-2024,hypertension
+Brenda Ford,69,Female,Dr. Sullivan,4:46 AM,12-11-2023,infection
+Karen Harris,34,Female,Dr. Dixon,9:01 AM,04-06-2024,pneumonia
+Michael Montgomery,17,Male,Dr. Silva,12:08 AM,09-06-2024,anxiety
+Edwin Mack,78,Male,Dr. Green,1:08 AM,01-06-2024,irritable bowel syndrome (ibs)
+Kimberly Moore,58,Female,Dr. Fisher,2:45 AM,21-12-2023,allergy
+Kaitlin Gregory,24,Female,Dr. Woods,5:53 PM,22-07-2024,cold
+Crystal Gill,3,Male,Dr. Turner,2:07 AM,06-08-2024,osteoporosis
+William Martinez,62,Female,Dr. Turner,11:11 PM,10-10-2023,depression
+Amanda Scott,54,Male,Dr. Dixon,7:23 AM,05-08-2024,flu
+Lauren Foster,74,Female,Dr. Turner,2:51 AM,20-05-2024,cold
+David Campbell,67,Female,Dr. Chang,2:30 AM,01-06-2024,hypothyroidism
+Susan Larson,41,Male,Dr. Chang,12:32 AM,17-02-2024,infection
+Ricky Torres,47,Male,Dr. Fisher,3:57 PM,11-01-2024,skin rash
+Joseph Wright,51,Male,Dr. Woods,5:55 AM,13-06-2024,anemia
+Carla Perry,34,Female,Dr. Richard,5:30 PM,30-12-2023,anemia
+Joseph Berry,21,Male,Dr. Dixon,10:27 PM,18-05-2024,infection
+Kim Jenkins,73,Female,Dr. Sullivan,6:25 AM,08-01-2024,asthma
+Jennifer Osborne,3,Female,Dr. Sullivan,9:33 AM,16-04-2024,pneumonia
+Ebony Watson,60,Female,Dr. Sullivan,10:15 PM,08-04-2024,infection
+Brooke Terry,12,Male,Dr. Richard,1:07 PM,02-07-2024,stroke
+Kevin Taylor,44,Male,Dr. Bowers,8:02 AM,23-10-2023,infection
+Heather Kennedy,7,Male,Dr. Sullivan,11:29 AM,25-08-2024,back pain
+John Neal,71,Female,Dr. Fisher,9:31 PM,01-06-2024,anxiety
+Matthew Brown,37,Male,Dr. Dixon,6:11 PM,19-08-2024,kidney stones
+Patrick Williams,19,Female,Dr. Turner,1:30 PM,11-12-2023,chronic fatigue syndrome
+Allison Ruiz,32,Female,Dr. Richard,4:07 PM,21-11-2023,psoriasis
+Alexandra Rose,63,Female,Dr. Woods,5:27 AM,30-08-2024,parkinson’s disease
+Sean Parks,47,Male,Dr. Woods,2:14 AM,13-02-2024,heart disease
+Maureen Smith,80,Female,Dr. Dixon,10:59 PM,15-02-2024,diabetes
+Marc Key,38,Female,Dr. Sullivan,4:10 AM,02-09-2024,arthritis
+Melissa Acosta,47,Female,Dr. Dixon,11:22 PM,02-11-2023,cold
+Paul Roberts,77,Female,Dr. Silva,8:00 PM,27-04-2024,cold
+Joel Rivera,18,Male,Dr. Sullivan,5:47 PM,10-08-2024,depression
+Javier Prince,41,Female,Dr. Chang,4:07 PM,08-10-2023,parkinson’s disease
+Jermaine Fletcher,51,Female,Dr. Sullivan,8:28 PM,23-06-2024,arthritis
+Beverly Lozano,55,Male,Dr. Richard,1:58 PM,11-12-2023,obesity
+Richard Price,12,Male,Dr. Turner,7:19 PM,04-12-2023,arthritis
+Jean Robinson,2,Male,Dr. Silva,6:33 AM,31-12-2023,heart disease
+Todd Willis,78,Female,Dr. Fisher,11:05 PM,06-09-2024,irritable bowel syndrome (ibs)
+James Young,26,Female,Dr. Sullivan,12:20 PM,11-06-2024,obesity
+Cody Brown,44,Male,Dr. Silva,11:51 PM,24-06-2024,headache
+Carrie Bishop,22,Male,Dr. Dixon,12:04 PM,25-02-2024,osteoporosis
+Michele Hunt,32,Male,Dr. Dixon,8:41 AM,30-12-2023,irritable bowel syndrome (ibs)
+Shawn Gomez,30,Female,Dr. Turner,6:40 PM,15-02-2024,skin rash
+Mark Black,59,Male,Dr. Richard,8:18 AM,28-09-2023,pneumonia
+Tina Spears,50,Male,Dr. Turner,9:10 PM,12-07-2024,parkinson’s disease
+Lauren Henry,74,Male,Dr. Fisher,6:12 PM,09-05-2024,obesity
+Cindy Adams,55,Female,Dr. Green,2:33 AM,03-10-2023,pneumonia
+Christopher Smith,6,Male,Dr. Sullivan,10:29 AM,08-02-2024,skin rash
+Brenda Buchanan,53,Female,Dr. Green,2:07 PM,08-02-2024,back pain
+Tracy Sanders,74,Female,Dr. Chang,11:10 PM,26-12-2023,infection
+Jody Morgan,55,Male,Dr. Richard,1:21 PM,04-09-2024,kidney stones
+Stephen Norton,7,Male,Dr. Bowers,7:40 PM,18-07-2024,allergy
+Jesus Nguyen,23,Female,Dr. Turner,8:13 PM,19-09-2023,osteoporosis
+Andrew Wood,59,Female,Dr. Bowers,6:28 PM,15-07-2024,headache
+Joseph Lopez,10,Female,Dr. Silva,8:32 PM,12-02-2024,cold
+Michael Fitzgerald,35,Female,Dr. Richard,1:12 AM,18-10-2023,allergy
+Scott Scott,22,Female,Dr. Sullivan,7:18 PM,11-09-2023,infection
+Micheal Williams,59,Female,Dr. Richard,12:14 AM,22-10-2023,insomnia
+Andrea Murray,69,Male,Dr. Richard,3:20 AM,14-04-2024,asthma
+Amber Lamb,64,Male,Dr. Turner,6:50 PM,16-09-2023,headache
+Julia Wilson,73,Female,Dr. Dixon,1:51 PM,28-12-2023,back pain
+Brett Cannon,79,Male,Dr. Green,6:52 PM,26-09-2023,anxiety
+Thomas Alexander,2,Male,Dr. Fisher,3:42 AM,16-09-2023,flu
+Jeffery Fischer,6,Male,Dr. Turner,8:20 PM,04-02-2024,flu
+Amanda White,65,Male,Dr. Chang,11:21 PM,10-04-2024,back pain
+Carl Pitts DVM,43,Female,Dr. Bowers,9:41 AM,06-05-2024,psoriasis
+Jeffrey Hawkins,41,Male,Dr. Woods,12:45 PM,14-04-2024,depression
+Joshua Harris,61,Male,Dr. Richard,12:08 AM,01-07-2024,kidney stones
+Jeremy Jacobs,8,Female,Dr. Dixon,5:28 AM,03-11-2023,stroke
+Debbie Hall,55,Male,Dr. Chang,2:29 AM,16-03-2024,pneumonia
+Richard Garcia,26,Male,Dr. Fisher,6:40 PM,15-10-2023,parkinson’s disease
+Danielle Mitchell,72,Male,Dr. Richard,9:29 PM,10-07-2024,chronic fatigue syndrome
+Mary Harmon,12,Female,Dr. Richard,5:44 AM,01-08-2024,anemia
+Shannon Martinez,18,Male,Dr. Dixon,8:09 AM,14-10-2023,psoriasis
+Bailey Mclaughlin,3,Male,Dr. Bowers,12:37 AM,18-04-2024,skin rash
+Michael Warner,53,Male,Dr. Woods,7:17 AM,28-09-2023,arthritis
+Connie Decker,55,Male,Dr. Silva,5:06 AM,14-02-2024,anemia
+Joseph Leonard,42,Male,Dr. Dixon,1:21 PM,27-11-2023,asthma
+Mark Mitchell,2,Female,Dr. Chang,1:00 PM,14-12-2023,asthma
+Robert Tran,29,Male,Dr. Sullivan,5:06 AM,09-12-2023,arthritis
+Kevin Johnson,3,Female,Dr. Turner,3:26 AM,20-07-2024,pneumonia
+James Daugherty,2,Male,Dr. Silva,4:18 PM,08-07-2024,anxiety
+Angela Hubbard,69,Male,Dr. Sullivan,6:35 PM,09-09-2023,arthritis
+Patricia Hudson,80,Female,Dr. Dixon,3:05 PM,07-10-2023,gastroesophageal reflux disease (gerd)
+Cindy Oconnor,14,Male,Dr. Sullivan,1:55 AM,15-10-2023,eczema
+Olivia Gomez,26,Female,Dr. Green,12:31 PM,21-05-2024,parkinson’s disease
+Lori Lester,17,Female,Dr. Richard,6:34 PM,20-06-2024,hypertension
+Roy Fox,79,Male,Dr. Woods,4:25 AM,02-12-2023,gastroesophageal reflux disease (gerd)
+Jesus Smith,27,Female,Dr. Green,10:55 PM,06-07-2024,eczema
+Matthew Guerrero,40,Female,Dr. Turner,4:35 PM,20-05-2024,gastroesophageal reflux disease (gerd)
+Troy Castillo MD,37,Male,Dr. Woods,5:49 AM,13-07-2024,parkinson’s disease
+Deanna Munoz,25,Male,Dr. Richard,9:42 PM,12-07-2024,flu
+Samantha Floyd,14,Male,Dr. Bowers,8:19 PM,29-11-2023,psoriasis
+Anthony Johnson,62,Male,Dr. Sullivan,10:42 AM,25-08-2024,eczema
+Tonya Cooper,52,Male,Dr. Richard,2:29 AM,26-02-2024,parkinson’s disease
+Nicholas Barrett,12,Male,Dr. Woods,2:14 PM,06-08-2024,infection
+Michael Torres,4,Male,Dr. Green,5:18 AM,31-01-2024,headache
+Joshua Oconnor,37,Female,Dr. Chang,7:16 AM,05-04-2024,cold
+Alex Burton,59,Female,Dr. Woods,9:36 PM,18-01-2024,headache
+Andrew Perez,16,Female,Dr. Green,7:47 AM,08-06-2024,skin rash
+Andrea Brown,34,Female,Dr. Richard,7:26 AM,29-08-2024,hypertension
+Jenny Stafford,19,Female,Dr. Woods,2:57 AM,22-01-2024,gastroesophageal reflux disease (gerd)
+Jeffrey Howard,68,Female,Dr. Sullivan,3:21 AM,17-06-2024,parkinson’s disease
+Gary Hatfield,46,Female,Dr. Fisher,4:13 PM,24-05-2024,irritable bowel syndrome (ibs)
+Janet Ortiz,16,Male,Dr. Green,10:37 PM,12-06-2024,allergy
+Joseph Fitzgerald,21,Male,Dr. Silva,11:12 AM,03-05-2024,psoriasis
+Julie Williams,37,Male,Dr. Turner,1:36 PM,13-09-2023,cold
+Jennifer Myers,4,Male,Dr. Woods,3:39 AM,24-02-2024,depression
+Charles Melton,7,Male,Dr. Turner,9:02 AM,07-02-2024,parkinson’s disease
+Morgan Hernandez,7,Male,Dr. Bowers,10:19 PM,03-02-2024,osteoporosis
+Ryan Hoover,28,Male,Dr. Fisher,12:20 AM,26-04-2024,infection
+Alex Drake,35,Female,Dr. Turner,9:52 PM,14-03-2024,depression
+Richard Sutton,73,Male,Dr. Dixon,3:24 PM,17-02-2024,flu
+Blake Pennington,42,Female,Dr. Fisher,3:52 PM,06-09-2024,gastroesophageal reflux disease (gerd)
+Lisa Ellis,48,Male,Dr. Richard,7:18 PM,14-01-2024,chronic fatigue syndrome
+Lance King,74,Female,Dr. Sullivan,2:23 AM,24-07-2024,asthma
+Morgan Johnson,7,Male,Dr. Dixon,3:14 PM,07-11-2023,anemia
+Amanda Davis,79,Male,Dr. Sullivan,4:27 AM,11-09-2023,chronic fatigue syndrome
+Chris Young,65,Female,Dr. Dixon,2:24 AM,02-12-2023,skin rash
+Nicolas Sullivan,60,Female,Dr. Green,6:31 AM,16-07-2024,back pain
+Johnathan Long,57,Female,Dr. Bowers,1:10 PM,29-11-2023,kidney stones
+Steven Pierce,49,Female,Dr. Richard,11:38 AM,12-02-2024,skin rash
+Patricia Duncan,70,Female,Dr. Richard,2:02 AM,10-02-2024,pneumonia
+Michael Bryant,24,Male,Dr. Chang,12:37 AM,29-10-2023,osteoporosis
+Jennifer Crawford,28,Male,Dr. Fisher,8:12 AM,23-06-2024,cold
+Patrick Johnson,50,Female,Dr. Silva,1:31 PM,03-08-2024,kidney stones
+Lauren Parsons,77,Male,Dr. Sullivan,11:57 PM,05-07-2024,arthritis
+Michael Clark,39,Female,Dr. Silva,10:47 AM,17-03-2024,depression
+Gina Good,3,Female,Dr. Fisher,10:30 PM,02-07-2024,chronic fatigue syndrome
+Christine Knight,19,Female,Dr. Richard,5:36 AM,21-12-2023,diabetes
+Warren Middleton,21,Female,Dr. Richard,8:28 AM,23-05-2024,diabetes
+Michelle Maldonado,36,Female,Dr. Woods,2:49 PM,02-09-2024,arthritis
+Thomas Lam,44,Male,Dr. Fisher,7:01 PM,17-05-2024,back pain
+Paul Smith,45,Female,Dr. Silva,7:49 AM,14-04-2024,obesity
+Krystal Farley,49,Female,Dr. Fisher,9:18 PM,06-04-2024,allergy
+Mario Morris,13,Female,Dr. Chang,3:27 PM,09-07-2024,infection
+Lindsay Archer,45,Female,Dr. Fisher,9:04 AM,26-09-2023,headache
+Charles Williams,6,Female,Dr. Fisher,3:36 AM,17-02-2024,allergy
+Timothy Fry,7,Female,Dr. Woods,4:44 PM,20-07-2024,gastroesophageal reflux disease (gerd)
+Dr. Robert Osborne,36,Female,Dr. Fisher,9:37 AM,13-01-2024,skin rash
+Chelsea Dunn,22,Female,Dr. Bowers,4:52 PM,21-11-2023,asthma
+Travis Thompson,21,Male,Dr. Bowers,7:44 PM,14-08-2024,arthritis
+Matthew Moore,76,Male,Dr. Richard,10:04 PM,15-09-2023,arthritis
+Jonathan Hogan,39,Female,Dr. Sullivan,2:14 AM,17-02-2024,gastroesophageal reflux disease (gerd)
+Nicole Baker,48,Male,Dr. Dixon,11:44 PM,12-01-2024,headache
+Jeffrey Ewing,52,Female,Dr. Sullivan,10:37 AM,17-11-2023,heart disease
+Theresa Medina,72,Male,Dr. Silva,9:53 PM,24-10-2023,allergy
+Wanda Lee,18,Male,Dr. Richard,1:31 PM,20-05-2024,gastroesophageal reflux disease (gerd)
+Rebecca Kirk,39,Female,Dr. Green,12:48 PM,11-12-2023,hypertension
+Brittney Guerrero,16,Female,Dr. Silva,6:12 PM,23-06-2024,hypothyroidism
+Kristine Ward,63,Female,Dr. Richard,3:21 AM,10-01-2024,allergy
+Kristina Jenkins,32,Female,Dr. Sullivan,11:36 PM,27-08-2024,heart disease
+Regina Perez,8,Female,Dr. Sullivan,9:07 PM,09-02-2024,skin rash
+Joseph Pugh,41,Female,Dr. Sullivan,12:39 PM,28-05-2024,hypothyroidism
+Lynn Burton,24,Male,Dr. Chang,6:22 AM,10-01-2024,cold
+Nicholas Wright PhD,68,Male,Dr. Silva,6:58 AM,09-01-2024,anxiety
+Tony House,11,Female,Dr. Sullivan,10:25 PM,18-11-2023,hypertension
+Jerome Manning,40,Female,Dr. Sullivan,10:56 PM,23-11-2023,arthritis
+Jordan Roman,53,Male,Dr. Chang,7:57 AM,02-07-2024,headache
+Tina Martin,44,Male,Dr. Bowers,1:12 AM,24-04-2024,flu
+Tanya Walters,40,Male,Dr. Green,12:36 PM,14-12-2023,diabetes
+Dawn Macias,55,Male,Dr. Sullivan,4:57 AM,23-07-2024,stroke
+Lisa Davis,15,Female,Dr. Silva,4:51 PM,01-02-2024,insomnia
+Adam King,14,Male,Dr. Dixon,9:13 AM,21-10-2023,arthritis
+Jasmine Rowe,73,Male,Dr. Fisher,7:09 PM,05-02-2024,depression
+Jean Beard,63,Male,Dr. Green,2:35 PM,04-07-2024,heart disease
+John Gallegos,62,Male,Dr. Woods,10:38 AM,16-07-2024,heart disease
+Michael Murphy,45,Female,Dr. Fisher,3:37 AM,05-08-2024,psoriasis
+John Boyd,45,Female,Dr. Silva,7:12 PM,25-04-2024,allergy
+Keith Reed,17,Male,Dr. Fisher,3:27 PM,14-04-2024,asthma
+Connor Rodriguez,63,Male,Dr. Woods,6:35 PM,01-09-2024,stroke
+Amanda Hebert,16,Male,Dr. Chang,5:21 PM,10-05-2024,anemia
+Theresa Edwards,65,Male,Dr. Sullivan,8:55 AM,27-04-2024,obesity
+Victoria Hubbard,56,Female,Dr. Silva,8:20 PM,14-12-2023,stroke
+Michael Larson,6,Male,Dr. Silva,6:19 PM,23-06-2024,osteoporosis
+Eric Brown,40,Female,Dr. Woods,9:01 PM,27-06-2024,parkinson’s disease
+Cesar Castillo,44,Female,Dr. Silva,12:10 PM,03-01-2024,skin rash
+Pamela Williams,21,Female,Dr. Chang,2:21 PM,12-09-2023,infection
+Amanda Peters,23,Female,Dr. Silva,11:03 AM,15-07-2024,migraine
+Lynn Herring,74,Male,Dr. Fisher,6:03 AM,19-11-2023,flu
+Kevin Miller,50,Female,Dr. Sullivan,4:05 PM,24-04-2024,osteoporosis
+Robin Harris,13,Male,Dr. Dixon,10:06 AM,03-01-2024,eczema
+Michael King,10,Male,Dr. Turner,3:45 PM,27-01-2024,obesity
+Timothy Lutz,12,Male,Dr. Dixon,4:19 PM,12-01-2024,cold
+Steven Tran,27,Male,Dr. Turner,7:35 PM,31-08-2024,irritable bowel syndrome (ibs)
+Kevin May,30,Female,Dr. Fisher,3:47 PM,24-03-2024,migraine
+Peter Meyers,9,Female,Dr. Bowers,2:07 AM,17-01-2024,arthritis
+Matthew Bryant,51,Male,Dr. Bowers,10:19 AM,25-04-2024,infection
+Jimmy Moore,3,Female,Dr. Sullivan,9:19 PM,14-02-2024,back pain
+Matthew Alvarez,14,Male,Dr. Chang,7:21 PM,22-06-2024,hypothyroidism
+Kimberly Hoover,52,Female,Dr. Sullivan,11:49 PM,27-08-2024,osteoporosis
+Robert Miller,73,Male,Dr. Fisher,6:31 PM,27-02-2024,headache
+Harold Hayes,68,Male,Dr. Dixon,11:50 AM,19-11-2023,eczema
+Kayla Archer,39,Female,Dr. Fisher,6:30 AM,22-01-2024,hypertension
+Barbara Stewart,59,Male,Dr. Sullivan,6:09 PM,12-10-2023,eczema
+Nicholas Smith,64,Female,Dr. Turner,5:51 PM,14-12-2023,diabetes
+Cheryl Gutierrez,76,Male,Dr. Chang,2:46 PM,28-01-2024,anxiety
+Eric Price,29,Male,Dr. Sullivan,3:21 PM,28-05-2024,parkinson’s disease
+Randall Dawson,56,Male,Dr. Sullivan,1:10 AM,27-01-2024,gastroesophageal reflux disease (gerd)
+Russell Jones,12,Female,Dr. Dixon,10:48 AM,25-11-2023,pneumonia
+Henry Winters,49,Male,Dr. Sullivan,10:42 PM,13-07-2024,gastroesophageal reflux disease (gerd)
+Megan Hart,30,Male,Dr. Fisher,11:12 AM,18-08-2024,infection
+Jennifer Johnson,35,Male,Dr. Bowers,3:59 PM,24-09-2023,chronic fatigue syndrome
+Cheryl Hughes,76,Female,Dr. Green,7:50 AM,13-01-2024,obesity
+Caleb Bell,23,Female,Dr. Green,11:38 PM,27-03-2024,depression
+Luis Valdez,57,Female,Dr. Fisher,4:59 PM,28-07-2024,asthma
+Jesus Spencer,26,Male,Dr. Silva,5:50 PM,02-06-2024,kidney stones
+Kathleen Miller,47,Male,Dr. Turner,2:19 PM,06-09-2024,insomnia
+Scott Gibbs,16,Female,Dr. Silva,8:15 PM,12-05-2024,insomnia
+Deborah Wong,10,Male,Dr. Bowers,12:50 AM,15-10-2023,anxiety
+Ronald Cook,5,Female,Dr. Silva,5:03 PM,01-02-2024,parkinson’s disease
+Kaitlin Johnson,69,Female,Dr. Green,9:34 AM,07-08-2024,migraine
+Lori Mitchell,59,Female,Dr. Richard,2:06 PM,15-12-2023,asthma
+James Moore,27,Female,Dr. Sullivan,10:24 AM,16-04-2024,gastroesophageal reflux disease (gerd)
+Bridget Thompson,17,Female,Dr. Fisher,8:30 AM,10-05-2024,osteoporosis
+Margaret Sanchez,65,Female,Dr. Richard,3:21 AM,18-09-2023,chronic fatigue syndrome
+Lori Dougherty,52,Male,Dr. Turner,8:14 AM,11-10-2023,skin rash
+Dr. Michael Williams,34,Female,Dr. Bowers,10:49 PM,25-12-2023,heart disease
+Douglas Jackson,28,Male,Dr. Silva,7:10 PM,31-10-2023,stroke
+Darrell Johns,7,Male,Dr. Chang,1:02 PM,26-02-2024,depression
+Shawn Taylor,29,Female,Dr. Richard,4:49 AM,25-12-2023,cold
+Alexis Conrad,20,Female,Dr. Bowers,3:47 PM,09-08-2024,skin rash
+James Solis,15,Female,Dr. Dixon,10:52 PM,03-09-2024,diabetes
+Mrs. Samantha Hicks MD,27,Female,Dr. Silva,9:11 PM,01-01-2024,stroke
+Ashley Carr,60,Male,Dr. Green,10:26 AM,01-08-2024,hypertension
+Megan James,50,Female,Dr. Bowers,10:02 PM,07-10-2023,hypothyroidism
+Jeffrey Mcintyre,48,Male,Dr. Richard,1:39 PM,04-04-2024,anemia
+David Taylor,71,Male,Dr. Silva,2:11 AM,08-10-2023,kidney stones
+Kim Jones,21,Male,Dr. Green,4:01 AM,26-04-2024,parkinson’s disease
+Matthew Church,15,Male,Dr. Bowers,8:51 AM,02-11-2023,heart disease
+Jeffrey Ruiz,78,Female,Dr. Silva,10:26 PM,24-04-2024,insomnia
+James Brewer,64,Female,Dr. Turner,12:15 AM,25-10-2023,insomnia
+Kevin Houston,20,Male,Dr. Turner,12:10 AM,04-10-2023,infection
+Dr. Jacqueline Johnson DDS,74,Female,Dr. Silva,6:06 AM,02-04-2024,infection
+David Williams,53,Female,Dr. Bowers,9:43 AM,12-12-2023,skin rash
+Robert Maynard,56,Female,Dr. Bowers,4:34 PM,27-04-2024,chronic fatigue syndrome
+Shawn Williams,68,Male,Dr. Bowers,9:01 AM,30-09-2023,allergy
+Alyssa Fisher,65,Female,Dr. Richard,4:26 PM,29-10-2023,gastroesophageal reflux disease (gerd)
+Jenna Middleton,43,Male,Dr. Dixon,7:14 PM,14-04-2024,flu
+Lindsey Martin,65,Male,Dr. Fisher,5:13 AM,25-08-2024,allergy
+Jason Lawrence,65,Male,Dr. Fisher,3:23 PM,17-01-2024,skin rash
+Diane Gordon DVM,27,Male,Dr. Sullivan,6:54 PM,02-06-2024,pneumonia
+Mark Miranda,71,Male,Dr. Chang,1:02 AM,08-08-2024,osteoporosis
+Nicole Gonzalez,80,Male,Dr. Woods,8:36 PM,16-10-2023,arthritis
+Cassandra Silva,30,Female,Dr. Silva,5:47 AM,08-10-2023,osteoporosis
+Mark Carter,3,Female,Dr. Turner,9:34 AM,10-07-2024,anemia
+Michael Adams,45,Female,Dr. Fisher,11:53 AM,02-11-2023,chronic fatigue syndrome
+Hannah Anderson,42,Male,Dr. Silva,1:29 PM,28-06-2024,skin rash
+Carol Jordan,43,Female,Dr. Bowers,9:19 AM,19-04-2024,parkinson’s disease
+Billy Page,6,Male,Dr. Green,3:37 PM,26-07-2024,depression
+Paula Gardner,69,Male,Dr. Fisher,5:54 AM,15-11-2023,infection
+Caroline Clark,20,Female,Dr. Dixon,4:15 AM,28-07-2024,arthritis
+Joseph Fuentes,34,Male,Dr. Richard,5:01 AM,03-07-2024,eczema
+Stephen Fitzgerald,79,Male,Dr. Turner,6:35 AM,22-01-2024,anxiety
+Frances Wilson,21,Male,Dr. Sullivan,7:10 AM,31-10-2023,osteoporosis
+Sarah Ortiz,50,Female,Dr. Turner,2:35 AM,19-12-2023,eczema
+Stephanie Peterson,76,Male,Dr. Sullivan,9:36 PM,01-04-2024,stroke
+Evelyn Neal,39,Male,Dr. Woods,6:12 AM,11-03-2024,parkinson’s disease
+Victoria Manning,62,Female,Dr. Green,8:31 AM,19-05-2024,obesity
+Spencer Riddle,10,Male,Dr. Dixon,8:25 PM,12-06-2024,gastroesophageal reflux disease (gerd)
+Travis Hunt,12,Female,Dr. Silva,7:52 AM,25-12-2023,chronic fatigue syndrome
+Whitney Hess,68,Female,Dr. Richard,5:41 AM,12-12-2023,heart disease
+Brittany Smith,7,Female,Dr. Turner,2:57 AM,06-06-2024,kidney stones
+Michele Walls,10,Male,Dr. Fisher,1:20 AM,10-08-2024,anemia
+Melissa Holland,30,Female,Dr. Dixon,5:11 PM,04-04-2024,hypertension
+Matthew Holden,18,Male,Dr. Green,11:21 PM,29-06-2024,chronic fatigue syndrome
+Michael Mendez,7,Male,Dr. Sullivan,5:28 PM,10-09-2023,back pain
+Ricky Smith,40,Male,Dr. Richard,5:14 PM,01-01-2024,osteoporosis
+Ruth Castillo,3,Male,Dr. Dixon,12:57 AM,01-12-2023,arthritis
+Jesse Silva,59,Male,Dr. Silva,9:40 AM,22-01-2024,gastroesophageal reflux disease (gerd)
+John Rowe,44,Female,Dr. Bowers,7:32 AM,23-11-2023,cold
+Kristina Wilcox,22,Female,Dr. Green,12:44 PM,04-02-2024,parkinson’s disease
+Scott Mccall,21,Female,Dr. Richard,9:01 PM,18-03-2024,depression
+Ronald Atkinson,60,Female,Dr. Green,2:03 PM,14-01-2024,depression
+Kelly Franklin,49,Male,Dr. Silva,3:01 PM,17-12-2023,obesity
+Michael Sullivan,66,Female,Dr. Bowers,8:44 AM,08-09-2024,insomnia
+Chad Price,50,Male,Dr. Fisher,10:32 PM,13-09-2023,cold
+Krystal Hendricks,69,Male,Dr. Dixon,10:16 AM,27-04-2024,back pain
+Angie Chapman,66,Male,Dr. Silva,4:34 AM,10-07-2024,gastroesophageal reflux disease (gerd)
+Jonathon Gibson,6,Male,Dr. Woods,6:14 PM,04-11-2023,insomnia
+Brian Whitaker,75,Female,Dr. Green,10:42 AM,20-12-2023,stroke
+Matthew Kennedy Jr.,13,Male,Dr. Fisher,9:55 AM,07-12-2023,parkinson’s disease
+Caitlin Phelps,68,Male,Dr. Bowers,10:59 PM,05-01-2024,irritable bowel syndrome (ibs)
+Briana Jones,78,Male,Dr. Silva,4:43 PM,20-08-2024,eczema
+James Benton,11,Male,Dr. Turner,12:39 AM,03-01-2024,parkinson’s disease
+Deborah Hall,56,Female,Dr. Sullivan,1:26 AM,02-11-2023,headache
+Charles Cain,28,Male,Dr. Turner,10:53 PM,14-12-2023,eczema
+Sean Morrow,39,Female,Dr. Silva,12:21 PM,13-01-2024,skin rash
+Justin Smith,70,Male,Dr. Fisher,4:28 AM,06-11-2023,back pain
+Kristin Campos,78,Female,Dr. Richard,10:27 PM,13-04-2024,migraine
+Michael Velazquez MD,55,Male,Dr. Silva,1:51 AM,12-10-2023,osteoporosis
+Grace Davis,63,Male,Dr. Bowers,4:32 PM,09-08-2024,asthma
+Darrell Roberson,51,Female,Dr. Bowers,2:36 PM,29-08-2024,arthritis
+Danny Simpson,79,Male,Dr. Sullivan,10:23 PM,20-10-2023,stroke
+Katrina Peterson,77,Female,Dr. Dixon,7:59 PM,21-03-2024,diabetes
+Kenneth Perez,31,Female,Dr. Fisher,3:56 PM,18-01-2024,insomnia
+James Chang,4,Female,Dr. Dixon,5:02 AM,20-07-2024,kidney stones
+Timothy Newton,2,Female,Dr. Turner,12:51 PM,04-05-2024,anxiety
+Dr. Ian Cruz,25,Female,Dr. Dixon,3:36 PM,12-10-2023,stroke
+Richard Morales,40,Male,Dr. Bowers,4:54 AM,17-07-2024,diabetes
+Kaitlin Douglas,66,Male,Dr. Silva,4:41 AM,08-12-2023,skin rash
+Thomas Reynolds,74,Female,Dr. Green,5:23 PM,25-05-2024,skin rash
+James Miranda,34,Female,Dr. Turner,6:53 PM,28-05-2024,allergy
+Sharon Castillo MD,44,Female,Dr. Green,7:32 PM,01-01-2024,diabetes
+Gregory Sanchez,10,Female,Dr. Fisher,8:54 AM,10-11-2023,hypothyroidism
+Tyler Porter,65,Female,Dr. Turner,9:59 AM,24-09-2023,allergy
+James Price,35,Female,Dr. Turner,11:09 PM,25-12-2023,obesity
+Veronica Bray,40,Male,Dr. Richard,1:59 AM,14-09-2023,infection
+Lisa Lowe,54,Male,Dr. Bowers,10:35 AM,19-09-2023,headache
+Katelyn Edwards,51,Male,Dr. Green,11:25 AM,01-08-2024,cold
+Anna Stewart,51,Female,Dr. Woods,10:10 PM,09-10-2023,irritable bowel syndrome (ibs)
+Crystal Ponce,9,Female,Dr. Dixon,12:18 AM,06-01-2024,hypothyroidism
+Ms. Amanda Davis,22,Male,Dr. Bowers,5:27 AM,18-12-2023,stroke
+Gabriel Wilson,18,Male,Dr. Chang,12:56 PM,23-05-2024,obesity
+Helen Hall,32,Male,Dr. Dixon,11:59 PM,10-01-2024,irritable bowel syndrome (ibs)
+James Smith,38,Male,Dr. Dixon,9:38 AM,21-02-2024,heart disease
+Larry Donovan,44,Male,Dr. Fisher,1:50 PM,18-08-2024,anemia
+Patrick Gonzalez,9,Female,Dr. Fisher,3:18 AM,18-02-2024,heart disease
+Steven Mathis,6,Male,Dr. Green,5:31 PM,31-10-2023,insomnia
+Christopher Young,63,Male,Dr. Dixon,7:19 PM,17-05-2024,eczema
+Janet Aguirre,55,Female,Dr. Fisher,4:02 PM,24-05-2024,parkinson’s disease
+James Cannon,20,Female,Dr. Fisher,1:19 AM,03-05-2024,allergy
+Debra Aguilar,64,Female,Dr. Sullivan,8:48 PM,02-06-2024,parkinson’s disease
+Samantha Byrd,79,Female,Dr. Green,8:45 AM,01-04-2024,depression
+Linda Davis,12,Female,Dr. Silva,2:37 PM,15-05-2024,flu
+Michelle Nelson,21,Female,Dr. Silva,7:51 PM,23-10-2023,allergy
+Lisa Hopkins,47,Female,Dr. Fisher,8:39 AM,26-04-2024,gastroesophageal reflux disease (gerd)
+Kenneth Keller,54,Female,Dr. Richard,7:43 AM,27-07-2024,cold
+Jordan Martinez,6,Male,Dr. Chang,4:52 AM,17-02-2024,hypertension
+Thomas Martinez,80,Male,Dr. Fisher,2:10 AM,01-03-2024,migraine
+Julie Gibson,61,Female,Dr. Dixon,10:50 PM,25-01-2024,hypothyroidism
+Jason Bennett,51,Female,Dr. Silva,4:07 PM,04-01-2024,eczema
+Gabriela Short,60,Female,Dr. Dixon,2:23 AM,17-04-2024,asthma
+David Castillo,8,Male,Dr. Dixon,1:10 AM,11-03-2024,osteoporosis
+Allison Cummings,14,Male,Dr. Fisher,5:49 AM,18-10-2023,migraine
+Jared Duran,62,Male,Dr. Richard,10:03 PM,18-08-2024,chronic fatigue syndrome
+Jeffrey King,21,Female,Dr. Dixon,3:18 PM,28-02-2024,heart disease
+Darren Campbell,4,Male,Dr. Silva,12:50 AM,04-06-2024,pneumonia
+Linda Noble,6,Female,Dr. Sullivan,7:31 PM,13-08-2024,flu
+Kelly Miller,78,Female,Dr. Chang,2:35 AM,05-08-2024,hypothyroidism
+Joseph Nunez,18,Male,Dr. Bowers,9:29 PM,21-02-2024,migraine
+Brittney Johnson,43,Male,Dr. Dixon,12:33 AM,22-08-2024,insomnia
+Renee Cannon,15,Male,Dr. Sullivan,11:42 AM,22-10-2023,back pain
+Michael Jenkins,72,Male,Dr. Silva,5:50 PM,25-02-2024,migraine
+James Cobb,46,Female,Dr. Woods,1:06 PM,19-10-2023,infection
+Tonya Barron,26,Male,Dr. Woods,12:00 PM,05-01-2024,headache
+Kelly Ramsey,51,Female,Dr. Dixon,8:51 AM,28-02-2024,pneumonia
+Thomas Marquez,64,Male,Dr. Chang,9:16 PM,21-12-2023,asthma
+Jessica Schultz,16,Female,Dr. Woods,3:58 PM,12-11-2023,pneumonia
+Stephanie Duncan,9,Female,Dr. Woods,9:18 PM,07-02-2024,skin rash
+Jeremy Sanchez,80,Female,Dr. Richard,11:08 AM,30-04-2024,asthma
+Sarah Peters,61,Female,Dr. Richard,12:59 AM,30-10-2023,asthma
+Andrew Anderson,80,Female,Dr. Sullivan,8:26 PM,16-04-2024,diabetes
+Michael Walker,45,Male,Dr. Bowers,10:16 AM,14-02-2024,kidney stones
+Shannon Todd,17,Male,Dr. Silva,5:29 PM,22-11-2023,stroke
+Matthew Mcneil,39,Female,Dr. Turner,8:32 PM,01-11-2023,depression
+Gina Jennings,18,Female,Dr. Sullivan,1:39 AM,10-11-2023,headache
+Justin Kelly,51,Male,Dr. Silva,5:07 AM,27-03-2024,psoriasis
+Jeffrey Alvarado,39,Male,Dr. Green,9:34 AM,03-09-2024,pneumonia
+Julie Thomas,17,Female,Dr. Chang,10:43 PM,31-08-2024,flu
+Nicole Finley,68,Male,Dr. Bowers,6:04 PM,15-10-2023,depression
+John Fernandez,26,Female,Dr. Bowers,1:22 AM,07-12-2023,stroke
+Michele Smith,6,Female,Dr. Chang,5:33 AM,19-08-2024,anemia
+Scott Richards,52,Female,Dr. Silva,5:22 PM,23-11-2023,pneumonia
+Jennifer Clark,58,Male,Dr. Dixon,1:10 AM,29-01-2024,flu
+Zachary Taylor,49,Male,Dr. Woods,1:36 PM,02-01-2024,depression
+Katherine James,26,Female,Dr. Sullivan,1:42 AM,12-07-2024,eczema
+Angela Cordova,60,Male,Dr. Fisher,5:10 PM,02-01-2024,flu
+Adrian Barnes DDS,47,Female,Dr. Richard,11:42 PM,13-07-2024,obesity
+Patrick Saunders,11,Female,Dr. Richard,2:23 PM,05-03-2024,infection
+Walter Johnson,7,Female,Dr. Fisher,7:34 PM,17-03-2024,hypothyroidism
+Kayla Hernandez,7,Female,Dr. Bowers,1:20 PM,27-08-2024,hypothyroidism
+Kevin Ramirez,64,Male,Dr. Sullivan,7:39 AM,21-03-2024,flu
+Colleen Cruz,34,Female,Dr. Richard,12:04 AM,28-04-2024,migraine
+Gina Holloway,5,Female,Dr. Sullivan,11:53 AM,25-09-2023,back pain
+Brandon Moore,68,Male,Dr. Sullivan,7:41 PM,19-01-2024,allergy
+Kristy Brown,74,Female,Dr. Woods,10:16 PM,25-12-2023,eczema
+Karen Flores PhD,75,Female,Dr. Silva,5:04 PM,01-01-2024,allergy
+Jeffrey Beck,29,Female,Dr. Silva,9:52 PM,23-02-2024,migraine
+Pamela Mcclure,31,Male,Dr. Bowers,3:41 AM,08-06-2024,depression
+Jeffrey Johnson,13,Male,Dr. Woods,7:16 PM,11-04-2024,anxiety
+James Cooper,66,Female,Dr. Chang,2:00 PM,21-03-2024,diabetes
+Robert Lopez,69,Male,Dr. Chang,12:16 PM,23-04-2024,stroke
+Kimberly Morgan,55,Female,Dr. Silva,11:11 AM,16-09-2023,back pain
+Candice Simpson,66,Female,Dr. Woods,9:28 AM,27-12-2023,anemia
+Scott Rivera,41,Male,Dr. Green,11:48 AM,21-02-2024,eczema
+Zachary Austin,16,Female,Dr. Green,1:03 AM,16-09-2023,obesity
+Richard Jones,20,Male,Dr. Sullivan,12:07 PM,23-11-2023,psoriasis
+Kelly Callahan,56,Female,Dr. Woods,11:00 PM,15-06-2024,diabetes
+Karina Meyer,74,Male,Dr. Bowers,7:16 PM,04-06-2024,migraine
+Hannah Grant,56,Male,Dr. Fisher,3:02 PM,09-10-2023,obesity
+Whitney Steele,12,Female,Dr. Richard,2:46 PM,11-12-2023,osteoporosis
+Jennifer Lynch,15,Male,Dr. Chang,12:26 PM,28-12-2023,pneumonia
+Hannah Adams,55,Male,Dr. Richard,9:14 PM,17-05-2024,headache
+Hannah Cooke,10,Female,Dr. Sullivan,9:23 AM,24-03-2024,hypertension
+Cindy Clayton,14,Female,Dr. Green,9:24 AM,19-05-2024,back pain
+Mrs. Mary Hammond,55,Male,Dr. Bowers,11:05 PM,05-12-2023,insomnia
+Robert Parker,21,Male,Dr. Silva,12:28 PM,25-08-2024,obesity
+Tiffany Johnson,5,Female,Dr. Chang,2:31 AM,18-09-2023,eczema
+Ebony Wilson,59,Male,Dr. Bowers,12:39 AM,17-02-2024,anemia
+Veronica Hunt,57,Male,Dr. Green,10:58 AM,03-09-2024,irritable bowel syndrome (ibs)
+Jerry Perry,55,Female,Dr. Sullivan,6:20 PM,11-10-2023,cold
+Jennifer Miller,5,Male,Dr. Chang,1:50 PM,25-04-2024,parkinson’s disease
+Yesenia Thompson,65,Female,Dr. Chang,6:57 AM,02-04-2024,parkinson’s disease
+Jeffrey Hale,43,Female,Dr. Fisher,6:20 PM,04-12-2023,anxiety
+Russell Little,34,Female,Dr. Dixon,6:58 AM,11-10-2023,osteoporosis
+Seth Stanley,12,Male,Dr. Green,6:04 PM,20-12-2023,infection
+Joshua Krause,47,Female,Dr. Fisher,5:28 AM,24-05-2024,allergy
+Michael Atkinson,11,Female,Dr. Green,12:34 AM,16-10-2023,diabetes
+Brenda Harper,17,Female,Dr. Bowers,11:59 PM,21-04-2024,pneumonia
+Jennifer Aguilar,47,Male,Dr. Bowers,2:51 PM,04-02-2024,obesity
+Erik Stokes,5,Male,Dr. Green,2:46 AM,24-05-2024,kidney stones
+Jerry Martinez MD,46,Male,Dr. Green,1:25 PM,11-06-2024,chronic fatigue syndrome
+Crystal Morton,46,Male,Dr. Richard,1:16 PM,02-02-2024,diabetes
+David Parker,24,Male,Dr. Woods,2:50 PM,15-08-2024,eczema
+Sue Horne,3,Female,Dr. Dixon,3:45 PM,26-10-2023,skin rash
+Paul Fox,31,Male,Dr. Bowers,3:46 PM,29-02-2024,chronic fatigue syndrome
+David Campbell,48,Female,Dr. Green,6:08 PM,12-10-2023,anemia
+John Zuniga,11,Female,Dr. Woods,11:16 PM,14-09-2023,asthma
+Michael Dickerson,78,Female,Dr. Chang,8:19 AM,22-12-2023,asthma
+David Walker,20,Female,Dr. Silva,7:51 PM,12-07-2024,stroke
+Charles Arnold,28,Female,Dr. Sullivan,12:47 AM,18-07-2024,migraine
+Alexander Hall,2,Female,Dr. Sullivan,7:59 PM,11-11-2023,parkinson’s disease
+Jennifer Stephenson,28,Male,Dr. Dixon,5:33 AM,26-01-2024,headache
+Dana Castro,17,Male,Dr. Woods,10:26 PM,20-03-2024,osteoporosis
+Lauren Jackson,2,Male,Dr. Green,5:14 PM,09-12-2023,flu
+William Evans,39,Female,Dr. Turner,1:15 AM,30-11-2023,infection
+Rebecca Harmon,49,Male,Dr. Silva,12:44 AM,31-12-2023,parkinson’s disease
+Rachel Boone,5,Female,Dr. Green,2:56 AM,23-01-2024,eczema
+Christopher Wagner,79,Female,Dr. Silva,3:46 PM,22-11-2023,skin rash
+Joseph Snyder,31,Female,Dr. Richard,10:52 PM,07-07-2024,headache
+Brady Smith,20,Female,Dr. Silva,11:22 AM,06-11-2023,allergy
+Angela Nixon,25,Female,Dr. Chang,1:42 AM,05-11-2023,infection
+Dr. Joanna Hill,60,Female,Dr. Dixon,3:34 AM,19-05-2024,allergy
+Gregory Foster,16,Male,Dr. Bowers,5:19 PM,20-03-2024,arthritis
+Stephanie Moore,63,Male,Dr. Chang,2:17 PM,30-11-2023,diabetes
+Daniel Williams,46,Male,Dr. Richard,2:28 AM,18-03-2024,kidney stones
+Kayla Jones,35,Male,Dr. Chang,12:07 AM,23-08-2024,asthma
+Jerry Strickland,18,Male,Dr. Sullivan,1:42 PM,19-11-2023,obesity
+Brandy Sims,5,Female,Dr. Sullivan,5:58 PM,07-11-2023,eczema
+Alexis Hernandez,28,Male,Dr. Chang,8:59 PM,13-01-2024,flu
+Holly Stuart,48,Male,Dr. Silva,4:18 AM,24-12-2023,psoriasis
+Melissa Anderson,44,Male,Dr. Dixon,3:54 PM,01-06-2024,chronic fatigue syndrome
+Nicholas Bass,62,Male,Dr. Chang,11:18 PM,15-09-2023,headache
+James Wells,39,Male,Dr. Green,4:23 AM,08-11-2023,back pain
+John Phillips,39,Female,Dr. Dixon,6:01 PM,19-12-2023,gastroesophageal reflux disease (gerd)
+Susan Bailey,72,Male,Dr. Silva,2:22 PM,22-07-2024,arthritis
+Jamie Riley,43,Female,Dr. Chang,12:08 AM,11-05-2024,kidney stones
+Kathryn Craig,25,Male,Dr. Chang,5:37 AM,08-10-2023,kidney stones
+Sarah Lopez,77,Male,Dr. Bowers,12:27 PM,10-05-2024,hypothyroidism
+Jose Hicks,12,Female,Dr. Turner,3:02 AM,26-02-2024,cold
+Kelly Mccullough,15,Female,Dr. Fisher,12:20 PM,24-03-2024,anemia
+Katie Mckenzie,70,Male,Dr. Sullivan,10:25 AM,03-04-2024,eczema
+Glenn Hamilton,76,Male,Dr. Green,3:38 AM,11-12-2023,irritable bowel syndrome (ibs)
+Matthew Williams,41,Male,Dr. Fisher,6:51 AM,20-02-2024,parkinson’s disease
+Tracy Ellis,22,Male,Dr. Green,8:50 PM,04-09-2024,headache
+Dakota Garcia,50,Male,Dr. Fisher,9:29 AM,24-06-2024,psoriasis
+Riley Smith,20,Male,Dr. Richard,11:33 PM,10-12-2023,arthritis
+Teresa Lopez,18,Female,Dr. Silva,12:15 AM,29-02-2024,allergy
+Vincent Ward,30,Female,Dr. Richard,4:18 AM,15-05-2024,osteoporosis
+Alexa Ewing,42,Female,Dr. Turner,8:25 PM,05-04-2024,asthma
+Lawrence Hebert,67,Male,Dr. Turner,12:49 PM,01-10-2023,skin rash
+Emily Short,33,Female,Dr. Woods,12:21 AM,31-05-2024,heart disease
+Jonathan Cox,32,Male,Dr. Woods,12:13 AM,30-01-2024,allergy
+Kevin Casey,25,Male,Dr. Green,6:07 AM,20-10-2023,psoriasis
+Patricia Smith,39,Male,Dr. Bowers,9:26 PM,21-02-2024,skin rash
+Heather Clark,49,Female,Dr. Green,5:25 AM,25-12-2023,hypertension
+Christina Lopez,55,Male,Dr. Green,8:55 AM,16-04-2024,cold
+Matthew Carr,7,Male,Dr. Silva,10:55 AM,20-04-2024,insomnia
+Laurie Shepard,18,Male,Dr. Chang,1:30 AM,04-10-2023,stroke
+Susan Brown,78,Female,Dr. Sullivan,5:46 PM,03-09-2024,depression
+Amanda Holland,4,Female,Dr. Fisher,10:02 AM,15-05-2024,kidney stones
+Kathryn Barnes,52,Male,Dr. Dixon,12:50 PM,20-03-2024,obesity
+Thomas Howe,11,Female,Dr. Chang,5:35 AM,22-01-2024,stroke
+Michelle Morgan,11,Male,Dr. Turner,5:54 PM,21-11-2023,skin rash
+William Sandoval,18,Female,Dr. Turner,3:43 PM,12-10-2023,hypertension
+William Lynch,55,Male,Dr. Green,12:41 AM,19-11-2023,skin rash
+Steven Miller,40,Male,Dr. Turner,12:38 AM,05-10-2023,depression
+Caitlin Rodriguez,72,Male,Dr. Dixon,5:07 AM,21-09-2023,migraine
+Miguel Franklin,55,Male,Dr. Turner,2:09 PM,24-02-2024,allergy
+Christopher Bradshaw,20,Male,Dr. Green,9:51 PM,27-10-2023,anxiety
+Melissa Hess,77,Female,Dr. Turner,12:22 PM,19-01-2024,chronic fatigue syndrome
+Ashley Ayala,56,Male,Dr. Fisher,11:02 AM,26-04-2024,chronic fatigue syndrome
+Nicole Olson,40,Male,Dr. Silva,5:03 PM,12-01-2024,insomnia
+Ariel Duran,47,Female,Dr. Green,6:55 AM,23-10-2023,pneumonia
+Richard Reid,12,Male,Dr. Silva,11:11 AM,31-05-2024,hypothyroidism
+Kimberly Jones,33,Female,Dr. Bowers,1:10 AM,09-11-2023,pneumonia
+Adrian Rowe,58,Male,Dr. Sullivan,12:57 AM,23-08-2024,insomnia
+Bryce Cruz,49,Male,Dr. Bowers,12:27 AM,15-01-2024,diabetes
+Stacey Edwards,69,Female,Dr. Dixon,9:15 AM,03-01-2024,gastroesophageal reflux disease (gerd)
+Angela Myers,9,Female,Dr. Bowers,5:04 AM,02-04-2024,pneumonia
+Victoria Williams,50,Female,Dr. Fisher,6:42 AM,20-08-2024,pneumonia
+Thomas Johnson,54,Male,Dr. Fisher,4:46 PM,08-09-2024,chronic fatigue syndrome
+Jennifer Castro,3,Female,Dr. Silva,8:43 AM,22-10-2023,irritable bowel syndrome (ibs)
+Jennifer Mcclain,55,Male,Dr. Woods,2:49 PM,30-07-2024,diabetes
+Victoria Brown,43,Male,Dr. Turner,7:09 AM,07-04-2024,kidney stones
+Sherry Thomas,58,Female,Dr. Chang,5:00 AM,31-10-2023,stroke
+Bethany Clark,28,Female,Dr. Green,11:20 AM,20-01-2024,chronic fatigue syndrome
+Sandra Ray,49,Female,Dr. Silva,1:57 AM,16-02-2024,skin rash
+David Powell,39,Female,Dr. Sullivan,9:17 AM,09-05-2024,eczema
+Mark Williams,62,Female,Dr. Silva,1:29 PM,20-11-2023,insomnia
+Andrea Smith,13,Male,Dr. Dixon,4:26 PM,17-08-2024,hypothyroidism
+Raymond Wall,25,Female,Dr. Richard,11:50 AM,04-06-2024,psoriasis
+Teresa Wilson,15,Female,Dr. Dixon,3:21 AM,04-11-2023,infection
+Patrick Morris,37,Male,Dr. Turner,11:56 PM,25-09-2023,psoriasis
+Kenneth Brown,16,Male,Dr. Green,12:36 PM,18-01-2024,obesity
+David Rivera,73,Female,Dr. Bowers,9:26 PM,05-01-2024,irritable bowel syndrome (ibs)
+Mr. Bradley Stewart,79,Male,Dr. Green,8:27 AM,04-07-2024,heart disease
+Jamie Castillo,21,Male,Dr. Dixon,11:58 AM,25-11-2023,diabetes
+Benjamin Robinson,59,Male,Dr. Silva,7:54 AM,14-12-2023,chronic fatigue syndrome
+Sandra Dixon,53,Female,Dr. Sullivan,3:05 AM,24-08-2024,parkinson’s disease
+Benjamin Moore,25,Male,Dr. Richard,6:46 AM,29-12-2023,anxiety
+Keith Beck,55,Female,Dr. Sullivan,10:04 PM,26-02-2024,psoriasis
+Krystal Bell,57,Female,Dr. Richard,11:57 PM,10-09-2023,migraine
+Monica Morales,24,Male,Dr. Bowers,12:46 PM,28-03-2024,gastroesophageal reflux disease (gerd)
+Natasha Conway,33,Male,Dr. Richard,8:00 AM,16-12-2023,psoriasis
+Gregory Waters,60,Male,Dr. Silva,12:45 PM,02-04-2024,depression
+James Rowland,45,Female,Dr. Woods,6:21 PM,08-07-2024,diabetes
+Jose Wright,68,Female,Dr. Richard,2:07 PM,26-10-2023,back pain
+Brian Graham,20,Female,Dr. Richard,1:13 AM,07-05-2024,kidney stones
+Kimberly Stone,47,Female,Dr. Richard,8:28 PM,08-09-2024,hypertension
+Andrew Howard,61,Male,Dr. Bowers,8:06 AM,14-05-2024,asthma
+Catherine Adams,13,Female,Dr. Silva,1:33 PM,14-09-2023,migraine
+Dr. Travis Smith,63,Female,Dr. Dixon,5:09 AM,28-11-2023,allergy
+Cynthia Pena,28,Female,Dr. Turner,7:33 AM,19-11-2023,heart disease
+Stacy Vega,39,Male,Dr. Sullivan,10:57 AM,08-06-2024,chronic fatigue syndrome
+Rachel Martin,2,Male,Dr. Richard,3:01 PM,17-04-2024,parkinson’s disease
+Parker Fox,59,Male,Dr. Woods,6:31 PM,14-02-2024,parkinson’s disease
+Mrs. Janice Roberts DVM,61,Female,Dr. Bowers,11:41 PM,18-09-2023,osteoporosis
+Dr. Michael Lutz,2,Female,Dr. Chang,6:02 AM,29-10-2023,depression
+Vanessa Thompson,29,Female,Dr. Bowers,5:54 PM,02-03-2024,gastroesophageal reflux disease (gerd)
+Kenneth Good,40,Male,Dr. Dixon,6:20 PM,26-06-2024,stroke
+Sharon Fuller,16,Female,Dr. Richard,7:21 AM,13-02-2024,anxiety
+Jenna Richardson,40,Male,Dr. Sullivan,7:00 PM,27-02-2024,pneumonia
+Daniel Estes,71,Female,Dr. Richard,8:11 PM,24-03-2024,headache
+Sharon Dyer,79,Male,Dr. Richard,10:44 PM,05-03-2024,infection
+Cynthia Morgan,21,Male,Dr. Sullivan,1:38 AM,11-07-2024,allergy
+Erica Thomas,56,Female,Dr. Chang,6:29 PM,10-01-2024,depression
+Krista Herrera,62,Male,Dr. Silva,4:33 PM,17-06-2024,gastroesophageal reflux disease (gerd)
+Ashley Weeks,13,Female,Dr. Richard,3:34 PM,01-07-2024,depression
+Michael Burke,65,Male,Dr. Woods,10:22 AM,29-03-2024,psoriasis
+Michelle Davis,31,Male,Dr. Chang,3:05 PM,26-05-2024,psoriasis
+Daniel Price MD,71,Male,Dr. Silva,4:01 PM,18-06-2024,anemia
+Jason Simon,53,Male,Dr. Woods,12:56 AM,29-05-2024,gastroesophageal reflux disease (gerd)
+Tyler Munoz,37,Male,Dr. Richard,6:07 AM,26-02-2024,hypothyroidism
+Justin Miller,4,Male,Dr. Green,10:13 PM,14-03-2024,infection
+Melissa Barnes,17,Female,Dr. Silva,10:31 AM,13-10-2023,hypertension
+Michael Mcconnell,36,Female,Dr. Silva,12:20 AM,23-12-2023,pneumonia
+Janice Boyer,7,Male,Dr. Bowers,12:08 PM,04-10-2023,headache
+Anthony Bird,2,Male,Dr. Dixon,12:33 PM,22-02-2024,headache
+Lisa Hansen,34,Male,Dr. Chang,7:51 AM,14-05-2024,depression
+Steven Farrell,52,Male,Dr. Chang,4:47 PM,24-11-2023,depression
+Mr. Michael Barber,69,Female,Dr. Fisher,10:32 AM,07-07-2024,anxiety
+Rachel Davis DVM,76,Male,Dr. Chang,2:34 PM,14-06-2024,eczema
+Lauren Rivera,52,Male,Dr. Fisher,5:40 AM,17-05-2024,chronic fatigue syndrome
+Linda Davis,58,Male,Dr. Woods,3:29 AM,09-10-2023,stroke
+Alicia Kramer,15,Male,Dr. Green,9:05 AM,11-10-2023,pneumonia
+Monica Davis,34,Male,Dr. Green,9:27 PM,22-01-2024,eczema
+Jenna Anderson,47,Female,Dr. Turner,3:44 PM,12-08-2024,parkinson’s disease
+Terri Nielsen,38,Female,Dr. Silva,4:01 PM,11-10-2023,skin rash
+Sharon Gonzalez,27,Female,Dr. Dixon,10:10 AM,05-02-2024,cold
+Terry Garza,78,Female,Dr. Bowers,9:39 AM,04-06-2024,depression
+Carlos Perez,12,Male,Dr. Green,3:17 AM,08-02-2024,eczema
+Eric Navarro III,6,Female,Dr. Richard,6:50 AM,09-08-2024,pneumonia
+Steven Beck,11,Female,Dr. Woods,11:26 PM,12-06-2024,cold
+Catherine Harrell,35,Male,Dr. Woods,10:35 PM,17-02-2024,hypothyroidism
+Joshua Castillo,41,Male,Dr. Turner,2:20 AM,21-11-2023,kidney stones
+Robert Nelson,70,Male,Dr. Chang,4:00 PM,20-01-2024,migraine
+Melissa Phelps,45,Female,Dr. Green,3:54 PM,16-07-2024,asthma
+Rebecca Doyle,17,Male,Dr. Fisher,10:15 PM,18-03-2024,anxiety
+Charles Clark,69,Male,Dr. Bowers,1:44 AM,25-09-2023,flu
+April Martinez,33,Male,Dr. Turner,6:26 PM,09-01-2024,stroke
+Mr. Fernando Robinson,22,Male,Dr. Chang,9:03 PM,22-03-2024,osteoporosis
+Eugene Ibarra,10,Male,Dr. Green,8:14 AM,30-10-2023,gastroesophageal reflux disease (gerd)
+Matthew Gross,55,Female,Dr. Green,11:02 AM,05-01-2024,headache
+Chelsea Bailey,39,Female,Dr. Chang,9:01 AM,01-01-2024,anemia
+Joshua Costa,38,Male,Dr. Fisher,3:13 AM,18-04-2024,chronic fatigue syndrome
+Juan Jones,68,Female,Dr. Bowers,2:24 PM,16-06-2024,psoriasis
+Troy Kerr,19,Female,Dr. Turner,4:46 AM,04-06-2024,depression
+Samuel Baldwin,75,Female,Dr. Bowers,11:51 PM,12-09-2023,flu
+Julia Henderson,68,Female,Dr. Dixon,8:00 AM,29-10-2023,hypertension
+Kimberly Juarez,28,Female,Dr. Silva,3:59 PM,30-09-2023,arthritis
+Barry Alexander,70,Male,Dr. Green,10:39 PM,04-08-2024,chronic fatigue syndrome
+Jose Cooper,15,Male,Dr. Woods,9:46 PM,13-11-2023,hypothyroidism
+Nancy Cruz,54,Female,Dr. Richard,10:32 PM,10-04-2024,stroke
+Michael Weaver,71,Female,Dr. Woods,2:00 PM,24-12-2023,obesity
+Andrew Jensen,53,Male,Dr. Bowers,2:27 AM,12-01-2024,parkinson’s disease
+Laura Perry,37,Male,Dr. Fisher,1:22 PM,12-02-2024,insomnia
+James Miller,39,Male,Dr. Turner,7:56 AM,30-04-2024,obesity
+Barbara Nunez,58,Female,Dr. Silva,2:32 AM,15-12-2023,asthma
+Carol Harris,49,Male,Dr. Fisher,8:59 PM,12-02-2024,arthritis
+Kyle Russell,74,Male,Dr. Richard,3:55 AM,13-06-2024,infection
+Kimberly Fox,19,Female,Dr. Dixon,3:41 PM,06-12-2023,infection
+Brandon Middleton,22,Female,Dr. Bowers,7:53 AM,24-11-2023,heart disease
+Carlos Lee,17,Male,Dr. Silva,8:35 AM,15-01-2024,arthritis
+Margaret Reynolds,17,Female,Dr. Turner,10:39 AM,14-03-2024,arthritis
+Martin Baker,50,Male,Dr. Turner,10:24 AM,17-07-2024,irritable bowel syndrome (ibs)
+Margaret Morrison,53,Male,Dr. Silva,3:05 AM,12-05-2024,parkinson’s disease
+Gregory Mack,77,Female,Dr. Bowers,8:23 PM,06-08-2024,kidney stones
+Matthew Villegas,61,Female,Dr. Sullivan,12:53 AM,12-01-2024,irritable bowel syndrome (ibs)
+Joseph Lewis,19,Male,Dr. Woods,12:31 PM,16-11-2023,chronic fatigue syndrome
+David Ruiz,73,Female,Dr. Green,2:22 AM,20-09-2023,parkinson’s disease
+Sara Roberts,40,Male,Dr. Chang,6:35 AM,11-08-2024,hypothyroidism
+Nathan Beck,47,Male,Dr. Dixon,9:52 AM,28-06-2024,diabetes
+Sherry Davis,62,Female,Dr. Woods,10:29 AM,23-12-2023,headache
+Jon Salazar,55,Female,Dr. Woods,11:01 PM,05-11-2023,heart disease
+Crystal Taylor,29,Female,Dr. Green,2:44 PM,28-06-2024,migraine
+Cynthia Smith,63,Female,Dr. Sullivan,3:11 AM,24-12-2023,anxiety
+Joseph Schultz,64,Male,Dr. Dixon,10:51 AM,04-12-2023,parkinson’s disease
+Brianna Romero,66,Male,Dr. Green,2:57 PM,22-08-2024,skin rash
+Nathaniel Ward,42,Female,Dr. Woods,3:05 PM,08-07-2024,hypertension
+Cheryl Vang,65,Male,Dr. Bowers,12:05 PM,17-06-2024,pneumonia
+Jessica Swanson,9,Female,Dr. Dixon,7:07 AM,09-07-2024,hypothyroidism
+Andrew Alexander,58,Male,Dr. Dixon,11:20 AM,26-03-2024,asthma
+Matthew Rose,40,Male,Dr. Bowers,11:32 PM,07-07-2024,infection
+Katherine Moore,20,Female,Dr. Sullivan,8:52 PM,23-04-2024,osteoporosis
+Kenneth Baker,65,Female,Dr. Sullivan,12:25 AM,22-05-2024,allergy
+Todd Taylor,8,Male,Dr. Green,12:55 PM,11-07-2024,allergy
+Kimberly Giles,29,Male,Dr. Chang,2:19 PM,13-02-2024,skin rash
+Elizabeth Harrison,5,Female,Dr. Dixon,10:33 PM,28-08-2024,migraine
+Jacob Mcintosh,47,Female,Dr. Dixon,1:52 AM,26-05-2024,asthma
+David Williams,62,Male,Dr. Green,8:05 AM,02-08-2024,pneumonia
+Melinda Lawrence,52,Male,Dr. Chang,1:48 AM,26-10-2023,infection
+David Willis,3,Male,Dr. Green,10:44 PM,19-02-2024,hypertension
+Rebecca Martin,69,Male,Dr. Bowers,3:41 AM,29-07-2024,allergy
+Meghan Perkins,10,Female,Dr. Woods,4:32 AM,05-03-2024,osteoporosis
+Kelly Blevins,12,Female,Dr. Fisher,6:23 PM,27-02-2024,flu
+Lori Smith,52,Male,Dr. Sullivan,6:47 PM,14-02-2024,stroke
+Kyle Wang,2,Male,Dr. Green,7:47 AM,24-05-2024,hypertension
+Mark Moore,48,Female,Dr. Bowers,5:53 PM,16-02-2024,hypothyroidism
+Samantha Oliver,7,Female,Dr. Turner,7:14 PM,13-10-2023,migraine
+Douglas Adams,16,Male,Dr. Green,4:55 AM,30-07-2024,skin rash
+Richard Lane,2,Female,Dr. Dixon,7:24 PM,12-09-2023,irritable bowel syndrome (ibs)
+Michelle Thomas DVM,36,Male,Dr. Woods,6:47 AM,29-11-2023,irritable bowel syndrome (ibs)
+Gary Walsh,39,Male,Dr. Sullivan,4:34 AM,06-01-2024,obesity
+Alex Phillips,31,Female,Dr. Bowers,10:14 PM,11-09-2023,allergy
+Ricardo Watkins,20,Male,Dr. Chang,3:15 AM,07-12-2023,hypothyroidism
+Shane Lewis,75,Male,Dr. Silva,8:31 AM,22-04-2024,stroke
+Shaun Hubbard,38,Male,Dr. Turner,3:59 PM,31-07-2024,pneumonia
+Joseph Krause,26,Male,Dr. Turner,4:50 AM,01-06-2024,heart disease
+Michelle Rios,15,Female,Dr. Chang,10:00 AM,11-05-2024,cold
+Tammy Evans MD,57,Female,Dr. Fisher,3:34 AM,30-05-2024,stroke
+Cynthia Holland,60,Female,Dr. Chang,8:40 PM,26-07-2024,arthritis
+Elizabeth Richardson,44,Female,Dr. Woods,7:06 AM,05-07-2024,arthritis
+James Schneider,51,Male,Dr. Dixon,9:41 AM,30-10-2023,eczema
+Ricardo Mitchell,23,Male,Dr. Dixon,5:35 AM,18-11-2023,anemia
+Jessica Carr,44,Male,Dr. Richard,11:26 PM,20-08-2024,depression
+Kelly Martin,55,Male,Dr. Bowers,12:58 PM,02-02-2024,kidney stones
+Brian Cruz,57,Female,Dr. Bowers,3:26 AM,14-11-2023,heart disease
+John Ruiz,20,Male,Dr. Green,6:01 PM,26-11-2023,hypertension
+Brandi Jimenez,59,Male,Dr. Richard,4:09 PM,20-02-2024,cold
+Carolyn Smith,20,Male,Dr. Silva,10:15 AM,19-08-2024,infection
+Michael Valencia,69,Male,Dr. Fisher,7:36 PM,16-06-2024,heart disease
+Andre Collins,42,Male,Dr. Richard,1:31 PM,07-05-2024,anemia
+Tami Rivera,18,Male,Dr. Bowers,8:12 PM,02-08-2024,anemia
+Bethany Davidson,28,Male,Dr. Bowers,11:48 PM,01-04-2024,heart disease
+Philip Barr,25,Male,Dr. Sullivan,12:12 PM,24-09-2023,hypothyroidism
+Michael Gomez,58,Male,Dr. Bowers,7:54 PM,27-08-2024,hypothyroidism
+Jennifer Silva,46,Female,Dr. Bowers,2:31 AM,17-11-2023,pneumonia
+Ms. Jodi Davis,51,Male,Dr. Richard,11:27 PM,15-09-2023,anxiety
+Kelly Haynes,56,Female,Dr. Dixon,6:18 PM,21-08-2024,parkinson’s disease
+Cynthia Walsh,64,Female,Dr. Turner,3:16 AM,21-09-2023,migraine
+Anthony Randall,51,Female,Dr. Silva,5:16 AM,30-04-2024,flu
+Elizabeth Rose,30,Female,Dr. Silva,9:55 AM,07-06-2024,infection
+Megan Smith,27,Male,Dr. Richard,2:04 AM,30-10-2023,pneumonia
+Brandon Mullins,58,Male,Dr. Chang,6:34 PM,25-12-2023,anxiety
+Craig Brooks,28,Male,Dr. Richard,7:33 AM,26-12-2023,cold
+Julia Gardner,77,Female,Dr. Fisher,9:32 AM,22-12-2023,anxiety
+Jennifer Garcia,8,Male,Dr. Silva,11:48 PM,03-07-2024,diabetes
+Nathaniel Edwards,51,Female,Dr. Woods,4:54 AM,28-04-2024,asthma
+Richard Oneal,6,Female,Dr. Green,6:58 AM,14-02-2024,heart disease
+Luis Yang,31,Female,Dr. Fisher,2:50 PM,25-11-2023,arthritis
+Russell Sutton,12,Female,Dr. Sullivan,4:47 PM,08-10-2023,headache
+Christopher Scott,25,Female,Dr. Bowers,6:24 AM,11-10-2023,anemia
+Carol Bush,48,Male,Dr. Fisher,4:09 PM,17-09-2023,stroke
+Kristina Smith,9,Female,Dr. Woods,7:23 PM,03-01-2024,psoriasis
+Eric Mccoy,24,Male,Dr. Dixon,1:52 AM,02-12-2023,infection
+David Reyes,31,Male,Dr. Turner,3:19 PM,04-04-2024,migraine
+Kristopher Castro,80,Male,Dr. Green,9:23 PM,31-03-2024,depression
+Jeffery Drake,40,Male,Dr. Chang,12:55 PM,25-05-2024,flu
+Tracy Morrison,80,Male,Dr. Dixon,3:31 AM,15-09-2023,allergy
+Jose Kennedy,13,Male,Dr. Fisher,11:31 PM,25-05-2024,hypertension
+Nancy Gilmore,67,Female,Dr. Silva,3:59 PM,13-01-2024,parkinson’s disease
+Dawn Nelson,38,Female,Dr. Green,3:51 AM,07-06-2024,irritable bowel syndrome (ibs)
+Shawn Mccullough,47,Male,Dr. Green,6:44 AM,01-04-2024,chronic fatigue syndrome
+Alexander Wells,54,Female,Dr. Fisher,10:10 AM,03-10-2023,psoriasis
+Michele Lowe,60,Female,Dr. Richard,4:49 AM,30-08-2024,chronic fatigue syndrome
+Brian Daniel,8,Male,Dr. Richard,3:02 PM,02-04-2024,gastroesophageal reflux disease (gerd)
+Catherine Velasquez,68,Female,Dr. Turner,4:15 PM,12-01-2024,chronic fatigue syndrome
+Lindsay Arnold,72,Female,Dr. Dixon,7:19 PM,06-12-2023,irritable bowel syndrome (ibs)
+Jason Owens,57,Male,Dr. Dixon,8:10 AM,03-05-2024,hypertension
+Jessica Smith,76,Female,Dr. Woods,7:46 AM,05-04-2024,hypothyroidism
+Andrea Braun,60,Male,Dr. Richard,1:09 PM,06-10-2023,psoriasis
+Michelle Steele,64,Female,Dr. Bowers,7:43 AM,29-02-2024,anxiety
+Jennifer Ramirez,34,Female,Dr. Turner,3:27 AM,15-03-2024,eczema
+Alexander Woods,62,Male,Dr. Silva,10:29 PM,13-03-2024,asthma
+Nancy Smith,29,Female,Dr. Fisher,12:18 PM,11-04-2024,obesity
+Sandra Camacho,45,Female,Dr. Richard,10:15 AM,16-08-2024,arthritis
+Jennifer Padilla,36,Male,Dr. Fisher,12:27 PM,05-09-2024,arthritis
+Amy Williams,7,Female,Dr. Richard,1:46 PM,18-04-2024,anemia
+Mason James,7,Male,Dr. Woods,1:01 AM,11-06-2024,infection
+Pam Wise,8,Female,Dr. Bowers,7:23 PM,10-05-2024,anxiety
+Wesley Spencer,22,Male,Dr. Sullivan,12:14 PM,15-04-2024,asthma
+Madison Nunez,46,Female,Dr. Chang,10:20 AM,26-02-2024,gastroesophageal reflux disease (gerd)
+Michael Reynolds,2,Female,Dr. Sullivan,8:50 AM,15-04-2024,hypertension
+Michelle Dickson,39,Male,Dr. Richard,3:05 AM,20-04-2024,skin rash
+Sandra Willis DDS,2,Female,Dr. Turner,12:06 AM,06-03-2024,allergy
+Jacob Barnes,19,Female,Dr. Woods,11:43 AM,10-12-2023,hypothyroidism
+Maria Jackson,10,Female,Dr. Green,2:44 PM,07-07-2024,obesity
+Jeffrey Alexander,56,Male,Dr. Dixon,6:17 PM,07-07-2024,hypothyroidism
+Darrell Rivera,30,Male,Dr. Bowers,6:47 PM,21-04-2024,psoriasis
+Mario Moore,79,Male,Dr. Richard,11:10 PM,18-07-2024,flu
+Kathleen Jones,52,Female,Dr. Bowers,6:59 PM,20-10-2023,anemia
+Tony Johnson,73,Male,Dr. Turner,2:53 AM,07-04-2024,gastroesophageal reflux disease (gerd)
+Cassidy Pena,30,Female,Dr. Turner,12:11 PM,08-04-2024,insomnia
+Dr. Jessica Reynolds,60,Female,Dr. Fisher,12:50 PM,27-09-2023,migraine
+Jeremiah Rubio,26,Male,Dr. Green,1:06 PM,26-04-2024,skin rash
+John Huang,45,Female,Dr. Chang,6:26 AM,17-05-2024,arthritis
+Bruce Briggs,79,Female,Dr. Woods,5:47 PM,27-07-2024,infection
+Robert Turner,15,Female,Dr. Woods,8:10 PM,23-09-2023,stroke
+Robert Rivera,79,Female,Dr. Chang,7:39 AM,30-09-2023,kidney stones
+Anthony Curtis,12,Male,Dr. Woods,6:59 PM,21-02-2024,osteoporosis
+Colleen Fitzpatrick,42,Female,Dr. Green,1:38 AM,30-04-2024,insomnia
+Kimberly Harris,43,Female,Dr. Woods,4:02 AM,29-08-2024,pneumonia
+Jessica Williams,70,Male,Dr. Bowers,11:49 PM,14-02-2024,kidney stones
+Jackie Phillips,60,Male,Dr. Sullivan,3:40 AM,04-09-2024,hypothyroidism
+Andrew Williams,43,Male,Dr. Dixon,11:18 AM,25-08-2024,anemia
+Shawna Harrison,34,Female,Dr. Green,3:00 PM,13-03-2024,skin rash
+Charles Meza,5,Female,Dr. Silva,6:51 PM,28-11-2023,eczema
+Rebecca Jones,68,Male,Dr. Richard,6:24 AM,18-09-2023,osteoporosis
+Richard Wilson,7,Male,Dr. Sullivan,4:38 PM,12-01-2024,eczema
+Taylor Reynolds,26,Female,Dr. Dixon,1:27 AM,10-09-2023,stroke
+Mitchell Griffin,49,Female,Dr. Chang,8:14 AM,25-02-2024,pneumonia
+Stacy Fernandez,12,Female,Dr. Silva,11:55 PM,31-05-2024,heart disease
+Jaime Atkinson,28,Male,Dr. Silva,7:20 PM,25-04-2024,diabetes
+Angela Hunter,69,Female,Dr. Fisher,4:53 AM,28-11-2023,flu
+Shawn Wright,46,Female,Dr. Chang,4:03 PM,09-07-2024,irritable bowel syndrome (ibs)
+Wendy Kemp,26,Male,Dr. Turner,12:45 AM,19-03-2024,insomnia
+Erica Hale,27,Male,Dr. Richard,6:29 AM,23-04-2024,insomnia
+Susan Allen,34,Male,Dr. Turner,7:10 AM,24-07-2024,infection
+Brittany Sullivan,40,Female,Dr. Sullivan,11:10 AM,14-10-2023,insomnia
+Helen Campbell,41,Female,Dr. Dixon,5:25 PM,17-04-2024,parkinson’s disease
+James Smith,68,Female,Dr. Bowers,2:22 PM,19-10-2023,asthma
+Patrick Schwartz,51,Male,Dr. Fisher,9:12 PM,25-12-2023,psoriasis
+Breanna Wilson,34,Female,Dr. Richard,5:06 PM,13-08-2024,hypertension
+John Martinez DVM,63,Female,Dr. Woods,8:14 AM,06-05-2024,anxiety
+Shelby Jackson,46,Female,Dr. Fisher,4:50 PM,14-02-2024,migraine
+Robin Morris,32,Female,Dr. Fisher,4:40 PM,29-10-2023,depression
+Mrs. Rebecca Thomas,7,Female,Dr. Bowers,9:45 AM,09-06-2024,arthritis
+Collin Wilson,41,Male,Dr. Green,9:52 AM,28-12-2023,anxiety
+Dana Lloyd,72,Male,Dr. Dixon,12:54 PM,22-11-2023,headache
+Tina Hampton,11,Female,Dr. Silva,10:14 PM,03-06-2024,parkinson’s disease
+Kristin Johnson MD,3,Male,Dr. Woods,5:00 AM,20-09-2023,kidney stones
+Vincent Fisher,60,Male,Dr. Silva,3:50 AM,26-06-2024,depression
+Robert Gillespie,65,Male,Dr. Richard,4:39 PM,22-06-2024,hypertension
+William Sharp,58,Female,Dr. Richard,9:03 AM,18-11-2023,headache
+Mariah Smith DDS,8,Female,Dr. Green,3:13 PM,24-02-2024,hypertension
+William Frederick,54,Male,Dr. Richard,7:25 AM,09-04-2024,diabetes
+Michelle King,65,Female,Dr. Silva,3:28 PM,03-12-2023,anxiety
+Samantha Walters,60,Male,Dr. Sullivan,2:49 AM,05-06-2024,irritable bowel syndrome (ibs)
+Curtis Bradley,58,Female,Dr. Dixon,4:36 PM,01-02-2024,eczema
+Jennifer Li,17,Male,Dr. Turner,1:34 PM,28-05-2024,depression
+Deanna Johnson,12,Female,Dr. Silva,12:49 AM,30-09-2023,skin rash
+Erin Wu,12,Male,Dr. Dixon,9:26 PM,25-05-2024,depression
+Joshua Gonzalez,32,Female,Dr. Dixon,5:15 PM,03-11-2023,allergy
+Maria Mullins,14,Female,Dr. Woods,10:11 PM,10-02-2024,back pain
+Jordan Payne,21,Male,Dr. Sullivan,1:41 AM,05-09-2024,arthritis
+Manuel Cook,54,Female,Dr. Sullivan,1:49 PM,04-03-2024,gastroesophageal reflux disease (gerd)
+Holly Wise,29,Male,Dr. Fisher,6:58 PM,09-02-2024,hypertension
+Jack Castillo,58,Male,Dr. Chang,5:12 AM,18-10-2023,insomnia
+Miranda Gross,80,Male,Dr. Turner,11:40 PM,04-02-2024,cold
+Stephanie Hardy,11,Male,Dr. Woods,8:54 AM,15-07-2024,asthma
+Tammie Duran,56,Female,Dr. Chang,6:21 PM,03-01-2024,arthritis
+Sean Lopez,73,Female,Dr. Chang,10:48 PM,02-10-2023,infection
+Jennifer Long,52,Female,Dr. Fisher,11:11 AM,23-12-2023,anxiety
+Jeffrey Key,7,Male,Dr. Fisher,11:42 PM,07-12-2023,kidney stones
+Nancy Day,25,Male,Dr. Sullivan,11:17 PM,02-11-2023,hypertension
+Arthur Cantu,33,Female,Dr. Bowers,8:17 AM,03-02-2024,chronic fatigue syndrome
+April Bartlett,64,Female,Dr. Green,10:30 PM,20-04-2024,gastroesophageal reflux disease (gerd)
+Annette Moore,30,Female,Dr. Woods,7:07 AM,30-08-2024,parkinson’s disease
+David Orr,18,Male,Dr. Dixon,4:13 AM,23-05-2024,gastroesophageal reflux disease (gerd)
+Joshua Coleman,37,Female,Dr. Sullivan,5:44 AM,15-11-2023,cold
+David Edwards,47,Female,Dr. Sullivan,5:46 AM,12-01-2024,parkinson’s disease
+Dustin Franklin,42,Male,Dr. Dixon,3:51 PM,02-07-2024,infection
+Timothy Palmer,57,Male,Dr. Woods,9:30 AM,03-12-2023,heart disease
+Jennifer Simon,15,Male,Dr. Richard,5:16 AM,24-03-2024,asthma
+Miranda Sanford,73,Male,Dr. Woods,1:28 PM,02-10-2023,psoriasis
+Bradley Yates,38,Female,Dr. Chang,8:11 AM,28-01-2024,anemia
+Allison Vasquez,80,Male,Dr. Bowers,6:10 AM,11-02-2024,obesity
+Tiffany Bailey,71,Female,Dr. Chang,7:05 AM,08-09-2024,headache
+Jeremy Manning,27,Male,Dr. Silva,7:00 PM,16-02-2024,pneumonia
+Karen Lopez,39,Female,Dr. Bowers,1:31 PM,19-09-2023,osteoporosis
+Allison Kelly,58,Male,Dr. Turner,8:59 AM,10-12-2023,flu
+Austin Davis,67,Male,Dr. Chang,1:34 AM,07-10-2023,insomnia
+Jody Anderson,79,Female,Dr. Chang,10:08 PM,31-01-2024,irritable bowel syndrome (ibs)
+Emily Alexander,61,Male,Dr. Turner,4:59 AM,22-05-2024,flu
+Brittany Patton,70,Male,Dr. Fisher,10:57 AM,10-11-2023,back pain
+Katherine Fletcher,35,Male,Dr. Bowers,10:18 PM,16-03-2024,asthma
+Wendy Rowe,36,Male,Dr. Fisher,6:05 AM,29-07-2024,anxiety
+Jorge Long,31,Female,Dr. Bowers,11:19 PM,22-06-2024,parkinson’s disease
+Stephanie Davis,4,Male,Dr. Woods,9:38 AM,06-04-2024,chronic fatigue syndrome
+Kathy Thomas,17,Male,Dr. Richard,7:50 PM,17-10-2023,hypothyroidism
+Cheyenne Johnson,80,Female,Dr. Sullivan,12:13 PM,11-06-2024,flu
+Kenneth Williams,14,Female,Dr. Bowers,3:51 PM,07-04-2024,insomnia
+Kristine Hart,24,Male,Dr. Dixon,5:16 AM,06-07-2024,depression
+Howard Anderson,55,Female,Dr. Dixon,6:19 AM,17-10-2023,back pain
+Jacob Rivera,33,Male,Dr. Fisher,3:46 AM,22-08-2024,diabetes
+Lori Rodriguez,29,Female,Dr. Chang,7:31 AM,13-03-2024,back pain
+Whitney Diaz,38,Male,Dr. Silva,12:12 AM,29-03-2024,migraine
+Mary Alvarez,2,Male,Dr. Turner,3:17 PM,27-01-2024,depression
+Daniel Butler,70,Male,Dr. Woods,8:06 PM,09-03-2024,back pain
+John Caldwell,67,Female,Dr. Sullivan,6:58 AM,19-05-2024,asthma
+Brianna Pacheco,56,Male,Dr. Silva,4:34 AM,16-09-2023,gastroesophageal reflux disease (gerd)
+Lori Lee,8,Female,Dr. Green,6:55 AM,10-11-2023,psoriasis
+Chad Morris,17,Male,Dr. Woods,11:32 PM,05-08-2024,allergy
+Robert Cooper,51,Female,Dr. Richard,2:37 AM,31-03-2024,pneumonia
+William Bush,36,Female,Dr. Green,3:30 PM,17-11-2023,chronic fatigue syndrome
+Kathleen Davis,17,Male,Dr. Turner,8:14 AM,28-08-2024,obesity
+Jill Stewart,74,Female,Dr. Woods,2:09 PM,25-02-2024,infection
+Eugene Nelson,47,Female,Dr. Bowers,1:34 AM,28-11-2023,anemia
+Micheal Wilson,31,Male,Dr. Fisher,3:57 AM,06-06-2024,obesity
+Peter Collins,71,Female,Dr. Woods,10:01 PM,20-03-2024,obesity
+Sharon Lopez,38,Male,Dr. Woods,6:28 AM,30-10-2023,flu
+Margaret Jackson,30,Female,Dr. Richard,10:13 AM,21-02-2024,depression
+Karen Allen,32,Male,Dr. Green,5:23 PM,02-01-2024,headache
+Stephanie Mosley,10,Female,Dr. Dixon,10:32 AM,22-08-2024,parkinson’s disease
+James Davis,68,Female,Dr. Woods,1:45 AM,23-03-2024,hypothyroidism
+Matthew Mann,41,Female,Dr. Green,8:01 PM,02-10-2023,migraine
+Brian Chen,43,Female,Dr. Dixon,4:06 AM,18-07-2024,kidney stones
+Lisa Davis,31,Female,Dr. Richard,6:13 PM,08-03-2024,gastroesophageal reflux disease (gerd)
+Kevin Robinson,49,Female,Dr. Woods,4:29 AM,11-11-2023,back pain
+Elizabeth Mckenzie,63,Female,Dr. Sullivan,8:12 AM,21-11-2023,arthritis
+Kiara Park,38,Female,Dr. Dixon,4:13 PM,03-08-2024,irritable bowel syndrome (ibs)
+Lori Lucas,76,Male,Dr. Bowers,5:18 PM,15-03-2024,headache
+Steven Thompson,23,Male,Dr. Fisher,5:16 AM,06-10-2023,osteoporosis
+Nathaniel Lewis,19,Male,Dr. Richard,5:54 AM,29-10-2023,allergy
+Stephanie Howard,3,Female,Dr. Green,8:14 AM,05-02-2024,migraine
+Sheila Hopkins,72,Female,Dr. Silva,2:15 PM,18-04-2024,anxiety
+Jose Robles,66,Male,Dr. Dixon,12:47 AM,25-08-2024,hypertension
+Mrs. Amy Bailey DDS,43,Female,Dr. Green,9:15 AM,25-08-2024,pneumonia
+Ana Moon,48,Female,Dr. Turner,5:11 PM,21-10-2023,hypothyroidism
+Brett Walton,76,Female,Dr. Dixon,9:58 AM,04-12-2023,headache
+Cesar Young,5,Male,Dr. Richard,3:45 AM,12-08-2024,gastroesophageal reflux disease (gerd)
+Mary Dalton,18,Male,Dr. Richard,11:51 AM,14-02-2024,infection
+Marcia Olson,52,Male,Dr. Bowers,10:30 AM,01-07-2024,depression
+Mary Nelson,21,Female,Dr. Bowers,9:41 PM,18-03-2024,headache
+Marcus Howell,24,Male,Dr. Woods,5:12 AM,03-01-2024,chronic fatigue syndrome
+Craig Kelley,67,Male,Dr. Richard,6:02 PM,18-05-2024,anxiety
+Emily Thompson,11,Female,Dr. Fisher,1:36 AM,04-01-2024,infection
+Joseph Rice,19,Female,Dr. Chang,12:00 AM,31-03-2024,gastroesophageal reflux disease (gerd)
+Kimberly Hopkins,28,Male,Dr. Sullivan,1:51 PM,26-10-2023,hypertension
+Emily Flynn,65,Male,Dr. Bowers,3:21 PM,06-10-2023,depression
+Gary Snyder,74,Female,Dr. Green,7:58 PM,14-06-2024,migraine
+Nancy Johnson,29,Female,Dr. Dixon,3:28 AM,26-02-2024,flu
+Renee Smith,32,Female,Dr. Bowers,7:29 AM,20-02-2024,migraine
+Alicia Taylor,18,Female,Dr. Woods,6:59 AM,04-06-2024,psoriasis
+Amy Solomon,31,Female,Dr. Sullivan,12:39 AM,24-06-2024,stroke
+Pamela Leonard,51,Male,Dr. Silva,10:33 AM,21-07-2024,insomnia
+Monique Jacobson,47,Male,Dr. Fisher,2:10 PM,03-02-2024,arthritis
+James Banks,79,Male,Dr. Chang,2:03 AM,21-11-2023,back pain
+Meghan Richardson,77,Male,Dr. Sullivan,5:12 PM,02-11-2023,depression
+James Williams,18,Female,Dr. Green,2:09 AM,23-01-2024,pneumonia
+Laura Blackwell,65,Male,Dr. Richard,6:10 AM,03-09-2024,parkinson’s disease
+Jennifer Rowe,15,Male,Dr. Bowers,3:08 PM,08-10-2023,cold
+Mark Velazquez,80,Female,Dr. Bowers,3:12 PM,25-08-2024,arthritis
+Emily Ramirez,5,Female,Dr. Dixon,11:10 PM,16-09-2023,cold
+Stephen Peterson,69,Male,Dr. Sullivan,3:21 PM,19-12-2023,depression
+Gary Adams,78,Male,Dr. Green,5:13 AM,02-06-2024,infection
+Jill Ferguson,47,Female,Dr. Woods,6:52 AM,04-06-2024,arthritis
+George Powell,64,Male,Dr. Green,12:56 PM,06-12-2023,flu
+Diana Horton,60,Female,Dr. Silva,12:53 AM,09-01-2024,insomnia
+Terry Owens,41,Female,Dr. Silva,3:29 AM,11-10-2023,anemia
+Jeffrey Singh,3,Male,Dr. Silva,5:11 PM,18-07-2024,anxiety
+Robin Anderson,30,Male,Dr. Richard,2:15 PM,04-11-2023,psoriasis
+Karen Tapia,73,Female,Dr. Turner,11:22 AM,05-09-2024,asthma
+Todd Lee,22,Female,Dr. Green,9:32 AM,25-05-2024,headache
+Debra Randall,65,Female,Dr. Green,8:34 AM,03-12-2023,chronic fatigue syndrome
+Scott Stanley,63,Female,Dr. Dixon,2:42 AM,22-03-2024,back pain
+Timothy Hamilton,71,Male,Dr. Fisher,1:45 PM,13-02-2024,hypothyroidism
+Ryan Brown,42,Male,Dr. Fisher,6:09 AM,29-09-2023,flu
+Omar Davis,12,Male,Dr. Turner,8:59 AM,07-09-2024,obesity
+Anna Ayers,35,Female,Dr. Green,12:10 AM,27-12-2023,parkinson’s disease
+Justin Lucas,19,Female,Dr. Richard,6:53 PM,11-09-2023,skin rash
+Brendan Freeman,79,Female,Dr. Chang,1:23 AM,02-07-2024,depression
+Steven Harris,53,Female,Dr. Green,7:39 PM,13-08-2024,headache
+Kyle Wallace,26,Male,Dr. Bowers,12:25 PM,07-10-2023,osteoporosis
+Charles Larsen,42,Female,Dr. Bowers,8:55 PM,05-07-2024,eczema
+Stuart Shepard,39,Female,Dr. Bowers,7:01 PM,27-04-2024,diabetes
+Tim Baker,51,Female,Dr. Richard,11:31 AM,21-02-2024,eczema
+Erika Griffin,9,Male,Dr. Fisher,2:19 AM,11-08-2024,eczema
+Kimberly Webster,28,Female,Dr. Silva,4:18 AM,26-04-2024,anxiety
+Antonio Cooper,6,Female,Dr. Dixon,6:48 PM,05-10-2023,pneumonia
+Rebekah Howe,42,Female,Dr. Dixon,5:36 PM,03-02-2024,asthma
+Erin Olson,33,Male,Dr. Richard,6:09 PM,31-03-2024,irritable bowel syndrome (ibs)
+David Savage Jr.,45,Female,Dr. Silva,3:23 PM,11-04-2024,cold
+William Castro,58,Female,Dr. Green,3:34 AM,08-04-2024,allergy
+Abigail Cain,30,Female,Dr. Dixon,11:35 AM,26-09-2023,kidney stones
+Selena Navarro,35,Female,Dr. Turner,2:01 AM,20-07-2024,arthritis
+Mrs. Natasha Kirk DDS,46,Female,Dr. Bowers,1:04 AM,16-06-2024,kidney stones
+Sabrina Nelson,22,Female,Dr. Chang,7:30 AM,04-05-2024,obesity
+Jared Johnson,41,Female,Dr. Silva,10:36 AM,05-10-2023,chronic fatigue syndrome
+Roberta Anderson,4,Female,Dr. Sullivan,8:18 PM,11-07-2024,back pain
+Erin Lawson,47,Male,Dr. Chang,9:19 AM,29-06-2024,irritable bowel syndrome (ibs)
+Jeremy Lynch DVM,75,Female,Dr. Turner,12:05 AM,23-10-2023,arthritis
+Alexander York,71,Male,Dr. Sullivan,9:47 PM,22-11-2023,hypothyroidism
+Renee Moore,9,Female,Dr. Green,1:28 PM,03-10-2023,back pain
+Peter Boyer,21,Female,Dr. Silva,10:25 PM,03-06-2024,cold
+Tammy May,47,Female,Dr. Silva,2:19 PM,16-02-2024,insomnia
+Jason Chung,4,Female,Dr. Richard,11:28 PM,14-06-2024,infection
+Timothy Ward,64,Male,Dr. Chang,2:33 AM,02-05-2024,asthma
+Robin Davis,9,Male,Dr. Sullivan,7:25 PM,21-04-2024,depression
+John Strong,5,Female,Dr. Turner,9:01 AM,21-06-2024,anxiety
+Martha Lee,32,Male,Dr. Green,3:04 PM,20-04-2024,irritable bowel syndrome (ibs)
+Jamie Baker,7,Female,Dr. Dixon,10:46 PM,30-06-2024,asthma
+Jessica Stone,3,Male,Dr. Dixon,10:54 AM,25-07-2024,gastroesophageal reflux disease (gerd)
+Amanda Russo,30,Female,Dr. Chang,7:38 AM,24-09-2023,hypothyroidism
+Ryan Liu,43,Male,Dr. Richard,2:07 PM,17-08-2024,eczema
+Kara Boyd,10,Male,Dr. Chang,6:39 PM,12-02-2024,skin rash
+Jennifer Reeves,9,Female,Dr. Silva,6:44 PM,10-01-2024,obesity
+Gabrielle Best,46,Male,Dr. Bowers,1:31 AM,23-04-2024,migraine
+Elaine Martin,56,Male,Dr. Green,12:54 PM,08-06-2024,osteoporosis
+Diana Lamb,19,Male,Dr. Turner,7:51 AM,07-02-2024,eczema
+Heather Gray,29,Male,Dr. Green,9:30 PM,21-05-2024,heart disease
+David Lutz,59,Male,Dr. Turner,5:02 AM,10-09-2023,irritable bowel syndrome (ibs)
+Sharon Johnson,57,Male,Dr. Woods,9:37 AM,17-03-2024,migraine
+Samantha Morrow,20,Male,Dr. Bowers,4:47 AM,04-04-2024,hypertension
+Jennifer Jones,47,Female,Dr. Woods,10:34 PM,04-01-2024,parkinson’s disease
+Kimberly Robinson,41,Female,Dr. Turner,1:19 AM,31-01-2024,arthritis
+Victoria Moran,24,Male,Dr. Fisher,3:49 AM,10-03-2024,back pain
+Patricia Cochran,44,Female,Dr. Fisher,11:07 PM,11-06-2024,hypertension
+Larry Franklin,54,Female,Dr. Richard,2:13 PM,30-09-2023,gastroesophageal reflux disease (gerd)
+Jessica Green,50,Female,Dr. Woods,5:34 AM,15-12-2023,anxiety
+Katherine Smith,3,Female,Dr. Turner,8:15 AM,12-08-2024,flu
+Cole Vasquez,54,Male,Dr. Chang,8:35 PM,12-07-2024,hypothyroidism
+Kelly Andrews,35,Male,Dr. Bowers,10:25 AM,10-09-2023,osteoporosis
+Anita Watson DDS,70,Female,Dr. Sullivan,1:28 AM,02-01-2024,hypothyroidism
+Sophia Oliver,70,Male,Dr. Fisher,5:22 PM,27-12-2023,cold
+Stephanie Conner,61,Male,Dr. Chang,11:09 PM,14-12-2023,hypothyroidism
+Alexandria Gutierrez,7,Male,Dr. Silva,5:56 PM,16-11-2023,hypothyroidism
+Victor Serrano,74,Female,Dr. Silva,10:05 AM,21-05-2024,anxiety
+Brian Elliott,17,Female,Dr. Sullivan,7:58 AM,02-01-2024,parkinson’s disease
+Nathaniel Hood,54,Female,Dr. Turner,7:37 PM,02-12-2023,allergy
+Sabrina Smith,51,Female,Dr. Silva,9:02 AM,13-04-2024,allergy
+Jeffrey Marshall,23,Female,Dr. Green,3:58 AM,16-10-2023,heart disease
+Casey Berry,2,Male,Dr. Turner,2:28 AM,01-06-2024,irritable bowel syndrome (ibs)
+Maria Smith,66,Female,Dr. Bowers,7:33 PM,16-08-2024,heart disease
+Brandon Long,19,Female,Dr. Richard,4:28 AM,21-11-2023,allergy
+Morgan Curtis,67,Female,Dr. Fisher,5:30 AM,14-05-2024,hypothyroidism
+Sean Foster,20,Male,Dr. Dixon,9:34 AM,08-12-2023,anemia
+Carolyn James,12,Male,Dr. Dixon,12:31 PM,29-02-2024,cold
+Lorraine Stone,44,Female,Dr. Woods,7:09 AM,12-08-2024,cold
+Robin Carlson,32,Male,Dr. Dixon,3:39 PM,17-02-2024,parkinson’s disease
+Jennifer Palmer,24,Female,Dr. Bowers,11:10 PM,25-07-2024,anemia
+Sara Gonzalez,33,Female,Dr. Silva,1:53 AM,24-10-2023,obesity
+Clinton Gonzalez,4,Male,Dr. Richard,9:07 AM,21-08-2024,parkinson’s disease
+Bryan Todd,23,Female,Dr. Turner,6:25 AM,11-09-2023,insomnia
+Eric Thomas,73,Male,Dr. Chang,3:57 PM,25-03-2024,anxiety
+Jennifer Brown,23,Female,Dr. Turner,8:36 AM,29-10-2023,heart disease
+Robert Sherman,12,Male,Dr. Dixon,9:53 AM,14-11-2023,kidney stones
+Shannon Jimenez,56,Male,Dr. Turner,8:36 PM,16-10-2023,asthma
+Rachel Ortiz,78,Male,Dr. Woods,12:27 PM,18-07-2024,kidney stones
+Justin Ramos,15,Female,Dr. Sullivan,7:28 AM,11-07-2024,irritable bowel syndrome (ibs)
+Robin Ellison,60,Male,Dr. Turner,4:29 PM,19-11-2023,flu
+Kelly Lewis,21,Female,Dr. Silva,2:57 AM,06-02-2024,hypertension
+Danny Daniel,80,Female,Dr. Chang,7:22 PM,09-04-2024,insomnia
+Brittany Martin,79,Male,Dr. Dixon,10:17 PM,26-07-2024,arthritis
+Brian Harvey,7,Male,Dr. Green,10:19 PM,09-04-2024,asthma
+Kelsey Clarke,34,Male,Dr. Bowers,9:40 PM,23-05-2024,flu
+Dawn Cannon,45,Male,Dr. Turner,6:28 AM,24-11-2023,migraine
+Andrew Robinson,50,Male,Dr. Sullivan,12:16 PM,26-02-2024,chronic fatigue syndrome
+Louis Chan,5,Male,Dr. Turner,3:59 PM,31-08-2024,eczema
+Patricia Walton,6,Female,Dr. Fisher,2:22 AM,16-07-2024,gastroesophageal reflux disease (gerd)
+Cheryl Wade,65,Male,Dr. Turner,10:31 AM,12-03-2024,headache
+Debra Watson,13,Male,Dr. Sullivan,4:30 PM,24-11-2023,eczema
+Zachary Terry,47,Male,Dr. Chang,2:36 PM,08-12-2023,chronic fatigue syndrome
+Cory Peterson,39,Male,Dr. Dixon,8:08 AM,04-10-2023,depression
+Ronald Lopez,21,Male,Dr. Silva,1:23 AM,04-01-2024,anxiety
+Joseph King,60,Male,Dr. Green,12:27 AM,31-10-2023,heart disease
+Tyrone Mckee,32,Male,Dr. Silva,1:50 AM,03-07-2024,eczema
+Joseph Williams,66,Male,Dr. Fisher,6:50 AM,02-07-2024,stroke
+Brian Ballard,47,Male,Dr. Woods,3:01 PM,04-05-2024,psoriasis
+Eric Miller,22,Male,Dr. Dixon,7:25 AM,08-07-2024,migraine
+Kathryn Henderson,53,Female,Dr. Chang,6:34 AM,30-09-2023,kidney stones
+Cassie Salinas,45,Female,Dr. Fisher,11:01 AM,20-02-2024,irritable bowel syndrome (ibs)
+Ryan Stevenson,36,Male,Dr. Richard,6:17 PM,24-12-2023,eczema
+John Phillips,65,Male,Dr. Woods,4:17 AM,08-08-2024,eczema
+Sarah Ryan,52,Female,Dr. Silva,4:41 PM,31-12-2023,back pain
+Angela Owen,3,Female,Dr. Woods,10:07 AM,31-03-2024,diabetes
+Derrick Murphy,41,Male,Dr. Turner,1:58 AM,13-04-2024,asthma
+Ashley Downs,69,Male,Dr. Woods,7:31 AM,30-07-2024,heart disease
+Mark Hunter,38,Male,Dr. Turner,12:10 PM,22-12-2023,hypothyroidism
+Ralph Morales,72,Female,Dr. Dixon,9:57 PM,09-04-2024,pneumonia
+Dr. Eric Thomas,62,Female,Dr. Fisher,6:11 AM,05-05-2024,kidney stones
+Michael Jones,6,Male,Dr. Richard,9:22 AM,14-08-2024,hypertension
+Andrea Rodriguez,70,Male,Dr. Bowers,5:19 AM,29-05-2024,insomnia
+Edgar Rodriguez,75,Male,Dr. Sullivan,1:27 PM,02-09-2024,diabetes
+Theresa Estes,72,Male,Dr. Dixon,10:20 AM,10-03-2024,irritable bowel syndrome (ibs)
+Dr. Kylie Powell,35,Male,Dr. Bowers,5:35 PM,10-02-2024,arthritis
+Kelly Perez,6,Female,Dr. Richard,11:55 AM,10-06-2024,irritable bowel syndrome (ibs)
+Carla Pearson,60,Female,Dr. Richard,6:23 PM,16-12-2023,asthma
+Kimberly Thomas,52,Female,Dr. Richard,7:12 PM,09-04-2024,insomnia
+Jorge Reynolds,17,Female,Dr. Green,12:42 AM,17-01-2024,hypothyroidism
+Kyle Beard,53,Female,Dr. Bowers,9:29 AM,02-02-2024,irritable bowel syndrome (ibs)
+Catherine Barrett,46,Male,Dr. Chang,3:12 PM,24-05-2024,anemia
+Chase Palmer,65,Male,Dr. Richard,5:44 AM,13-08-2024,headache
+Danielle Navarro,8,Male,Dr. Bowers,8:41 PM,15-06-2024,stroke
+Tracy Garcia,4,Female,Dr. Turner,2:55 PM,13-06-2024,gastroesophageal reflux disease (gerd)
+Kelly Wolfe,36,Female,Dr. Silva,7:02 AM,08-10-2023,migraine
+Donna Keith,6,Female,Dr. Green,1:22 PM,24-06-2024,heart disease
+Andrew Buckley,34,Female,Dr. Chang,9:12 AM,25-04-2024,insomnia
+Michael Robinson,76,Female,Dr. Dixon,7:26 AM,28-07-2024,arthritis
+Gina Sharp,39,Male,Dr. Richard,10:45 PM,16-10-2023,heart disease
+Stephanie Pratt,28,Male,Dr. Fisher,6:33 AM,01-08-2024,hypothyroidism
+Cameron Powers,69,Male,Dr. Turner,1:09 PM,13-08-2024,anemia
+Michael Mcneil,68,Male,Dr. Silva,12:15 PM,10-03-2024,headache
+Jeremy Cooper,45,Female,Dr. Richard,5:09 AM,05-10-2023,migraine
+David Gomez,51,Male,Dr. Chang,2:35 PM,28-10-2023,pneumonia
+Ian Gould,34,Male,Dr. Richard,12:47 PM,17-01-2024,headache
+Alan Hanna,28,Male,Dr. Dixon,6:49 AM,29-01-2024,parkinson’s disease
+Elizabeth Leon,16,Male,Dr. Fisher,3:29 AM,05-10-2023,cold
+Scott Wilson,74,Female,Dr. Turner,7:50 AM,16-02-2024,psoriasis
+Charles Conley,44,Female,Dr. Fisher,7:37 PM,06-06-2024,headache
+Thomas Carter,33,Male,Dr. Green,6:08 PM,25-12-2023,pneumonia
+Matthew Sanchez,77,Female,Dr. Green,2:19 PM,16-06-2024,stroke
+Pamela Contreras,70,Female,Dr. Green,3:01 AM,10-02-2024,depression
+Mark Fuller,47,Male,Dr. Woods,1:25 AM,17-11-2023,osteoporosis
+Joel Chen,22,Male,Dr. Richard,5:49 AM,06-01-2024,hypothyroidism
+Christopher Gaines,21,Male,Dr. Richard,8:44 PM,23-08-2024,flu
+Sean Jackson,44,Female,Dr. Turner,12:19 AM,25-03-2024,anemia
+Susan Davis PhD,3,Female,Dr. Turner,4:08 PM,05-01-2024,headache
+Sharon Crawford,76,Male,Dr. Sullivan,2:40 AM,23-04-2024,hypothyroidism
+Richard Doyle,8,Male,Dr. Fisher,12:10 AM,30-07-2024,pneumonia
+Victoria Hammond,74,Female,Dr. Chang,6:51 PM,01-10-2023,headache
+Timothy Wagner PhD,21,Male,Dr. Richard,4:40 AM,29-03-2024,anxiety
+Carlos Lewis,46,Female,Dr. Silva,11:19 PM,05-01-2024,arthritis
+Charles Williams,48,Female,Dr. Richard,5:34 AM,29-03-2024,psoriasis
+Leslie Barber,39,Male,Dr. Richard,8:42 AM,06-11-2023,anxiety
+Jody Cole,39,Male,Dr. Green,5:27 AM,11-03-2024,arthritis
+Luis Fields,43,Male,Dr. Bowers,6:54 PM,22-11-2023,anemia
+Tonya Warner,65,Female,Dr. Dixon,4:16 PM,29-07-2024,cold
+Leslie Spencer,53,Female,Dr. Richard,9:59 AM,24-02-2024,gastroesophageal reflux disease (gerd)
+Linda Todd,78,Male,Dr. Turner,7:18 AM,11-05-2024,flu
+Keith Frost,57,Female,Dr. Dixon,6:25 AM,25-05-2024,skin rash
+Matthew Rojas,23,Female,Dr. Chang,3:06 AM,25-09-2023,anxiety
+Laura Mccann,2,Female,Dr. Woods,10:18 PM,26-08-2024,diabetes
+Kayla Chavez,20,Male,Dr. Fisher,8:28 PM,08-06-2024,infection
+Kevin Collins,74,Female,Dr. Chang,10:20 PM,02-06-2024,chronic fatigue syndrome
+Michelle Cline,7,Male,Dr. Sullivan,11:00 AM,29-11-2023,infection
+Rhonda Randall,58,Female,Dr. Sullivan,10:34 AM,30-12-2023,irritable bowel syndrome (ibs)
+Erin Chapman DDS,18,Male,Dr. Woods,5:15 PM,22-04-2024,kidney stones
+Mary Giles,45,Female,Dr. Green,1:41 PM,01-08-2024,parkinson’s disease
+Eric Ford,3,Female,Dr. Woods,6:07 PM,25-12-2023,stroke
+Susan Porter,63,Male,Dr. Silva,8:22 PM,03-09-2024,irritable bowel syndrome (ibs)
+Scott Robertson,34,Female,Dr. Silva,7:16 PM,06-10-2023,hypertension
+Deborah Landry,80,Male,Dr. Green,4:02 PM,31-08-2024,insomnia
+Jeremy Woods,26,Female,Dr. Woods,11:49 PM,18-06-2024,infection
+Peter Johnston,10,Male,Dr. Woods,12:45 AM,14-05-2024,anemia
+Lindsay Phillips,72,Female,Dr. Dixon,11:41 PM,10-07-2024,back pain
+Brandon Cruz,56,Female,Dr. Woods,10:23 AM,19-04-2024,depression
+Gregory Weber,37,Male,Dr. Green,2:01 AM,02-03-2024,hypertension
+Nicole Walker,24,Female,Dr. Fisher,1:49 AM,25-06-2024,anemia
+Walter Owens,69,Male,Dr. Fisher,9:36 PM,10-11-2023,asthma
+Bradley Mcdaniel,23,Male,Dr. Sullivan,12:18 AM,04-06-2024,parkinson’s disease
+Anthony King,10,Female,Dr. Chang,2:43 PM,01-05-2024,stroke
+Evelyn Brown,22,Female,Dr. Chang,6:50 PM,25-12-2023,irritable bowel syndrome (ibs)
+Carrie Mitchell,76,Male,Dr. Dixon,4:16 PM,11-10-2023,insomnia
+Joshua Turner,16,Male,Dr. Bowers,8:13 AM,12-01-2024,diabetes
+Norma Sims,66,Female,Dr. Bowers,3:19 AM,01-10-2023,arthritis
+Robert Calderon,71,Male,Dr. Woods,1:05 AM,12-11-2023,chronic fatigue syndrome
+Sandra Thompson,79,Male,Dr. Dixon,12:24 AM,16-11-2023,headache
+Elizabeth Baker,51,Female,Dr. Woods,12:45 PM,22-02-2024,hypothyroidism
+Christopher Bailey,57,Female,Dr. Fisher,12:05 PM,20-01-2024,migraine
+Shane Williams,36,Male,Dr. Chang,3:23 PM,03-09-2024,kidney stones
+James Hancock,41,Female,Dr. Sullivan,2:07 PM,16-01-2024,parkinson’s disease
+Erika Gregory,38,Male,Dr. Bowers,5:56 AM,13-09-2023,headache
+David Horton,3,Male,Dr. Chang,5:17 AM,09-10-2023,depression
+Michael Rojas,56,Male,Dr. Fisher,11:12 PM,05-11-2023,kidney stones
+Deborah Taylor,37,Female,Dr. Richard,11:06 AM,18-05-2024,migraine
+Jay Guerrero,35,Male,Dr. Bowers,1:16 PM,25-05-2024,anemia
+Dominique Jones,70,Female,Dr. Woods,3:46 AM,29-01-2024,headache
+Mr. George Williams,69,Male,Dr. Richard,7:02 AM,12-06-2024,eczema
+Jessica Zimmerman,72,Male,Dr. Silva,4:05 AM,08-09-2024,obesity
+Janet Williams,42,Male,Dr. Dixon,3:00 AM,23-01-2024,heart disease
+Christina Stevenson,45,Male,Dr. Silva,9:28 AM,16-08-2024,migraine
+Amanda Quinn,26,Female,Dr. Sullivan,9:30 PM,21-02-2024,eczema
+Brittany Baldwin,57,Female,Dr. Green,12:27 AM,18-09-2023,anxiety
+Kimberly Hamilton,20,Female,Dr. Richard,12:44 PM,28-01-2024,skin rash
+Christopher Ward,2,Female,Dr. Richard,1:31 PM,06-06-2024,arthritis
+Sarah Fitzgerald,67,Female,Dr. Richard,10:17 PM,03-10-2023,back pain
+Crystal Smith,21,Male,Dr. Richard,3:43 PM,29-07-2024,anemia
+Pamela Arroyo,74,Male,Dr. Green,11:14 PM,17-04-2024,pneumonia
+William Rivera,51,Female,Dr. Sullivan,7:23 AM,23-04-2024,flu
+Alicia Bauer,48,Female,Dr. Chang,6:06 AM,23-01-2024,heart disease
+Theresa Moore,61,Male,Dr. Chang,6:30 PM,19-05-2024,flu
+Joshua Russell,6,Female,Dr. Dixon,4:07 AM,26-04-2024,kidney stones
+Dwayne Osborne,73,Male,Dr. Dixon,11:48 PM,19-01-2024,hypothyroidism
+Cynthia Calhoun,54,Female,Dr. Turner,7:55 AM,04-11-2023,skin rash
+Randy Peterson,80,Male,Dr. Richard,5:22 AM,05-03-2024,migraine
+Miss Jacqueline Brown,31,Male,Dr. Chang,7:04 PM,20-10-2023,arthritis
+Travis Andrews,4,Female,Dr. Bowers,5:46 AM,04-07-2024,obesity
+Christy Warren,48,Female,Dr. Green,5:19 AM,22-06-2024,irritable bowel syndrome (ibs)
+Teresa Wagner,69,Female,Dr. Dixon,11:27 PM,18-07-2024,chronic fatigue syndrome
+Emma Aguilar,22,Male,Dr. Dixon,7:40 AM,07-06-2024,anxiety
+Anne Martin,26,Male,Dr. Silva,7:21 AM,31-08-2024,insomnia
+Dennis Lopez,47,Female,Dr. Silva,3:34 AM,24-06-2024,eczema
+Brent Hernandez,65,Female,Dr. Chang,5:40 AM,31-05-2024,headache
+Cassie West,4,Female,Dr. Fisher,5:24 PM,07-05-2024,pneumonia
+Robert Adams,33,Male,Dr. Woods,1:45 AM,11-04-2024,pneumonia
+Sabrina Gutierrez,75,Female,Dr. Chang,11:07 AM,30-07-2024,obesity
+Christopher Stevens,32,Male,Dr. Sullivan,4:35 PM,29-02-2024,heart disease
+Mary Willis,37,Male,Dr. Sullivan,6:08 PM,30-10-2023,chronic fatigue syndrome
+Aaron Taylor,25,Male,Dr. Dixon,7:08 AM,02-08-2024,back pain
+Wayne Bradley,55,Female,Dr. Sullivan,10:19 AM,19-06-2024,kidney stones
+Sarah Ferrell,11,Male,Dr. Richard,2:47 PM,29-02-2024,heart disease
+Michael Jordan,75,Male,Dr. Chang,11:56 AM,03-02-2024,heart disease
+Lisa Powell,59,Male,Dr. Bowers,11:45 PM,14-03-2024,chronic fatigue syndrome
+Sarah Snyder,32,Female,Dr. Dixon,6:27 PM,12-04-2024,heart disease
+Jamie Sullivan,59,Male,Dr. Sullivan,6:23 AM,06-01-2024,psoriasis
+Christopher Greer,67,Female,Dr. Dixon,4:46 AM,07-08-2024,cold
+Marcus Moore,14,Female,Dr. Richard,4:49 AM,19-06-2024,hypertension
+Crystal Martinez,26,Female,Dr. Fisher,12:22 AM,25-06-2024,infection
+Tanner Kramer,23,Female,Dr. Turner,10:37 PM,27-05-2024,anxiety
+Sean Romero,58,Female,Dr. Sullivan,8:32 AM,19-05-2024,skin rash
+Keith Johnson,10,Female,Dr. Green,8:39 AM,15-03-2024,anemia
+Denise Brooks,56,Female,Dr. Green,6:44 AM,30-11-2023,migraine
+Lisa Chung,52,Male,Dr. Chang,12:27 PM,20-02-2024,kidney stones
+Aaron Christian,36,Female,Dr. Bowers,4:31 AM,09-01-2024,skin rash
+Brandi King,34,Female,Dr. Sullivan,3:41 PM,18-09-2023,anxiety
+Laura Spencer,57,Female,Dr. Woods,2:45 PM,16-03-2024,kidney stones
+Stephanie Price,47,Female,Dr. Chang,12:19 PM,01-08-2024,diabetes
+Sheila Friedman,80,Female,Dr. Fisher,11:54 AM,14-02-2024,arthritis
+Dr. Rodney Harrison,43,Female,Dr. Fisher,1:52 AM,05-11-2023,heart disease
+Brandy Garner,13,Male,Dr. Silva,10:33 AM,01-05-2024,skin rash
+Ronald Cooper,41,Female,Dr. Green,9:15 PM,01-01-2024,diabetes
+Donna Jimenez,5,Male,Dr. Woods,4:59 AM,28-07-2024,osteoporosis
+Zachary Allen,65,Female,Dr. Chang,9:52 AM,09-08-2024,gastroesophageal reflux disease (gerd)
+Rhonda Arroyo,3,Female,Dr. Dixon,10:35 PM,09-07-2024,chronic fatigue syndrome
+Kathleen David,34,Female,Dr. Woods,3:20 PM,09-01-2024,asthma
+Terry Harmon,27,Male,Dr. Bowers,9:53 PM,30-11-2023,eczema
+Eduardo Shields,52,Male,Dr. Richard,6:31 AM,21-10-2023,eczema
+Devin Hernandez,51,Female,Dr. Sullivan,3:47 AM,24-11-2023,infection
+Carlos Reed,57,Male,Dr. Green,3:23 PM,28-10-2023,parkinson’s disease
+Leslie Moore,51,Female,Dr. Turner,2:06 AM,19-06-2024,anxiety
+Zachary King,6,Male,Dr. Silva,3:06 AM,24-04-2024,psoriasis
+Cody Ramirez,76,Male,Dr. Silva,1:57 AM,16-02-2024,insomnia
+Jacqueline Gutierrez,61,Female,Dr. Green,9:20 AM,24-09-2023,obesity
+Kyle Warren,47,Female,Dr. Turner,8:00 PM,09-05-2024,allergy
+Brian Peters,74,Female,Dr. Woods,2:50 AM,02-07-2024,flu
+Amy Peterson,18,Female,Dr. Chang,8:52 PM,19-06-2024,kidney stones
+John Stewart,74,Female,Dr. Turner,8:00 PM,18-03-2024,hypertension
+Rebecca Wilson,37,Female,Dr. Green,7:26 AM,28-05-2024,obesity
+Michael Watkins,43,Male,Dr. Sullivan,2:35 AM,18-01-2024,stroke
+Sheila Gardner,5,Male,Dr. Silva,2:11 PM,20-06-2024,anxiety
+Renee Hernandez,52,Female,Dr. Sullivan,3:12 PM,22-12-2023,insomnia
+James Diaz,62,Male,Dr. Sullivan,1:31 AM,15-01-2024,osteoporosis
+Robert Black,68,Female,Dr. Silva,8:06 PM,28-07-2024,stroke
+Sandra Morton,19,Female,Dr. Silva,3:29 PM,10-05-2024,allergy
+Tony Reeves,7,Male,Dr. Richard,6:38 PM,14-03-2024,arthritis
+Juan Clark,12,Male,Dr. Bowers,9:50 PM,20-10-2023,pneumonia
+Jennifer Williams,74,Male,Dr. Chang,8:22 AM,09-09-2023,back pain
+Tamara Walsh,46,Male,Dr. Sullivan,6:52 PM,04-07-2024,infection
+Jason Neal,48,Female,Dr. Bowers,7:02 PM,20-09-2023,obesity
+Daniel Davis,2,Male,Dr. Bowers,10:08 PM,31-01-2024,stroke
+Nicole Taylor,10,Female,Dr. Sullivan,9:38 AM,16-05-2024,cold
+Matthew Beltran,26,Female,Dr. Green,11:11 PM,26-12-2023,heart disease
+Ryan Graham,16,Female,Dr. Fisher,3:03 AM,19-02-2024,heart disease
+Alexandra Boyd,71,Male,Dr. Sullivan,2:29 AM,01-06-2024,chronic fatigue syndrome
+Richard Woodward,62,Female,Dr. Bowers,3:55 PM,20-04-2024,headache
+Paul Cox,7,Female,Dr. Bowers,1:01 PM,08-12-2023,cold
+Sharon Bright,42,Female,Dr. Woods,11:55 PM,06-02-2024,depression
+Kathleen Lewis,5,Female,Dr. Dixon,10:11 AM,03-12-2023,gastroesophageal reflux disease (gerd)
+Taylor Rodriguez,42,Male,Dr. Green,9:54 PM,20-04-2024,asthma
+Brian Johnson,52,Male,Dr. Green,5:37 AM,07-06-2024,arthritis
+Brian Campbell,18,Female,Dr. Chang,2:40 AM,05-10-2023,hypertension
+Cynthia French PhD,37,Female,Dr. Bowers,9:44 PM,24-04-2024,psoriasis
+James Hernandez,54,Female,Dr. Green,6:52 PM,17-10-2023,anemia
+Carlos Taylor,20,Male,Dr. Fisher,11:31 PM,18-05-2024,parkinson’s disease
+Amy Woods,78,Female,Dr. Green,2:28 PM,23-12-2023,skin rash
+Jessica Wright,20,Male,Dr. Richard,2:23 AM,17-08-2024,osteoporosis
+Anne Thompson,53,Male,Dr. Sullivan,1:14 AM,24-04-2024,pneumonia
+Jerry Harris,41,Male,Dr. Bowers,4:02 PM,15-09-2023,migraine
+Deborah Mendoza,67,Male,Dr. Chang,1:34 PM,28-07-2024,hypothyroidism
+Maureen Morrison,9,Female,Dr. Chang,3:17 AM,09-02-2024,flu
+Jennifer Jordan,22,Male,Dr. Silva,1:55 AM,22-07-2024,hypothyroidism
+Carlos Carlson,18,Male,Dr. Woods,12:29 AM,31-12-2023,back pain
+Robert Franklin MD,19,Male,Dr. Silva,11:53 AM,10-06-2024,irritable bowel syndrome (ibs)
+Destiny Torres,63,Female,Dr. Richard,11:55 AM,30-07-2024,migraine
+Veronica Lewis,7,Female,Dr. Sullivan,8:41 PM,01-02-2024,skin rash
+Kerry Johnson,68,Male,Dr. Fisher,5:59 PM,13-02-2024,irritable bowel syndrome (ibs)
+Jessica Simon,7,Male,Dr. Fisher,12:18 PM,19-11-2023,pneumonia
+Robert Kelley,73,Male,Dr. Sullivan,11:36 PM,27-01-2024,chronic fatigue syndrome
+Anthony Russell,51,Female,Dr. Turner,8:22 AM,02-02-2024,kidney stones
+Jody Schneider,25,Male,Dr. Bowers,6:56 AM,30-04-2024,eczema
+Janet Fisher,46,Female,Dr. Sullivan,12:00 PM,03-09-2024,kidney stones
+Amanda Morgan,76,Male,Dr. Dixon,7:27 AM,22-04-2024,arthritis
+Matthew Craig,12,Female,Dr. Dixon,8:24 PM,12-06-2024,heart disease
+Lisa Reese,12,Female,Dr. Sullivan,12:07 AM,27-10-2023,stroke
+Mark Mccoy,73,Male,Dr. Bowers,8:54 AM,19-07-2024,osteoporosis
+Nicole Johnson,24,Female,Dr. Fisher,5:39 PM,10-07-2024,insomnia
+Jennifer Ramirez,35,Female,Dr. Turner,10:11 PM,22-06-2024,obesity
+Bryan Moore,27,Male,Dr. Fisher,6:19 AM,06-09-2024,allergy
+John Jacobs,35,Female,Dr. Turner,9:01 AM,13-04-2024,depression
+Damon Boyd,43,Male,Dr. Fisher,12:56 PM,30-06-2024,pneumonia
+Benjamin Perez MD,34,Male,Dr. Bowers,7:30 AM,21-02-2024,kidney stones
+Judy Sanchez,35,Male,Dr. Woods,7:31 AM,16-01-2024,stroke
+Yvette Moore,68,Female,Dr. Sullivan,6:22 AM,18-12-2023,allergy
+Katherine Scott,60,Female,Dr. Sullivan,2:20 PM,16-01-2024,back pain
+Kirsten Tran,21,Female,Dr. Chang,12:11 PM,15-10-2023,depression
+Jeanette Graves,59,Male,Dr. Richard,6:35 AM,06-05-2024,asthma
+Rhonda Williams,72,Male,Dr. Fisher,2:57 AM,17-11-2023,asthma
+Kevin Wade,21,Female,Dr. Sullivan,1:38 AM,28-02-2024,infection
+Regina Rivera,6,Female,Dr. Sullivan,4:57 AM,13-08-2024,stroke
+Kim Kirby,76,Female,Dr. Green,1:22 AM,10-12-2023,infection
+Joseph Young,24,Male,Dr. Chang,2:42 PM,21-11-2023,back pain
+Tonya Torres,67,Male,Dr. Dixon,4:17 AM,17-10-2023,arthritis
+Jessica Carter,6,Female,Dr. Sullivan,3:39 AM,29-02-2024,skin rash
+Patrick Riggs,42,Female,Dr. Silva,8:55 PM,07-06-2024,allergy
+Sarah Turner,11,Female,Dr. Richard,10:37 PM,11-11-2023,depression
+David Hahn,26,Female,Dr. Chang,9:05 AM,10-09-2023,psoriasis
+Daniel Leon,60,Female,Dr. Turner,5:47 AM,28-05-2024,gastroesophageal reflux disease (gerd)
+Danielle Mills,80,Female,Dr. Woods,8:11 PM,08-05-2024,infection
+Scott Richards,32,Male,Dr. Silva,10:40 PM,20-11-2023,psoriasis
+Michael Mercer,60,Female,Dr. Green,1:39 PM,25-01-2024,irritable bowel syndrome (ibs)
+Rhonda Cain,68,Male,Dr. Richard,3:32 AM,14-07-2024,asthma
+James Gonzalez,22,Female,Dr. Turner,5:09 AM,23-06-2024,anemia
+Rachel Perry,44,Male,Dr. Turner,4:17 AM,30-09-2023,anemia
+Jeffery Griffith,19,Female,Dr. Chang,5:20 AM,22-06-2024,pneumonia
+Tim Stanley,62,Male,Dr. Green,3:18 PM,05-01-2024,kidney stones
+Alexis Miller,73,Male,Dr. Chang,2:17 AM,09-12-2023,allergy
+Luis Hansen,9,Female,Dr. Green,11:25 PM,10-11-2023,cold
+Scott Cook,71,Female,Dr. Green,1:04 AM,11-10-2023,anxiety
+Edgar Potter,12,Female,Dr. Silva,4:30 AM,04-04-2024,parkinson’s disease
+Mr. Derrick Oliver,68,Female,Dr. Green,5:24 PM,20-06-2024,kidney stones
+Adam Love,45,Female,Dr. Sullivan,7:28 AM,13-01-2024,chronic fatigue syndrome
+Eric Fox,2,Female,Dr. Sullivan,12:05 AM,13-03-2024,skin rash
+Robert Waller,12,Male,Dr. Richard,2:15 AM,05-05-2024,asthma
+Amanda Valdez,15,Male,Dr. Dixon,3:09 AM,10-10-2023,eczema
+James Davis,56,Female,Dr. Dixon,1:37 PM,18-04-2024,hypertension
+Allison Gregory,79,Male,Dr. Richard,10:27 PM,23-04-2024,kidney stones
+Jordan Green,47,Female,Dr. Sullivan,7:27 AM,13-01-2024,skin rash
+Jeffrey Cole,74,Male,Dr. Silva,1:51 PM,20-09-2023,heart disease
+Ruben Mccoy PhD,59,Female,Dr. Richard,11:37 AM,24-09-2023,heart disease
+Kelly Fuller,44,Male,Dr. Sullivan,1:44 AM,08-08-2024,gastroesophageal reflux disease (gerd)
+Morgan Hansen,50,Male,Dr. Fisher,2:39 AM,12-01-2024,chronic fatigue syndrome
+Donald Mclaughlin,67,Female,Dr. Bowers,2:31 PM,23-10-2023,kidney stones
+Tyler Fritz,48,Female,Dr. Chang,12:11 AM,18-10-2023,asthma
+Stacy Bernard,17,Male,Dr. Bowers,6:36 AM,17-02-2024,chronic fatigue syndrome
+Sara Lopez,19,Male,Dr. Woods,9:08 AM,13-03-2024,hypothyroidism
+Alexander Gomez,42,Female,Dr. Fisher,8:35 AM,28-08-2024,insomnia
+Christopher Marquez,4,Male,Dr. Turner,4:51 AM,26-07-2024,asthma
+Christopher Brady,25,Female,Dr. Turner,12:38 AM,07-09-2024,insomnia
+Tammy Camacho,18,Female,Dr. Woods,5:43 PM,03-08-2024,heart disease
+Larry Patel,4,Male,Dr. Sullivan,3:21 AM,03-02-2024,headache
+David Armstrong,45,Male,Dr. Richard,1:06 PM,20-04-2024,headache
+Nicole Burnett,79,Female,Dr. Sullivan,11:42 PM,22-01-2024,hypertension
+Troy Carr,26,Female,Dr. Richard,7:58 PM,25-12-2023,insomnia
+Gary Brooks,7,Female,Dr. Chang,10:49 PM,29-04-2024,kidney stones
+Mason Herrera,54,Female,Dr. Turner,10:29 PM,18-04-2024,hypertension
+Anne Hernandez,9,Female,Dr. Turner,8:43 PM,16-04-2024,arthritis
+Daniel King,41,Male,Dr. Richard,2:20 PM,19-07-2024,insomnia
+Hector Romero,51,Male,Dr. Green,10:00 AM,22-09-2023,depression
+Kelly Vance,8,Female,Dr. Woods,5:36 PM,11-12-2023,infection
+Matthew Stanley,78,Male,Dr. Richard,6:35 PM,12-05-2024,osteoporosis
+Laura Page,23,Male,Dr. Chang,3:04 PM,23-12-2023,anemia
+Benjamin Garcia,47,Male,Dr. Bowers,8:52 AM,23-11-2023,obesity
+Mark Reyes,11,Female,Dr. Chang,5:43 PM,24-05-2024,eczema
+Sean Rubio,54,Male,Dr. Bowers,10:39 AM,22-05-2024,arthritis
+Donald Thomas,8,Male,Dr. Fisher,9:05 AM,19-06-2024,irritable bowel syndrome (ibs)
+Lacey Payne,58,Female,Dr. Turner,12:46 AM,08-04-2024,skin rash
+Robert Lopez,47,Male,Dr. Silva,6:54 PM,09-09-2023,parkinson’s disease
+Meagan Boyle,79,Male,Dr. Silva,4:34 AM,23-06-2024,hypothyroidism
+Jill Cummings,34,Female,Dr. Dixon,3:34 AM,10-05-2024,anxiety
+Breanna Fernandez,41,Male,Dr. Silva,10:21 PM,28-03-2024,irritable bowel syndrome (ibs)
+Tammy Peters,74,Female,Dr. Bowers,1:09 PM,19-03-2024,cold
+Jose Neal,60,Female,Dr. Richard,1:32 PM,23-05-2024,stroke
+Carlos Lee,54,Female,Dr. Woods,1:35 PM,11-09-2023,pneumonia
+Daniel Phillips,25,Male,Dr. Richard,3:04 AM,01-07-2024,hypertension
+Jeffrey Vazquez,5,Male,Dr. Silva,2:23 AM,23-03-2024,heart disease
+Christopher Garcia,60,Male,Dr. Green,9:24 PM,19-09-2023,obesity
+Shannon Adams,35,Male,Dr. Fisher,3:37 AM,19-08-2024,anemia
+Hector Moore,26,Male,Dr. Silva,2:19 PM,10-09-2023,obesity
+Daniel Williams,51,Male,Dr. Fisher,7:21 PM,08-10-2023,infection
+Peter Ramirez,10,Female,Dr. Turner,4:32 PM,16-11-2023,arthritis
+Kathy Avila DDS,47,Male,Dr. Fisher,2:30 PM,16-05-2024,hypothyroidism
+Rachael Mueller,14,Female,Dr. Turner,5:58 PM,27-01-2024,hypothyroidism
+Christopher Lopez,17,Male,Dr. Green,11:06 PM,05-03-2024,depression
+Blake Hall,5,Male,Dr. Richard,5:18 PM,19-03-2024,back pain
+Mark Johnson,46,Male,Dr. Woods,8:57 AM,18-07-2024,obesity
+Michelle Snow,4,Female,Dr. Richard,2:47 PM,11-04-2024,pneumonia
+Latoya Evans,24,Female,Dr. Woods,3:52 PM,15-10-2023,cold
+Louis Lang,53,Male,Dr. Turner,3:12 PM,05-07-2024,kidney stones
+Maxwell Cox,80,Female,Dr. Turner,1:25 PM,30-07-2024,flu
+Amanda Garcia,3,Female,Dr. Bowers,8:51 AM,12-02-2024,flu
+Shannon Collins,43,Female,Dr. Dixon,12:06 AM,10-11-2023,gastroesophageal reflux disease (gerd)
+Patricia Jones,60,Male,Dr. Turner,5:06 AM,05-09-2024,obesity
+Jessica Gonzalez,72,Female,Dr. Sullivan,11:02 AM,09-04-2024,pneumonia
+Roberto Rhodes,65,Female,Dr. Silva,5:34 PM,08-07-2024,parkinson’s disease
+John Martin,62,Male,Dr. Silva,6:03 AM,21-08-2024,chronic fatigue syndrome
+Kelly Jones MD,12,Male,Dr. Woods,5:43 PM,28-07-2024,osteoporosis
+Erica Oconnor,8,Male,Dr. Chang,1:42 PM,18-06-2024,parkinson’s disease
+Randall Salazar,70,Male,Dr. Fisher,8:29 AM,21-06-2024,allergy
+Corey Burns,53,Female,Dr. Silva,6:11 AM,21-07-2024,psoriasis
+Amber Wright,35,Female,Dr. Richard,5:32 AM,06-03-2024,irritable bowel syndrome (ibs)
+Edward Barnett,5,Male,Dr. Turner,10:54 PM,20-11-2023,migraine
+Leslie Douglas,68,Female,Dr. Turner,4:37 PM,02-08-2024,chronic fatigue syndrome
+John Griffith DDS,14,Female,Dr. Turner,11:31 AM,30-01-2024,arthritis
+John Jones,12,Female,Dr. Dixon,1:19 PM,07-03-2024,depression
+Paul Zavala,44,Female,Dr. Bowers,12:17 PM,11-11-2023,migraine
+Jeremy Thomas,47,Male,Dr. Green,5:15 PM,04-10-2023,infection
+Stacy Brown,14,Male,Dr. Richard,12:59 PM,15-08-2024,flu
+Christine Taylor,62,Female,Dr. Richard,7:45 PM,10-08-2024,eczema
+Donna Miller,6,Male,Dr. Sullivan,4:25 AM,06-03-2024,obesity
+Shelia Silva,21,Female,Dr. Bowers,1:44 AM,20-07-2024,hypertension
+Melissa Medina,68,Male,Dr. Turner,8:13 AM,09-08-2024,psoriasis
+Justin Ramirez,38,Male,Dr. Green,1:16 AM,19-09-2023,arthritis
+Martin Lester,6,Male,Dr. Silva,5:25 PM,08-03-2024,pneumonia
+Jeffrey Miles,2,Male,Dr. Silva,7:43 PM,05-02-2024,parkinson’s disease
+David Townsend,50,Female,Dr. Richard,2:37 AM,30-07-2024,infection
+Amber Bennett,45,Female,Dr. Woods,6:11 PM,07-05-2024,hypertension
+Autumn Shepard,22,Male,Dr. Green,4:24 PM,09-10-2023,arthritis
+Larry Jones,72,Female,Dr. Silva,2:16 AM,28-09-2023,gastroesophageal reflux disease (gerd)
+Charles Gill,20,Male,Dr. Sullivan,10:29 AM,04-07-2024,gastroesophageal reflux disease (gerd)
+Stephanie Robinson,22,Male,Dr. Green,12:28 PM,06-03-2024,chronic fatigue syndrome
+Susan Barrett,24,Female,Dr. Fisher,9:16 AM,11-08-2024,depression
+Jerry Rivera,22,Male,Dr. Dixon,4:33 AM,24-07-2024,eczema
+Amy Hopkins,33,Male,Dr. Woods,4:09 PM,22-04-2024,back pain
+Anthony Perez,44,Male,Dr. Woods,6:47 AM,28-07-2024,irritable bowel syndrome (ibs)
+Patricia Baker,5,Female,Dr. Fisher,2:39 AM,11-10-2023,depression
+Dean Fitzpatrick,63,Female,Dr. Bowers,12:34 AM,22-10-2023,headache
+Angela Hardy,52,Female,Dr. Silva,5:25 PM,18-04-2024,infection
+Sarah Whitney,7,Female,Dr. Chang,4:26 PM,07-11-2023,hypertension
+Meghan Wiley,30,Female,Dr. Dixon,4:34 PM,04-08-2024,stroke
+Christine Robertson,32,Female,Dr. Bowers,3:54 AM,23-05-2024,flu
+David Lopez,38,Male,Dr. Green,8:02 AM,26-02-2024,depression
+Dustin Mcdowell,44,Male,Dr. Chang,12:10 PM,08-11-2023,back pain
+Kendra Rodriguez,23,Female,Dr. Silva,3:48 AM,18-06-2024,infection
+Barbara Sanford,32,Male,Dr. Sullivan,9:07 PM,16-04-2024,anxiety
+Anthony Everett,47,Male,Dr. Bowers,9:20 AM,22-09-2023,heart disease
+Dillon Hopkins,30,Female,Dr. Fisher,11:15 PM,27-10-2023,kidney stones
+Morgan Stewart,22,Female,Dr. Bowers,10:58 PM,26-09-2023,infection
+Amy Johnson,55,Male,Dr. Woods,7:42 PM,23-02-2024,heart disease
+Ronald Rodriguez,61,Male,Dr. Turner,1:10 AM,01-02-2024,eczema
+Terri Maddox,48,Male,Dr. Chang,5:39 AM,20-01-2024,headache
+David Brown,74,Female,Dr. Dixon,9:18 PM,26-10-2023,allergy
+Jessica Baker,19,Female,Dr. Bowers,6:39 PM,31-01-2024,hypertension
+Leslie Daugherty,51,Female,Dr. Sullivan,3:51 AM,17-02-2024,parkinson’s disease
+Ashley Taylor,74,Female,Dr. Sullivan,8:12 AM,20-03-2024,cold
+Ivan Kramer,3,Female,Dr. Bowers,2:55 AM,04-05-2024,kidney stones
+Amy Ortiz,22,Male,Dr. Sullivan,12:00 AM,07-09-2024,cold
+Rebecca Ramirez,76,Female,Dr. Bowers,8:05 AM,18-10-2023,headache
+Brenda Rogers,2,Female,Dr. Dixon,6:58 AM,02-10-2023,cold
+Jeff Ferguson,51,Male,Dr. Richard,12:57 AM,22-11-2023,kidney stones
+Christopher Montgomery,24,Male,Dr. Green,10:06 PM,27-10-2023,arthritis
+Ann Huber,21,Female,Dr. Turner,8:10 PM,11-08-2024,osteoporosis
+Patricia Brown,4,Male,Dr. Sullivan,11:38 PM,16-11-2023,chronic fatigue syndrome
+Joel Cunningham,5,Male,Dr. Green,10:56 AM,04-03-2024,arthritis
+Kathy Mcintyre,43,Male,Dr. Chang,6:56 AM,13-09-2023,heart disease
+Stephanie Bell,67,Male,Dr. Sullivan,5:00 AM,18-03-2024,migraine
+Emily Higgins,2,Male,Dr. Richard,9:53 PM,18-02-2024,gastroesophageal reflux disease (gerd)
+Lindsey Mccullough,6,Male,Dr. Bowers,3:37 AM,05-04-2024,hypertension
+Robin Coleman,8,Male,Dr. Bowers,5:05 AM,31-10-2023,psoriasis
+Monica Stewart,16,Female,Dr. Green,4:25 PM,27-04-2024,diabetes
+David Rosales,75,Female,Dr. Silva,11:26 AM,10-05-2024,depression
+James Hughes,80,Male,Dr. Bowers,4:56 AM,15-09-2023,eczema
+Diane Weiss,20,Male,Dr. Green,4:01 AM,18-06-2024,arthritis
+Rebecca Jones,21,Male,Dr. Bowers,8:03 AM,02-09-2024,anxiety
+Daniel Lee,50,Male,Dr. Sullivan,6:16 PM,02-11-2023,osteoporosis
+Samuel Gray,5,Male,Dr. Chang,12:58 PM,05-06-2024,kidney stones
+Ryan Hartman,55,Female,Dr. Richard,4:46 PM,16-06-2024,gastroesophageal reflux disease (gerd)
+Amber Hernandez,57,Female,Dr. Green,12:53 PM,31-05-2024,heart disease
+Jason Evans,74,Female,Dr. Dixon,9:10 PM,04-09-2024,osteoporosis
+Tracy Patterson,44,Female,Dr. Chang,11:19 PM,12-02-2024,depression
+Jesse Taylor,33,Male,Dr. Green,12:56 AM,21-10-2023,hypothyroidism
+Jason Hendrix,19,Female,Dr. Dixon,2:07 AM,27-10-2023,hypertension
+Bryan Galvan,48,Male,Dr. Chang,8:20 PM,23-03-2024,parkinson’s disease
+Melissa Nguyen,67,Male,Dr. Green,7:28 AM,03-04-2024,anemia
+Micheal Roberts,29,Male,Dr. Fisher,6:53 AM,07-12-2023,irritable bowel syndrome (ibs)
+Anna Kim,70,Female,Dr. Green,7:04 AM,11-06-2024,parkinson’s disease
+Krista Fowler,53,Male,Dr. Silva,4:39 AM,14-12-2023,osteoporosis
+Jesse Jones,11,Female,Dr. Bowers,9:51 AM,27-04-2024,depression
+Daniel Holland,18,Male,Dr. Sullivan,4:48 PM,18-09-2023,headache
+Linda Kelly,54,Male,Dr. Dixon,11:13 PM,23-10-2023,heart disease
+Michael Jefferson,74,Male,Dr. Fisher,5:52 PM,24-05-2024,anemia
+Luis Cooper,46,Male,Dr. Green,11:35 PM,01-08-2024,hypothyroidism
+Nicholas Hamilton,14,Female,Dr. Woods,5:07 PM,03-07-2024,asthma
+Melissa Keller,57,Female,Dr. Turner,4:26 PM,11-10-2023,psoriasis
+Joshua Newman,57,Female,Dr. Richard,8:48 PM,26-08-2024,migraine
+Alexander Owens,33,Female,Dr. Fisher,6:09 PM,24-09-2023,headache
+Tiffany Fox,62,Female,Dr. Turner,6:45 PM,03-07-2024,diabetes
+Tammie Garcia,50,Female,Dr. Silva,10:15 AM,20-05-2024,back pain
+John Bradley,30,Female,Dr. Chang,7:29 AM,04-05-2024,insomnia
+James Kane,52,Female,Dr. Richard,6:23 PM,14-01-2024,heart disease
+Laura Hebert,32,Female,Dr. Dixon,10:27 AM,22-11-2023,pneumonia
+Julia Thompson,63,Female,Dr. Turner,12:26 PM,28-01-2024,headache
+Jonathan Williams,52,Female,Dr. Dixon,8:43 PM,23-10-2023,eczema
+Shirley Price,76,Female,Dr. Green,8:28 PM,09-01-2024,back pain
+Nicole Li,10,Female,Dr. Woods,3:21 AM,28-10-2023,allergy
+Leonard Delgado,34,Female,Dr. Woods,9:11 PM,10-01-2024,irritable bowel syndrome (ibs)
+Christopher Powers,37,Female,Dr. Fisher,4:43 AM,05-12-2023,anxiety
+Amanda Washington,69,Female,Dr. Sullivan,11:46 PM,24-04-2024,pneumonia
+Jeff Hines,49,Male,Dr. Dixon,7:14 AM,04-08-2024,skin rash
+Amanda Spears,71,Male,Dr. Fisher,11:24 PM,28-09-2023,arthritis
+Janet Young,4,Female,Dr. Fisher,2:18 PM,01-06-2024,flu
+Kimberly Fry,79,Female,Dr. Sullivan,7:15 PM,30-03-2024,pneumonia
+Peggy Humphrey,80,Female,Dr. Bowers,12:49 AM,07-04-2024,eczema
+Rachel Ferguson,62,Female,Dr. Dixon,1:31 AM,17-03-2024,irritable bowel syndrome (ibs)
+Jessica Dorsey,32,Male,Dr. Sullivan,1:17 AM,18-10-2023,osteoporosis
+Yesenia Scott,37,Male,Dr. Turner,1:08 AM,21-04-2024,eczema
+Luis Wood,7,Female,Dr. Turner,8:16 PM,29-10-2023,hypothyroidism
+Raymond Lowe,80,Male,Dr. Bowers,5:38 AM,05-09-2024,obesity
+Rhonda Burns,43,Male,Dr. Fisher,6:41 AM,23-05-2024,pneumonia
+Jay Clarke,52,Male,Dr. Silva,5:13 AM,01-06-2024,obesity
+Ryan Ross,15,Male,Dr. Turner,5:32 PM,24-04-2024,anemia
+Olivia Powers,70,Female,Dr. Green,2:42 AM,14-01-2024,anxiety
+Timothy Richardson,8,Male,Dr. Dixon,9:18 PM,25-07-2024,hypertension
+Adam Valencia,20,Male,Dr. Bowers,6:17 PM,12-03-2024,psoriasis
+Kevin Rollins,52,Female,Dr. Bowers,12:10 AM,07-11-2023,obesity
+Lori Dennis,5,Male,Dr. Turner,7:29 AM,24-03-2024,headache
+Jennifer Wilson,55,Female,Dr. Richard,10:41 PM,17-11-2023,stroke
+Edward Lewis,52,Male,Dr. Sullivan,6:17 PM,02-09-2024,infection
+Christine Young,57,Female,Dr. Turner,4:01 PM,16-03-2024,cold
+Tricia Walsh,15,Male,Dr. Sullivan,11:39 AM,15-05-2024,kidney stones
+Robert Moore,60,Male,Dr. Richard,4:39 PM,28-07-2024,anemia
+Kathleen Walton,79,Male,Dr. Sullivan,8:26 AM,21-01-2024,hypertension
+Mr. Aaron Bridges,61,Male,Dr. Turner,11:54 PM,31-10-2023,gastroesophageal reflux disease (gerd)
+Christina Shah,22,Male,Dr. Sullivan,5:26 AM,18-08-2024,flu
+Lori Huff DVM,23,Male,Dr. Turner,5:24 PM,06-09-2024,migraine
+Cody Morris,45,Male,Dr. Chang,9:08 PM,26-09-2023,eczema
+Elizabeth Hayes,62,Male,Dr. Chang,3:40 PM,02-06-2024,obesity
+Cassandra Gibson,54,Male,Dr. Woods,9:51 AM,14-11-2023,anemia
+Jason Woodward,22,Female,Dr. Dixon,9:01 PM,04-06-2024,parkinson’s disease
+Antonio Orozco,77,Female,Dr. Dixon,7:12 AM,26-12-2023,psoriasis
+Grace Williams,38,Male,Dr. Silva,6:19 AM,21-01-2024,psoriasis
+Martin Gonzales Jr.,66,Male,Dr. Bowers,2:42 AM,04-08-2024,back pain
+Paul Nichols,16,Female,Dr. Sullivan,1:57 PM,14-08-2024,flu
+Elizabeth Graham,49,Female,Dr. Turner,11:19 PM,18-01-2024,migraine
+Matthew Gibson,46,Male,Dr. Chang,2:59 AM,13-12-2023,anxiety
+Michael Beltran,20,Female,Dr. Sullivan,12:32 PM,21-12-2023,kidney stones
+Andrew Weaver,47,Male,Dr. Turner,4:48 AM,22-04-2024,anxiety
+Heather Lam,62,Male,Dr. Bowers,7:25 AM,16-02-2024,headache
+Julie Gordon,68,Female,Dr. Woods,12:48 PM,29-12-2023,depression
+Michael Brown,8,Female,Dr. Richard,11:24 AM,17-05-2024,arthritis
+Robert Lee,27,Male,Dr. Bowers,4:26 AM,06-09-2024,arthritis
+Claudia Wilson,34,Male,Dr. Woods,12:53 AM,10-01-2024,stroke
+Joshua Baker,24,Female,Dr. Sullivan,7:34 AM,08-05-2024,psoriasis
+Jesse Daniel,76,Male,Dr. Richard,6:01 AM,15-09-2023,gastroesophageal reflux disease (gerd)
+Kevin Harper,43,Male,Dr. Sullivan,12:44 AM,18-06-2024,flu
+Lisa Russell,39,Male,Dr. Richard,9:14 AM,21-05-2024,skin rash
+Mr. Joseph Craig,50,Male,Dr. Silva,4:39 PM,04-09-2024,irritable bowel syndrome (ibs)
+David Spence,7,Female,Dr. Turner,7:29 AM,12-03-2024,stroke
+Nancy Jarvis,39,Female,Dr. Woods,7:58 AM,18-07-2024,hypertension
+Debra Reed DVM,72,Female,Dr. Silva,5:24 AM,01-01-2024,obesity
+Brittany Kramer,57,Male,Dr. Bowers,8:44 PM,03-09-2024,asthma
+Daniel Austin,6,Female,Dr. Green,7:42 AM,11-07-2024,headache
+James Martin,54,Female,Dr. Richard,4:39 PM,06-11-2023,migraine
+Lisa Meadows,36,Male,Dr. Dixon,12:21 PM,30-05-2024,psoriasis
+William Parker,50,Male,Dr. Woods,11:48 PM,18-12-2023,parkinson’s disease
+Gregory Meza,28,Female,Dr. Woods,1:17 AM,23-11-2023,flu
+Johnathan Hill,46,Male,Dr. Green,9:02 PM,12-08-2024,headache
+Jacqueline Middleton,19,Male,Dr. Silva,7:38 AM,15-09-2023,skin rash
+Mark Archer,18,Male,Dr. Woods,8:52 AM,02-08-2024,diabetes
+Joseph Ayala,16,Female,Dr. Green,12:08 AM,17-03-2024,allergy
+John Bond,80,Female,Dr. Chang,3:51 PM,03-07-2024,depression
+Kelsey Yates,47,Male,Dr. Woods,9:51 PM,06-01-2024,irritable bowel syndrome (ibs)
+Melanie Patrick,23,Female,Dr. Bowers,12:51 AM,14-06-2024,kidney stones
+Brandon Williams,5,Female,Dr. Chang,8:06 AM,05-08-2024,hypertension
+Colleen Wagner,57,Male,Dr. Woods,4:07 AM,26-06-2024,allergy
+James Bailey,75,Female,Dr. Richard,5:41 PM,11-03-2024,psoriasis
+Ashley Figueroa,52,Male,Dr. Dixon,7:39 AM,12-09-2023,hypertension
+Laurie Harrison,61,Female,Dr. Sullivan,9:45 AM,17-10-2023,osteoporosis
+Kimberly Jenkins,11,Female,Dr. Sullivan,6:16 PM,30-01-2024,migraine
+Jeffery Tran,11,Female,Dr. Richard,9:53 PM,17-06-2024,back pain
+William Dalton,56,Male,Dr. Turner,4:28 PM,17-07-2024,pneumonia
+Joseph Wong,71,Female,Dr. Fisher,5:48 AM,13-12-2023,skin rash
+Christopher Schneider DDS,72,Male,Dr. Woods,2:43 AM,11-08-2024,irritable bowel syndrome (ibs)
+Kelly Harrison,19,Female,Dr. Silva,8:54 AM,02-05-2024,hypothyroidism
+Annette Mcclure,23,Female,Dr. Richard,6:56 PM,17-05-2024,chronic fatigue syndrome
+Peter Stevens,21,Male,Dr. Silva,5:47 PM,13-04-2024,anxiety
+Amber Moses,28,Male,Dr. Silva,7:19 PM,11-12-2023,infection
+Ronald Ferrell,23,Female,Dr. Silva,9:38 PM,07-02-2024,asthma
+Mallory Hernandez,31,Female,Dr. Bowers,9:57 PM,23-11-2023,migraine
+Megan Hickman,5,Male,Dr. Dixon,4:02 AM,20-05-2024,migraine
+Candice Johnson,69,Male,Dr. Turner,6:28 AM,06-07-2024,flu
+Heather Rogers,19,Male,Dr. Dixon,8:24 AM,05-02-2024,flu
+Thomas Huff,65,Female,Dr. Silva,12:18 AM,05-09-2024,chronic fatigue syndrome
+Karla Joyce,47,Female,Dr. Woods,10:12 PM,16-10-2023,osteoporosis
+Stacy Ponce,38,Male,Dr. Green,11:21 AM,16-11-2023,headache
+Leslie Mccarty,44,Female,Dr. Dixon,8:12 AM,08-08-2024,gastroesophageal reflux disease (gerd)
+Joshua Wilson,17,Female,Dr. Fisher,11:37 AM,17-12-2023,hypertension
+Taylor Castro,54,Female,Dr. Green,12:50 PM,02-08-2024,migraine
+Steven Garcia,35,Female,Dr. Green,6:58 AM,17-10-2023,infection
+Amanda Frank,22,Male,Dr. Turner,4:11 AM,27-12-2023,chronic fatigue syndrome
+Rachel Bates,45,Female,Dr. Green,6:33 AM,13-11-2023,obesity
+Rodney Walker,66,Male,Dr. Green,12:48 AM,13-04-2024,anxiety
+Lori Kirby,44,Female,Dr. Dixon,10:26 PM,06-08-2024,back pain
+Alexis Leblanc,70,Male,Dr. Sullivan,10:20 AM,31-10-2023,back pain
+Jill Bryant,20,Male,Dr. Green,5:49 PM,20-04-2024,skin rash
+Rachael Stewart,50,Female,Dr. Silva,6:44 AM,21-06-2024,irritable bowel syndrome (ibs)
+Connor Castillo,73,Female,Dr. Sullivan,5:24 PM,10-08-2024,anxiety
+Amanda Abbott,41,Female,Dr. Fisher,1:00 AM,03-03-2024,insomnia
+Christopher Lewis,32,Male,Dr. Chang,9:14 PM,16-02-2024,chronic fatigue syndrome
+Melissa Abbott,50,Female,Dr. Bowers,1:18 PM,04-02-2024,pneumonia
+Tanner Martin,46,Female,Dr. Green,6:53 AM,16-02-2024,chronic fatigue syndrome
+Jason Rogers,51,Male,Dr. Green,10:15 AM,04-09-2024,pneumonia
+Megan Brown,62,Female,Dr. Silva,4:07 AM,07-12-2023,depression
+Joseph Garcia,67,Male,Dr. Silva,1:35 AM,26-07-2024,hypertension
+Michelle Montgomery,41,Female,Dr. Green,2:18 PM,14-04-2024,eczema
+Timothy King,54,Male,Dr. Bowers,2:46 AM,01-08-2024,asthma
+Joseph Madden,54,Female,Dr. Fisher,9:51 AM,26-07-2024,eczema
+Matthew Roberson,14,Male,Dr. Turner,4:47 AM,18-07-2024,infection
+Courtney Ramirez,21,Male,Dr. Dixon,5:00 PM,10-10-2023,depression
+Nicholas Simpson,20,Male,Dr. Silva,7:01 PM,17-06-2024,flu
+Thomas Gonzalez,2,Female,Dr. Chang,4:09 AM,15-10-2023,chronic fatigue syndrome
+Marc Long,76,Female,Dr. Chang,11:17 PM,24-08-2024,parkinson’s disease
+Kevin Lynch,78,Male,Dr. Dixon,5:17 AM,22-02-2024,heart disease
+Brett Williams,68,Female,Dr. Green,4:12 AM,11-01-2024,cold
+Daniel Lozano,15,Female,Dr. Richard,11:38 AM,06-01-2024,infection
+Corey Ray,28,Male,Dr. Richard,7:54 AM,31-08-2024,flu
+Max Clark,78,Female,Dr. Sullivan,8:23 PM,20-03-2024,flu
+Angela Gomez,79,Male,Dr. Chang,12:06 PM,17-02-2024,diabetes
+Lucas Smith,67,Male,Dr. Turner,4:19 PM,27-06-2024,back pain
+Brian Guzman,16,Male,Dr. Dixon,10:12 AM,15-02-2024,gastroesophageal reflux disease (gerd)
+Michael West,36,Male,Dr. Dixon,4:48 AM,21-01-2024,heart disease
+David Frederick,80,Male,Dr. Turner,9:56 PM,12-02-2024,gastroesophageal reflux disease (gerd)
+Nicole Stewart,23,Male,Dr. Bowers,5:06 PM,09-03-2024,eczema
+Destiny Johnson,50,Female,Dr. Dixon,10:41 AM,10-02-2024,heart disease
+Michael Sanchez,12,Male,Dr. Green,1:44 PM,14-12-2023,cold
+Emily Weber MD,6,Male,Dr. Woods,8:03 AM,21-09-2023,cold
+Robert Harper,3,Female,Dr. Sullivan,9:33 PM,24-10-2023,stroke
+James Fuller,16,Female,Dr. Woods,7:01 AM,27-12-2023,asthma
+Jessica Ellis,48,Female,Dr. Silva,8:33 PM,11-01-2024,cold
+Leah Wise,63,Female,Dr. Chang,12:24 AM,30-03-2024,depression
+Melissa Roman,42,Female,Dr. Sullivan,1:29 AM,29-09-2023,chronic fatigue syndrome
+Cathy Bush,15,Female,Dr. Bowers,7:26 PM,25-08-2024,back pain
+Jessica Torres,59,Male,Dr. Sullivan,7:00 PM,08-01-2024,back pain
+Todd Jennings,49,Female,Dr. Chang,12:10 PM,04-01-2024,flu
+Margaret Collins,76,Female,Dr. Woods,1:46 AM,13-01-2024,kidney stones
+Sharon Cabrera,34,Female,Dr. Fisher,1:40 AM,17-03-2024,stroke
+Kathryn Weiss,64,Male,Dr. Silva,2:26 PM,09-10-2023,anxiety
+Angela Malone,31,Female,Dr. Turner,11:53 AM,04-05-2024,arthritis
+Kathy Walker,22,Male,Dr. Silva,10:52 PM,19-04-2024,heart disease
+Jonathan Petersen,73,Female,Dr. Silva,5:33 AM,28-10-2023,anxiety
+Sean Coleman Jr.,72,Female,Dr. Bowers,10:19 AM,31-07-2024,cold
+Robert Lynch,11,Male,Dr. Woods,3:47 PM,21-09-2023,infection
+Michelle Horton,67,Female,Dr. Sullivan,3:47 PM,03-05-2024,back pain
+Michelle Stephens,23,Female,Dr. Dixon,9:59 AM,09-06-2024,obesity
+Tammie House,5,Male,Dr. Woods,4:29 AM,19-10-2023,heart disease
+Jonathan Fowler,23,Male,Dr. Fisher,4:30 PM,09-02-2024,heart disease
+Jason Jacobs,68,Female,Dr. Fisher,4:32 PM,14-12-2023,heart disease
+Amanda Morris,54,Male,Dr. Chang,10:18 AM,09-09-2023,arthritis
+Christopher Nguyen,79,Male,Dr. Fisher,5:42 AM,02-01-2024,osteoporosis
+Katherine Jones PhD,28,Female,Dr. Chang,1:48 AM,07-12-2023,chronic fatigue syndrome
+Dr. Lisa Powell,58,Female,Dr. Dixon,8:53 AM,08-01-2024,kidney stones
+Laura White,53,Male,Dr. Richard,6:28 AM,18-10-2023,hypothyroidism
+Karen Hale,35,Female,Dr. Green,5:26 AM,18-06-2024,pneumonia
+Dylan Torres,4,Female,Dr. Woods,6:14 PM,06-02-2024,asthma
+Michael Bell,77,Male,Dr. Sullivan,5:07 AM,18-02-2024,chronic fatigue syndrome
+Alexis Johnson,19,Female,Dr. Bowers,1:46 PM,25-12-2023,flu
+Thomas Williams,51,Male,Dr. Woods,10:14 AM,03-10-2023,depression
+Zachary Collins,23,Male,Dr. Sullivan,6:45 AM,07-07-2024,arthritis
+Arthur Miller,58,Male,Dr. Chang,12:37 AM,05-06-2024,parkinson’s disease
+Kevin Johnson,74,Female,Dr. Woods,9:32 AM,14-09-2023,parkinson’s disease
+Teresa Cook,8,Female,Dr. Silva,5:02 AM,05-12-2023,arthritis
+Lisa Johnson,50,Male,Dr. Turner,4:56 PM,29-12-2023,chronic fatigue syndrome
+Vanessa Quinn,13,Male,Dr. Richard,1:56 PM,11-04-2024,migraine
+Jennifer Wyatt,77,Male,Dr. Green,10:10 PM,18-09-2023,allergy
+Henry Poole,53,Male,Dr. Woods,11:53 PM,06-10-2023,headache
+Connor Brown,44,Male,Dr. Bowers,6:50 PM,23-07-2024,osteoporosis
+Stephen Townsend,31,Female,Dr. Richard,7:47 PM,12-06-2024,skin rash
+Sarah Hernandez,66,Female,Dr. Bowers,7:15 PM,25-03-2024,migraine
+Dr. Sabrina Scott,60,Male,Dr. Bowers,7:23 PM,25-04-2024,anemia
+Logan Brady,7,Male,Dr. Silva,5:35 AM,21-12-2023,insomnia
+Brittany Walker,63,Male,Dr. Woods,10:00 AM,25-07-2024,back pain
+Robin Phillips,15,Male,Dr. Woods,4:14 PM,07-11-2023,hypertension
+Michael Miller,36,Female,Dr. Green,11:47 PM,05-12-2023,eczema
+Derrick Johnson,66,Female,Dr. Chang,7:37 AM,27-11-2023,gastroesophageal reflux disease (gerd)
+Edward Kline,64,Male,Dr. Chang,9:06 PM,10-12-2023,hypothyroidism
+Cynthia Parker,72,Male,Dr. Sullivan,7:39 PM,29-12-2023,arthritis
+Virginia Hill,52,Female,Dr. Bowers,3:35 PM,08-07-2024,psoriasis
+Brian Jones,62,Male,Dr. Woods,6:30 AM,03-10-2023,hypertension
+Matthew Cohen,35,Male,Dr. Dixon,5:51 PM,11-10-2023,psoriasis
+Samantha Hill,25,Male,Dr. Green,11:11 PM,10-08-2024,insomnia
+Tony Warren,31,Male,Dr. Turner,9:07 PM,18-08-2024,migraine
+Michaela Livingston,71,Male,Dr. Turner,9:34 PM,04-12-2023,psoriasis
+Reginald Wallace,48,Female,Dr. Fisher,9:56 AM,07-03-2024,hypertension
+Omar Mendez,22,Male,Dr. Silva,9:34 AM,04-10-2023,anemia
+Kevin Garcia,40,Female,Dr. Silva,7:28 PM,17-09-2023,stroke
+Amanda Jones,79,Male,Dr. Dixon,1:37 AM,17-03-2024,depression
+Rachel Peck,20,Male,Dr. Woods,3:56 PM,28-06-2024,anemia
+Todd Shaw,60,Female,Dr. Woods,9:52 PM,29-10-2023,eczema
+Edward Simpson,10,Male,Dr. Turner,10:56 AM,28-06-2024,allergy
+Amy Daniels,10,Female,Dr. Sullivan,2:37 AM,24-01-2024,flu
+Sharon Watson,63,Female,Dr. Chang,5:13 AM,12-08-2024,allergy
+Matthew Perez,52,Male,Dr. Richard,10:08 AM,13-08-2024,headache
+Joanna Allen,74,Female,Dr. Sullivan,2:14 PM,15-07-2024,migraine
+Kevin Gregory,54,Male,Dr. Sullivan,8:19 PM,10-08-2024,osteoporosis
+James Church,73,Female,Dr. Turner,4:24 AM,21-02-2024,hypertension
+Kevin Bryant,13,Female,Dr. Fisher,8:31 PM,04-02-2024,psoriasis
+David Brooks,35,Male,Dr. Woods,12:49 PM,17-05-2024,heart disease
+Jordan Barajas,63,Female,Dr. Dixon,1:26 PM,16-01-2024,headache
+Debbie Anderson,31,Female,Dr. Richard,12:29 PM,14-08-2024,parkinson’s disease
+Amanda Gonzalez,16,Female,Dr. Chang,12:51 PM,05-07-2024,asthma
+David Ellis,39,Male,Dr. Turner,12:05 PM,07-03-2024,parkinson’s disease
+Katelyn Morris,20,Female,Dr. Fisher,12:55 AM,31-10-2023,skin rash
+Jonathan Smith,48,Male,Dr. Turner,8:08 AM,05-05-2024,hypothyroidism
+Joshua Glenn,14,Female,Dr. Dixon,12:19 PM,16-05-2024,gastroesophageal reflux disease (gerd)
+Gary Collins,19,Male,Dr. Woods,10:55 PM,02-05-2024,gastroesophageal reflux disease (gerd)
+Kayla Nolan,9,Male,Dr. Fisher,2:23 PM,11-09-2023,psoriasis
+Dawn Hughes,19,Female,Dr. Fisher,11:13 AM,01-07-2024,skin rash
+Anthony Noble,77,Male,Dr. Silva,8:19 AM,30-08-2024,chronic fatigue syndrome
+Samantha Perez,73,Female,Dr. Chang,5:02 AM,24-11-2023,hypothyroidism
+Kimberly Anderson,27,Male,Dr. Green,11:56 AM,24-07-2024,migraine
+Teresa Dorsey,2,Female,Dr. Woods,10:08 PM,05-09-2024,anxiety
+Kevin Case,6,Female,Dr. Fisher,1:27 PM,25-02-2024,gastroesophageal reflux disease (gerd)
+Kathleen Mercado DVM,53,Female,Dr. Turner,9:37 PM,02-12-2023,arthritis
+Meghan Pineda,73,Male,Dr. Richard,5:54 PM,01-07-2024,hypertension
+Barbara Clark,79,Male,Dr. Chang,7:44 AM,19-05-2024,irritable bowel syndrome (ibs)
+Christopher Black,64,Female,Dr. Woods,1:15 PM,07-10-2023,chronic fatigue syndrome
+Edward Cooper,15,Male,Dr. Sullivan,11:03 PM,25-12-2023,pneumonia
+John Beasley,62,Male,Dr. Sullivan,7:42 AM,30-03-2024,kidney stones
+Pamela Price,73,Male,Dr. Bowers,12:19 AM,12-07-2024,infection
+Hannah Parker DDS,46,Male,Dr. Sullivan,5:22 PM,02-08-2024,parkinson’s disease
+Jamie Ortiz,45,Male,Dr. Green,10:22 PM,08-07-2024,parkinson’s disease
+Luis Scott,14,Female,Dr. Chang,4:20 PM,24-10-2023,flu
+Amber Olson,2,Female,Dr. Bowers,2:21 PM,30-04-2024,obesity
+Jennifer Harper,32,Male,Dr. Turner,3:29 PM,03-01-2024,cold
+Adrian King,31,Male,Dr. Silva,3:44 PM,25-08-2024,obesity
+Robert Nelson,65,Male,Dr. Silva,5:38 PM,08-03-2024,parkinson’s disease
+Michelle Boone,41,Male,Dr. Woods,3:22 PM,29-05-2024,migraine
+Jason Rivera,37,Male,Dr. Chang,3:48 PM,05-02-2024,insomnia
+Thomas Logan,30,Female,Dr. Silva,6:44 AM,09-06-2024,hypertension
+Lance Colon,3,Female,Dr. Silva,4:43 PM,23-11-2023,flu
+Rodney Nichols,65,Female,Dr. Silva,11:15 AM,03-02-2024,hypertension
+Robin Davis,47,Male,Dr. Turner,3:19 PM,15-12-2023,osteoporosis
+Jodi Richard,67,Female,Dr. Dixon,5:19 AM,18-10-2023,flu
+Eric Nichols,45,Male,Dr. Richard,9:42 PM,19-07-2024,psoriasis
+Glenda Shelton,13,Female,Dr. Sullivan,10:26 PM,14-02-2024,flu
+Gabriela Jones,11,Female,Dr. Woods,6:30 PM,29-09-2023,back pain
+Adrian Thomas,41,Male,Dr. Turner,9:24 PM,03-10-2023,headache
+Destiny Martinez,75,Female,Dr. Chang,12:58 AM,21-07-2024,eczema
+Candice Peterson,56,Male,Dr. Woods,8:01 PM,11-01-2024,pneumonia
+Shari Campos,30,Male,Dr. Dixon,3:54 PM,17-01-2024,cold
+Veronica Robertson,49,Female,Dr. Chang,9:18 PM,06-01-2024,asthma
+John Watson,50,Female,Dr. Silva,1:57 AM,30-05-2024,cold
+Jon Underwood,20,Male,Dr. Sullivan,2:15 PM,12-11-2023,cold
+Michele Ayers,31,Male,Dr. Richard,4:53 AM,28-07-2024,flu
+Nicholas Moody,38,Female,Dr. Silva,12:12 AM,28-10-2023,allergy
+Morgan Stewart,27,Female,Dr. Fisher,6:45 PM,07-05-2024,irritable bowel syndrome (ibs)
+Chris Davenport,63,Male,Dr. Dixon,2:13 PM,20-09-2023,cold
+Christopher Stevens MD,47,Male,Dr. Fisher,8:21 PM,11-12-2023,stroke
+Mr. Cody Burke,38,Male,Dr. Sullivan,11:07 PM,10-05-2024,stroke
+Ricardo Collins,51,Male,Dr. Turner,1:36 AM,05-06-2024,chronic fatigue syndrome
+Krystal Morris,80,Male,Dr. Green,12:59 PM,16-05-2024,hypertension
+Jared Jones,18,Male,Dr. Bowers,3:25 PM,21-05-2024,hypothyroidism
+Tamara Bowman,17,Female,Dr. Sullivan,12:16 PM,30-08-2024,skin rash
+Rachel Davis,53,Female,Dr. Woods,2:24 PM,14-10-2023,anemia
+Melissa Hernandez,47,Female,Dr. Richard,3:55 AM,01-01-2024,anxiety
+Rebekah Allen,66,Female,Dr. Sullivan,7:07 AM,31-08-2024,insomnia
+Brian Parker,62,Male,Dr. Sullivan,6:02 PM,22-09-2023,insomnia
+Roy Woods,31,Male,Dr. Silva,6:02 AM,06-12-2023,irritable bowel syndrome (ibs)
+Cynthia Lyons,49,Female,Dr. Turner,8:07 PM,15-11-2023,obesity
+Jennifer Atkins,47,Female,Dr. Green,8:19 PM,25-02-2024,infection
+Blake Williams,57,Male,Dr. Turner,2:54 PM,08-08-2024,anemia
+Sandra Reese,37,Female,Dr. Bowers,3:43 AM,12-05-2024,flu
+Elizabeth Ayala,47,Male,Dr. Silva,12:34 PM,18-04-2024,kidney stones
+Lindsay Lindsey,53,Female,Dr. Silva,1:12 AM,18-02-2024,headache
+Mary Lloyd,38,Male,Dr. Sullivan,3:41 PM,04-08-2024,parkinson’s disease
+Cindy Clark,15,Female,Dr. Bowers,10:40 PM,01-06-2024,flu
+Sierra Montoya,63,Male,Dr. Bowers,12:54 AM,10-07-2024,heart disease
+Brittney Baker,39,Female,Dr. Turner,3:06 AM,16-01-2024,arthritis
+Misty Ramsey,17,Female,Dr. Green,4:07 AM,15-05-2024,pneumonia
+Meghan Carter,59,Male,Dr. Fisher,9:58 PM,24-10-2023,parkinson’s disease
+Erin Shah,21,Female,Dr. Turner,10:59 PM,10-03-2024,asthma
+Chloe Foley,46,Female,Dr. Richard,11:44 AM,27-04-2024,parkinson’s disease
+Sonya Lucas,33,Male,Dr. Green,5:03 AM,31-08-2024,osteoporosis
+Benjamin Anderson,25,Male,Dr. Richard,1:54 AM,28-08-2024,diabetes
+Karen Richards,45,Male,Dr. Turner,3:37 PM,31-07-2024,arthritis
+Mike Ryan,65,Female,Dr. Richard,11:41 PM,08-10-2023,gastroesophageal reflux disease (gerd)
+Savannah Miller,31,Female,Dr. Fisher,10:18 PM,23-05-2024,infection
+Cynthia Booker,16,Male,Dr. Chang,5:55 PM,02-02-2024,arthritis
+Jason Beltran,51,Male,Dr. Fisher,3:56 AM,16-05-2024,psoriasis
+Amanda Stafford,51,Male,Dr. Woods,2:00 AM,09-03-2024,obesity
+James Thomas,61,Male,Dr. Green,12:50 PM,22-06-2024,hypertension
+Maria Strong DDS,67,Male,Dr. Chang,12:28 AM,01-05-2024,eczema
+Shelley Rosario,61,Female,Dr. Chang,10:24 PM,27-09-2023,flu
+Tiffany Estrada,74,Male,Dr. Bowers,7:48 PM,31-08-2024,chronic fatigue syndrome
+Tammy Bender,30,Female,Dr. Green,9:50 PM,01-08-2024,hypertension
+April Richards,53,Male,Dr. Woods,10:55 AM,20-10-2023,diabetes
+Mariah Lee,66,Male,Dr. Richard,7:13 PM,13-11-2023,psoriasis
+George Rose,41,Male,Dr. Fisher,1:35 PM,10-03-2024,insomnia
+Jacob Davis,64,Female,Dr. Bowers,11:57 PM,05-06-2024,flu
+Jasmine Dixon,31,Female,Dr. Fisher,4:38 AM,15-02-2024,asthma
+Zachary Carter,42,Male,Dr. Chang,10:16 AM,05-07-2024,depression
+Rebecca Jackson,68,Female,Dr. Bowers,4:14 AM,29-06-2024,insomnia
+Harold Jackson,2,Male,Dr. Sullivan,9:34 PM,19-12-2023,hypothyroidism
+Nicole Santos,13,Male,Dr. Woods,3:07 AM,02-12-2023,chronic fatigue syndrome
+Anna Perry,62,Male,Dr. Green,9:03 AM,07-06-2024,osteoporosis
+Dr. Jesse Ryan MD,42,Female,Dr. Turner,3:39 PM,16-02-2024,stroke
+Aaron Vance,52,Female,Dr. Richard,9:13 PM,07-01-2024,hypertension
+Alicia Hernandez,31,Female,Dr. Chang,11:08 PM,14-11-2023,hypertension
+Laura Miller,57,Male,Dr. Chang,5:11 PM,12-10-2023,skin rash
+Regina Green,8,Male,Dr. Green,8:49 AM,17-10-2023,allergy
+Oscar Long,75,Female,Dr. Woods,8:40 AM,03-03-2024,hypertension
+Dustin Tran,7,Male,Dr. Chang,1:40 AM,10-07-2024,infection
+Jennifer Stewart,54,Female,Dr. Chang,1:44 PM,11-05-2024,migraine
+Vanessa Camacho,13,Male,Dr. Woods,12:49 PM,15-09-2023,eczema
+Carl Guerrero II,35,Female,Dr. Chang,1:55 PM,30-12-2023,headache
+Mark Walker,27,Female,Dr. Silva,5:34 PM,07-06-2024,insomnia
+Kathy Hamilton,43,Female,Dr. Chang,4:36 AM,11-11-2023,headache
+Julia Le,24,Female,Dr. Richard,7:14 PM,22-07-2024,irritable bowel syndrome (ibs)
+Natasha Mcclain,16,Male,Dr. Fisher,10:23 PM,11-08-2024,infection
+Michael Smith,25,Female,Dr. Dixon,8:57 AM,07-09-2024,psoriasis
+Patrick Parker,48,Male,Dr. Turner,4:55 PM,02-08-2024,heart disease
+Justin Clay,5,Female,Dr. Silva,10:36 PM,28-07-2024,anxiety
+Christy Carter,31,Female,Dr. Woods,1:03 PM,13-05-2024,hypothyroidism
+Gary Williams,7,Male,Dr. Fisher,2:53 PM,19-07-2024,depression
+Kiara Rodriguez,3,Female,Dr. Dixon,5:13 PM,31-07-2024,gastroesophageal reflux disease (gerd)
+Charles Valencia,50,Male,Dr. Dixon,3:34 PM,28-10-2023,chronic fatigue syndrome
+Elizabeth Alexander,70,Male,Dr. Silva,4:59 PM,06-02-2024,anemia
+Nicholas Hicks,2,Male,Dr. Silva,12:09 AM,06-11-2023,psoriasis
+David Smith,18,Male,Dr. Silva,6:15 PM,08-12-2023,arthritis
+Seth Gilmore,16,Female,Dr. Green,6:59 PM,06-06-2024,diabetes
+Tina Pruitt,79,Male,Dr. Sullivan,1:34 PM,22-10-2023,anemia
+Jennifer Stewart,79,Female,Dr. Dixon,9:05 AM,06-02-2024,irritable bowel syndrome (ibs)
+Juan Wells,27,Male,Dr. Fisher,9:42 PM,06-11-2023,chronic fatigue syndrome
+Andrew Robinson,12,Female,Dr. Turner,9:45 PM,23-11-2023,osteoporosis
+Jerry Barrera,61,Female,Dr. Fisher,2:26 AM,11-11-2023,depression
+Debra Gregory,27,Male,Dr. Sullivan,12:41 AM,15-03-2024,hypertension
+Stephanie Turner,2,Male,Dr. Green,7:39 AM,01-02-2024,pneumonia
+Kurt Barnes,68,Female,Dr. Green,7:40 PM,26-08-2024,chronic fatigue syndrome
+Curtis Harmon,55,Male,Dr. Fisher,8:02 AM,16-04-2024,chronic fatigue syndrome
+Marisa Hart,10,Female,Dr. Silva,7:48 PM,08-05-2024,osteoporosis
+Shannon Smith,70,Male,Dr. Bowers,3:17 AM,19-10-2023,kidney stones
+Alicia Russell,24,Female,Dr. Turner,10:13 PM,15-09-2023,hypertension
+Daniel Graham,31,Male,Dr. Bowers,2:10 PM,30-06-2024,parkinson’s disease
+Nathaniel Henry,31,Male,Dr. Richard,7:31 AM,07-06-2024,skin rash
+Denise Ponce,55,Female,Dr. Silva,2:40 PM,19-07-2024,asthma
+Janet Moore,50,Female,Dr. Fisher,10:45 PM,05-02-2024,back pain
+Benjamin Williams,62,Male,Dr. Silva,10:55 AM,19-09-2023,hypertension
+Helen Mcdonald,2,Male,Dr. Richard,5:48 PM,06-08-2024,anxiety
+Robert Morales,57,Male,Dr. Dixon,5:24 AM,14-02-2024,allergy
+Michael Reyes,28,Female,Dr. Chang,6:48 AM,04-08-2024,allergy
+Judith Carroll,50,Female,Dr. Richard,1:06 AM,22-12-2023,parkinson’s disease
+David Harding,7,Male,Dr. Bowers,12:34 PM,16-12-2023,back pain
+Makayla Mitchell,80,Female,Dr. Richard,11:36 PM,13-01-2024,flu
+Kristen Perkins,36,Female,Dr. Fisher,5:39 AM,04-07-2024,skin rash
+Deanna Pena,5,Male,Dr. Green,6:17 AM,12-06-2024,chronic fatigue syndrome
+Eric Torres,76,Male,Dr. Dixon,5:32 AM,25-03-2024,depression
+Aaron Harris,46,Male,Dr. Chang,1:03 AM,19-07-2024,insomnia
+Rebecca Smith,49,Female,Dr. Green,10:13 PM,07-04-2024,allergy
+Kaylee Davis,45,Male,Dr. Richard,6:03 AM,13-04-2024,diabetes
+Heidi Reyes,60,Female,Dr. Silva,3:05 AM,13-10-2023,pneumonia
+Lee Bass,19,Female,Dr. Turner,3:26 AM,28-11-2023,irritable bowel syndrome (ibs)
+Emily Merritt,78,Female,Dr. Bowers,1:58 PM,24-01-2024,arthritis
+Marcus Graves,68,Female,Dr. Bowers,11:19 PM,21-06-2024,irritable bowel syndrome (ibs)
+Jennifer Perry,13,Male,Dr. Turner,5:30 PM,12-07-2024,arthritis
+Gina Schmitt,34,Male,Dr. Green,4:34 AM,23-05-2024,hypertension
+Charles Morgan,15,Female,Dr. Dixon,3:52 AM,04-10-2023,obesity
+Zachary Beasley,15,Female,Dr. Chang,5:07 PM,21-01-2024,back pain
+Denise Campbell,36,Male,Dr. Sullivan,8:38 PM,21-09-2023,heart disease
+Kevin Walker,5,Male,Dr. Turner,1:09 AM,16-07-2024,eczema
+Steven Adams,20,Female,Dr. Bowers,6:10 PM,14-12-2023,hypertension
+Beverly Mitchell,19,Female,Dr. Sullivan,4:33 PM,21-03-2024,stroke
+Donald Smith,50,Female,Dr. Silva,6:42 AM,16-05-2024,migraine
+Todd Garrett,28,Female,Dr. Richard,11:09 PM,30-05-2024,diabetes
+Joanne Brown,75,Female,Dr. Richard,9:09 PM,27-07-2024,migraine
+John Perez,42,Female,Dr. Chang,5:36 AM,13-02-2024,stroke
+Dennis Mcdonald,27,Male,Dr. Silva,2:53 AM,28-06-2024,back pain
+Paul Shepard,55,Female,Dr. Silva,7:14 PM,14-10-2023,allergy
+Ann Wilson,67,Male,Dr. Turner,8:43 AM,01-05-2024,hypothyroidism
+Brady Daniels,66,Female,Dr. Turner,3:02 PM,20-05-2024,back pain
+Donna Boyd,17,Male,Dr. Green,1:02 AM,04-10-2023,back pain
+Carol Noble,73,Female,Dr. Turner,9:05 AM,25-03-2024,depression
+Spencer Brooks,15,Male,Dr. Woods,11:48 AM,08-10-2023,infection
+Sierra Rivas,62,Male,Dr. Richard,2:58 AM,05-05-2024,parkinson’s disease
+David Garcia,17,Male,Dr. Dixon,11:19 PM,05-01-2024,osteoporosis
+Jennifer Marshall,67,Female,Dr. Green,3:44 PM,23-09-2023,diabetes
+Benjamin Skinner,59,Male,Dr. Richard,8:17 PM,06-02-2024,kidney stones
+Carmen Lopez,62,Female,Dr. Green,10:08 PM,19-09-2023,obesity
+Derek Taylor,24,Male,Dr. Sullivan,8:13 PM,20-04-2024,migraine
+Tyler Wallace,60,Female,Dr. Woods,1:26 AM,03-09-2024,infection
+Krystal Miles,72,Female,Dr. Dixon,7:13 PM,15-07-2024,flu
+Erin Sandoval,45,Male,Dr. Richard,2:51 PM,18-08-2024,allergy
+Edward Johnson,18,Male,Dr. Bowers,2:45 PM,08-09-2024,skin rash
+Scott Barry,55,Female,Dr. Sullivan,1:39 PM,25-03-2024,anxiety
+Sarah Kennedy,34,Female,Dr. Green,8:37 AM,09-02-2024,infection
+John Higgins,50,Female,Dr. Green,2:28 PM,15-02-2024,cold
+Carl Rollins,12,Male,Dr. Green,8:42 PM,21-07-2024,psoriasis
+Matthew Gay,74,Male,Dr. Sullivan,1:23 AM,16-10-2023,cold
+Jennifer Fernandez,66,Male,Dr. Richard,3:15 AM,21-01-2024,headache
+Jerry Bradley MD,44,Male,Dr. Silva,11:42 AM,28-07-2024,hypertension
+Victor Mckee,31,Male,Dr. Chang,3:39 AM,09-07-2024,asthma
+Jessica Zamora,60,Male,Dr. Richard,12:30 PM,01-12-2023,parkinson’s disease
+Marvin Schaefer,33,Female,Dr. Chang,6:43 AM,21-05-2024,anemia
+Ralph Peck,46,Female,Dr. Green,4:28 AM,03-08-2024,anemia
+Justin Rivera,63,Female,Dr. Sullivan,3:45 AM,16-07-2024,infection
+Gabriela Sanchez,54,Male,Dr. Silva,7:35 PM,27-06-2024,depression
+Brent Moore,5,Female,Dr. Chang,3:54 AM,19-03-2024,eczema
+Michael Rivera,59,Male,Dr. Woods,12:27 AM,06-07-2024,hypothyroidism
+Michael Evans,2,Male,Dr. Bowers,10:06 AM,29-07-2024,osteoporosis
+Tabitha Richards,72,Female,Dr. Dixon,7:01 PM,14-07-2024,skin rash
+Tammy Long,53,Male,Dr. Green,6:02 PM,15-11-2023,osteoporosis
+Alicia Chen,59,Male,Dr. Fisher,11:00 PM,22-09-2023,anxiety
+Laura Phillips,30,Female,Dr. Turner,5:24 AM,05-10-2023,migraine
+Janet Phillips,56,Male,Dr. Turner,10:04 AM,21-11-2023,depression
+Darin Wells,32,Male,Dr. Turner,7:36 AM,08-04-2024,cold
+Albert Johnson,34,Female,Dr. Green,12:57 PM,01-11-2023,anxiety
+Edwin Williams,63,Male,Dr. Silva,7:24 AM,12-04-2024,asthma
+Annette Parker,62,Male,Dr. Chang,11:12 PM,22-12-2023,cold
+Nancy Patterson,20,Male,Dr. Woods,8:10 PM,20-04-2024,migraine
+Debbie Henderson,31,Female,Dr. Woods,10:20 AM,26-02-2024,flu
+Emily Lara,58,Female,Dr. Fisher,9:49 PM,07-12-2023,heart disease
+Michael White,38,Female,Dr. Chang,7:35 PM,20-11-2023,anxiety
+Cesar Elliott,48,Female,Dr. Sullivan,9:57 PM,08-02-2024,diabetes
+Ashbi,,,Dr. Green,,,headache
+Ashbi,21,Female,Dr. Green,,,osteoporosis
